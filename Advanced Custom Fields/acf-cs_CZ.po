@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/advanced-custom-fields\n"
 "POT-Creation-Date: 2014-01-05 07:41:49+00:00\n"
-"PO-Revision-Date: 2014-01-27 18:03+0100\n"
+"PO-Revision-Date: 2014-01-27 18:28+0100\n"
 "Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
 "Language-Team: webees.cz s.r.o. <jakubmachala@webees.cz>\n"
 "MIME-Version: 1.0\n"
@@ -212,17 +212,17 @@ msgstr ""
 
 #: core/controllers/addons.php:219 core/controllers/addons.php:240
 msgid "Installed"
-msgstr ""
+msgstr "Instalováno"
 
 #: core/controllers/addons.php:221
 msgid "Purchase & Install"
-msgstr ""
+msgstr "Koupit & instalovat"
 
 #: core/controllers/addons.php:242 core/controllers/field_groups.php:422
 #: core/controllers/field_groups.php:431 core/controllers/field_groups.php:439
 #: core/controllers/field_groups.php:447 core/controllers/field_groups.php:455
 msgid "Download"
-msgstr ""
+msgstr "Stáhnout"
 
 #: core/controllers/export.php:50 core/controllers/export.php:159
 msgid "Export"
@@ -331,7 +331,7 @@ msgstr "Vložte jej do vašeho souboru functions.php"
 #: core/controllers/export.php:275 core/controllers/export.php:304
 msgid "To activate any Add-ons, edit and use the code in the first few lines."
 msgstr ""
-"K aktivací kteréhokoli přídavku upravte a použijte kód na prvních několika "
+"K aktivací kteréhokoli add-onu upravte a použijte kód na prvních několika "
 "řádcích."
 
 #: core/controllers/export.php:295
@@ -344,11 +344,11 @@ msgstr "Instrukce"
 
 #: core/controllers/export.php:309
 msgid "Notes"
-msgstr ""
+msgstr "Poznámky"
 
 #: core/controllers/export.php:316
 msgid "Include in theme"
-msgstr ""
+msgstr "Zahrnout v šabloně"
 
 #: core/controllers/export.php:317
 msgid ""
@@ -887,7 +887,7 @@ msgstr "Volba"
 #: core/fields/checkbox.php:146 core/fields/radio.php:147
 #: core/fields/select.php:177
 msgid "Choices"
-msgstr "Možnosti"
+msgstr "Volby"
 
 #: core/fields/checkbox.php:147 core/fields/select.php:178
 msgid "Enter each choice on a new line."
@@ -1103,7 +1103,7 @@ msgstr ""
 
 #: core/fields/google-map.php:33
 msgid "Locating"
-msgstr "Lokace"
+msgstr "Umístění"
 
 #: core/fields/google-map.php:34
 msgid "Sorry, this browser does not support geolocation"
@@ -1275,7 +1275,7 @@ msgstr "Filtrovat z taxonomie"
 
 #: core/fields/radio.php:18
 msgid "Radio Button"
-msgstr "Přepínač"
+msgstr "Přepínací tlačítko"
 
 #: core/fields/radio.php:105 core/views/meta_box_location.php:91
 msgid "Other"
@@ -1283,7 +1283,7 @@ msgstr "Jiné"
 
 #: core/fields/radio.php:148
 msgid "Enter your choices one per line"
-msgstr "Vložte vaše možnosti po jedné na řádek"
+msgstr "Vložte volby po jedné na řádek"
 
 #: core/fields/radio.php:150
 msgid "Red"
@@ -1335,7 +1335,7 @@ msgstr "Hledat"
 
 #: core/fields/relationship.php:651
 msgid "Post Type Select"
-msgstr "Vybratr typ příspěvku"
+msgstr "Vybrat typ příspěvku"
 
 #: core/fields/relationship.php:659
 msgid "Elements"
@@ -1360,7 +1360,7 @@ msgstr "Maximum příspěvků"
 #: core/fields/select.php:18 core/fields/select.php:109
 #: core/fields/taxonomy.php:324 core/fields/user.php:266
 msgid "Select"
-msgstr "Vybrat"
+msgstr "Výběr"
 
 #: core/fields/tab.php:19
 msgid "Tab"
@@ -1422,7 +1422,7 @@ msgstr ""
 
 #: core/fields/taxonomy.php:377
 msgid "Term Object"
-msgstr "Objekt terménu"
+msgstr "Objekt termínu"
 
 #: core/fields/taxonomy.php:378
 msgid "Term ID"
@@ -1534,7 +1534,7 @@ msgstr "Přečtěte si dokumentaci pro toto pole"
 
 #: core/views/meta_box_fields.php:109
 msgid "Docs"
-msgstr "Dokumenty"
+msgstr "Dokumentace"
 
 #: core/views/meta_box_fields.php:110
 msgid "Duplicate this Field"
@@ -1598,7 +1598,7 @@ msgstr "libovolné"
 
 #: core/views/meta_box_fields.php:289
 msgid "these rules are met"
-msgstr ""
+msgstr "tato pravidla jsou splněna"
 
 #: core/views/meta_box_fields.php:303
 msgid "Close Field"
@@ -1626,7 +1626,7 @@ msgstr ""
 
 #: core/views/meta_box_location.php:60
 msgid "Show this field group if"
-msgstr ""
+msgstr "Zobrazit tuto skupinu pole pokud"
 
 #: core/views/meta_box_location.php:76
 msgid "Logged in User Type"
@@ -1698,11 +1698,11 @@ msgstr "Pozice"
 
 #: core/views/meta_box_options.php:52
 msgid "High (after title)"
-msgstr ""
+msgstr "Vysoká (za názvem)"
 
 #: core/views/meta_box_options.php:53
 msgid "Normal (after content)"
-msgstr ""
+msgstr "Normální (po obsahu)"
 
 #: core/views/meta_box_options.php:54
 msgid "Side"
@@ -1714,7 +1714,7 @@ msgstr "Styl"
 
 #: core/views/meta_box_options.php:74
 msgid "Seamless (no metabox)"
-msgstr ""
+msgstr "Bezešvý (bez metaboxu)"
 
 #: core/views/meta_box_options.php:75
 msgid "Standard (WP metabox)"
@@ -1738,7 +1738,7 @@ msgstr ""
 
 #: core/views/meta_box_options.php:96
 msgid "Permalink"
-msgstr ""
+msgstr "Trvalý odkaz"
 
 #: core/views/meta_box_options.php:97
 msgid "Content Editor"
@@ -1758,7 +1758,7 @@ msgstr "Komentáře"
 
 #: core/views/meta_box_options.php:102
 msgid "Revisions"
-msgstr ""
+msgstr "Revize"
 
 #: core/views/meta_box_options.php:103
 msgid "Slug"
@@ -1778,11 +1778,11 @@ msgstr "Rubriky"
 
 #: core/views/meta_box_options.php:108
 msgid "Tags"
-msgstr ""
+msgstr "Štítky"
 
 #: core/views/meta_box_options.php:109
 msgid "Send Trackbacks"
-msgstr ""
+msgstr "Poslat trackbacky"
 
 #~ msgid "Add Fields to Edit Screens"
 #~ msgstr "Přidat pole na obrazovky úprav"
