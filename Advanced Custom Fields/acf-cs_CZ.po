@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/advanced-custom-fields\n"
 "POT-Creation-Date: 2014-01-05 07:41:49+00:00\n"
-"PO-Revision-Date: 2014-01-27 19:06+0100\n"
+"PO-Revision-Date: 2014-01-27 21:52+0100\n"
 "Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
 "Language-Team: webees.cz s.r.o. <jakubmachala@webees.cz>\n"
 "MIME-Version: 1.0\n"
@@ -733,46 +733,52 @@ msgid ""
 "filters, your website may not operate correctly. It is important that you "
 "read the full"
 msgstr ""
+"Vzhledem k nemalým změnám okolo add-onů, typů polí a akcí / filtrů nemusí "
+"váš web fungovat správně. Je důležité přečít si plného"
 
 #: core/controllers/field_groups.php:362
 msgid "Migrating from v3 to v4"
-msgstr ""
+msgstr "Migrace z v3 na v4"
 
 #: core/controllers/field_groups.php:362
 msgid "guide to view the full list of changes."
-msgstr ""
+msgstr "průvodce k zobrazení kompletního seznamu změn."
 
 #: core/controllers/field_groups.php:365
 msgid "Really Important!"
-msgstr ""
+msgstr "Velmi důležité!"
 
 #: core/controllers/field_groups.php:365
 msgid ""
 "If you updated the ACF plugin without prior knowledge of such changes, "
 "please roll back to the latest"
 msgstr ""
+"Pokud jste aktulizovali plugin ACF bez předchozí znalosti změn, vraťte se "
+"prosím k poslední"
 
 #: core/controllers/field_groups.php:365
 msgid "version 3"
-msgstr ""
+msgstr "verzi 3"
 
 #: core/controllers/field_groups.php:365
 msgid "of this plugin."
-msgstr ""
+msgstr "tohoto pluginu."
 
 #: core/controllers/field_groups.php:370
 msgid "Thank You"
-msgstr ""
+msgstr "Děkujeme"
 
 #: core/controllers/field_groups.php:371
 msgid ""
 "A <strong>BIG</strong> thank you to everyone who has helped test the version "
 "4 beta and for all the support I have received."
 msgstr ""
+"<strong>Velké</strong> poděkování všem, jež pomohli testovat verzi 4 beta a "
+"za podporu, kterou jsem obdržel."
 
 #: core/controllers/field_groups.php:372
 msgid "Without you all, this release would not have been possible!"
-msgstr ""
+msgstr "Bez váš všech by toto vydání nebylo možné!"
 
 #: core/controllers/field_groups.php:376
 msgid "Changelog for"
@@ -780,11 +786,11 @@ msgstr "Seznam změn pro"
 
 #: core/controllers/field_groups.php:393
 msgid "Learn more"
-msgstr ""
+msgstr "Chci vědět více"
 
 #: core/controllers/field_groups.php:399
 msgid "Overview"
-msgstr ""
+msgstr "Přehled"
 
 #: core/controllers/field_groups.php:401
 msgid ""
@@ -792,12 +798,16 @@ msgid ""
 "the ACF Add-ons store). New to v4, all Add-ons act as separate plugins which "
 "need to be individually downloaded, installed and updated."
 msgstr ""
+"Dříve byly add-ony odemykány aktivačním kódem (zakoupeným na ACF add-on "
+"obchodě). Nově se ve verzi v4 chovají add-ony jako separátní pluginy, které "
+"je nutné zvlášť stáhnout, nainstalovat a aktualizovat."
 
 #: core/controllers/field_groups.php:403
 msgid ""
 "This page will assist you in downloading and installing each available Add-"
 "on."
 msgstr ""
+"Taot stránka vám pomůže se stažením a instalací každého dostupného add-onu."
 
 #: core/controllers/field_groups.php:405
 msgid "Available Add-ons"
@@ -805,7 +815,7 @@ msgstr "Dostupné add-ony."
 
 #: core/controllers/field_groups.php:407
 msgid "The following Add-ons have been detected as activated on this website."
-msgstr ""
+msgstr "Následující add-ony byly na tomto webu detekovány jako aktivní."
 
 #: core/controllers/field_groups.php:420
 msgid "Name"
@@ -825,11 +835,11 @@ msgstr "Instalace"
 
 #: core/controllers/field_groups.php:465
 msgid "For each Add-on available, please perform the following:"
-msgstr ""
+msgstr "Pro každý dostupný add-on prosím proveďte následující:"
 
 #: core/controllers/field_groups.php:467
 msgid "Download the Add-on plugin (.zip file) to your desktop"
-msgstr ""
+msgstr "Stáhněte add-on plugin (.zip soubor) do počítače"
 
 #: core/controllers/field_groups.php:468
 msgid "Navigate to"
@@ -837,33 +847,35 @@ msgstr "Přejít na"
 
 #: core/controllers/field_groups.php:468
 msgid "Plugins > Add New > Upload"
-msgstr ""
+msgstr "Pluginy - Přidat nový - Nahrát"
 
 #: core/controllers/field_groups.php:469
 msgid "Use the uploader to browse, select and install your Add-on (.zip file)"
 msgstr ""
+"Použijte uploder pro procházení, výběr a instalaci add-onu (zip. soubor)"
 
 #: core/controllers/field_groups.php:470
 msgid ""
 "Once the plugin has been uploaded and installed, click the 'Activate Plugin' "
 "link"
 msgstr ""
+"Jakmile bude plugin nahrát a instalován, klikněte na odkaz 'Aktivovat plugin'"
 
 #: core/controllers/field_groups.php:471
 msgid "The Add-on is now installed and activated!"
-msgstr ""
+msgstr "Add-on je nyní nainstalován a aktivní"
 
 #: core/controllers/field_groups.php:485
 msgid "Awesome. Let's get to work"
-msgstr ""
+msgstr "Perfektní. Dejme se do práce"
 
 #: core/controllers/input.php:63
 msgid "Expand Details"
-msgstr ""
+msgstr "Rozšířit podrobnosti"
 
 #: core/controllers/input.php:64
 msgid "Collapse Details"
-msgstr ""
+msgstr "Skrýt podrobnosti"
 
 #: core/controllers/input.php:67
 msgid "Validation Failed. One or more fields below are required."
@@ -879,7 +891,7 @@ msgstr "Co je nového"
 
 #: core/controllers/upgrade.php:150
 msgid "credits"
-msgstr ""
+msgstr "zásluhy"
 
 #: core/controllers/upgrade.php:684
 msgid "Modifying field group options 'show on page'"
@@ -891,7 +903,7 @@ msgstr "Úprava možností pole 'taxonomie'"
 
 #: core/controllers/upgrade.php:835
 msgid "Moving user custom fields from wp_options to wp_usermeta'"
-msgstr ""
+msgstr "Přesunování vlastních uživatelských polí z wp_options do wp_usermeta'"
 
 #: core/fields/_base.php:124 core/views/meta_box_location.php:74
 msgid "Basic"
@@ -917,7 +929,7 @@ msgstr "Vložte každou volbu na nový řádek"
 
 #: core/fields/checkbox.php:148 core/fields/select.php:179
 msgid "For more control, you may specify both a value and label like this:"
-msgstr ""
+msgstr "Pro více možností můžete určit jak hodnotu, tak název jako zde:"
 
 #: core/fields/checkbox.php:149 core/fields/radio.php:153
 #: core/fields/select.php:180
@@ -939,7 +951,7 @@ msgstr "Výchozí hodnota"
 
 #: core/fields/checkbox.php:167 core/fields/select.php:198
 msgid "Enter each default value on a new line"
-msgstr ""
+msgstr "Vložte každou výchozí hodnotu na nový řádek"
 
 #: core/fields/checkbox.php:183 core/fields/message.php:20
 #: core/fields/radio.php:212 core/fields/tab.php:20
@@ -961,7 +973,7 @@ msgstr "Výběr barvy"
 #: core/fields/color_picker.php:20 core/fields/date_picker/date_picker.php:20
 #: core/fields/google-map.php:19
 msgid "jQuery"
-msgstr ""
+msgstr "jQuery"
 
 #: core/fields/date_picker/date_picker.php:19
 msgid "Date Picker"
@@ -969,15 +981,15 @@ msgstr "Výběr data"
 
 #: core/fields/date_picker/date_picker.php:55
 msgid "Done"
-msgstr ""
+msgstr "Hotovo"
 
 #: core/fields/date_picker/date_picker.php:56
 msgid "Today"
-msgstr ""
+msgstr "Dnes"
 
 #: core/fields/date_picker/date_picker.php:59
 msgid "Show a different month"
-msgstr ""
+msgstr "Zobrazit jiný měsíc"
 
 #: core/fields/date_picker/date_picker.php:126
 msgid "Save format"
@@ -987,11 +999,11 @@ msgstr "Uložit formát"
 msgid ""
 "This format will determin the value saved to the database and returned via "
 "the API"
-msgstr ""
+msgstr "Tento formát určí hodnotu uloženou do databáze a vrácenou přes API"
 
 #: core/fields/date_picker/date_picker.php:128
 msgid "\"yymmdd\" is the most versatile save format. Read more about"
-msgstr ""
+msgstr "\"yymmdd\" je nejuniverzálnější ukládaný formát. Přečtěte si více o"
 
 #: core/fields/date_picker/date_picker.php:128
 #: core/fields/date_picker/date_picker.php:144
@@ -1004,63 +1016,65 @@ msgstr "Zobrazit formát"
 
 #: core/fields/date_picker/date_picker.php:143
 msgid "This format will be seen by the user when entering a value"
-msgstr ""
+msgstr "Tento formát uvidí uživatel pří vkládání hodnoty"
 
 #: core/fields/date_picker/date_picker.php:144
 msgid ""
 "\"dd/mm/yy\" or \"mm/dd/yy\" are the most used display formats. Read more "
 "about"
 msgstr ""
+"\"dd/mm/yy\" nebo \"mm/dd/yy\" jsou nejpoužívanější formáty zobrazení. "
+"Přečtěte si více o"
 
 #: core/fields/date_picker/date_picker.php:158
 msgid "Week Starts On"
-msgstr ""
+msgstr "Týden začíná v"
 
 #: core/fields/dummy.php:19
 msgid "Dummy"
-msgstr ""
+msgstr "Výplň"
 
 #: core/fields/email.php:19
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: core/fields/email.php:107 core/fields/number.php:117
 #: core/fields/text.php:117 core/fields/textarea.php:97
 #: core/fields/wysiwyg.php:199
 msgid "Appears when creating a new post"
-msgstr ""
+msgstr "Objeví se při vytváření nového příspěvku"
 
 #: core/fields/email.php:123 core/fields/number.php:133
 #: core/fields/password.php:105 core/fields/text.php:131
 #: core/fields/textarea.php:111
 msgid "Placeholder Text"
-msgstr ""
+msgstr "Výplňový text"
 
 #: core/fields/email.php:124 core/fields/number.php:134
 #: core/fields/password.php:106 core/fields/text.php:132
 #: core/fields/textarea.php:112
 msgid "Appears within the input"
-msgstr ""
+msgstr "Objeví se v rámci pole"
 
 #: core/fields/email.php:138 core/fields/number.php:148
 #: core/fields/password.php:120 core/fields/text.php:146
 msgid "Prepend"
-msgstr ""
+msgstr "Před"
 
 #: core/fields/email.php:139 core/fields/number.php:149
 #: core/fields/password.php:121 core/fields/text.php:147
 msgid "Appears before the input"
-msgstr ""
+msgstr "Objeví se přes polem"
 
 #: core/fields/email.php:153 core/fields/number.php:163
 #: core/fields/password.php:135 core/fields/text.php:161
 msgid "Append"
-msgstr ""
+msgstr "Za"
 
 #: core/fields/email.php:154 core/fields/number.php:164
 #: core/fields/password.php:136 core/fields/text.php:162
 msgid "Appears after the input"
-msgstr ""
+msgstr "Objeví se za polem"
 
 #: core/fields/file.php:19
 msgid "File"
@@ -1084,7 +1098,7 @@ msgstr "Aktualizovat soubor"
 
 #: core/fields/file.php:29 core/fields/image.php:30
 msgid "uploaded to this post"
-msgstr ""
+msgstr "nahráno k tomuto příspěvku"
 
 #: core/fields/file.php:123
 msgid "No File Selected"
@@ -1113,15 +1127,15 @@ msgstr "ID souboru"
 
 #: core/fields/file.php:175 core/fields/image.php:158
 msgid "Library"
-msgstr ""
+msgstr "Knihovna"
 
 #: core/fields/file.php:187 core/fields/image.php:171
 msgid "Uploaded to post"
-msgstr ""
+msgstr "Nahrána k příspěvku"
 
 #: core/fields/google-map.php:18
 msgid "Google Map"
-msgstr ""
+msgstr "Google Mapa"
 
 #: core/fields/google-map.php:33
 msgid "Locating"
@@ -1129,7 +1143,7 @@ msgstr "Umístění"
 
 #: core/fields/google-map.php:34
 msgid "Sorry, this browser does not support geolocation"
-msgstr ""
+msgstr "Je nám líto, ale tento prohlížet nepodporuje geolokaci."
 
 #: core/fields/google-map.php:120
 msgid "Clear location"
@@ -1137,31 +1151,31 @@ msgstr "Vyčistit umístění"
 
 #: core/fields/google-map.php:125
 msgid "Find current location"
-msgstr ""
+msgstr "Najít současné umístění"
 
 #: core/fields/google-map.php:126
 msgid "Search for address..."
-msgstr ""
+msgstr "Hledat adresu..."
 
 #: core/fields/google-map.php:162
 msgid "Center"
-msgstr ""
+msgstr "Centrovat"
 
 #: core/fields/google-map.php:163
 msgid "Center the initial map"
-msgstr ""
+msgstr "Centrovat výchozí mapu"
 
 #: core/fields/google-map.php:199
 msgid "Zoom"
-msgstr ""
+msgstr "Zoom"
 
 #: core/fields/google-map.php:200
 msgid "Set the initial zoom level"
-msgstr ""
+msgstr "Nastavit výchozí úroveň zoomu"
 
 #: core/fields/google-map.php:217
 msgid "Height"
-msgstr ""
+msgstr "Výška"
 
 #: core/fields/google-map.php:218
 msgid "Customise the map height"
@@ -1201,7 +1215,7 @@ msgstr "Přidat obrázek"
 
 #: core/fields/image.php:119 core/fields/relationship.php:573
 msgid "Specify the returned value on front end"
-msgstr ""
+msgstr "Určete vrácenou hodnotu na front endu"
 
 #: core/fields/image.php:129
 msgid "Image Object"
@@ -1221,11 +1235,11 @@ msgstr "Velikost náhledu"
 
 #: core/fields/image.php:140
 msgid "Shown when entering data"
-msgstr ""
+msgstr "Zobrazeno při vkládání dat"
 
 #: core/fields/image.php:159
 msgid "Limit the media library choice"
-msgstr ""
+msgstr "Omezte výběr knihovny médií"
 
 #: core/fields/message.php:19 core/fields/message.php:70
 #: core/fields/true_false.php:79
@@ -1234,15 +1248,15 @@ msgstr "Zpráva"
 
 #: core/fields/message.php:71
 msgid "Text &amp; HTML entered here will appear inline with the fields"
-msgstr ""
+msgstr "Text &amp; HTML vložené zde se objeví spolu s poli"
 
 #: core/fields/message.php:72
 msgid "Please note that all text will first be passed through the wp function "
-msgstr ""
+msgstr "Mějte na paměti, že veškerý text nejprve projde před wp funkci"
 
 #: core/fields/number.php:19
 msgid "Number"
-msgstr ""
+msgstr "Číslo"
 
 #: core/fields/number.php:178
 msgid "Minimum Value"
@@ -1254,7 +1268,7 @@ msgstr "Maximální hodnota"
 
 #: core/fields/number.php:210
 msgid "Step Size"
-msgstr ""
+msgstr "Velikost kroku"
 
 #: core/fields/page_link.php:18
 msgid "Page Link"
@@ -1285,7 +1299,7 @@ msgstr "Vybrat více hodnot?"
 
 #: core/fields/password.php:19
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 #: core/fields/post_object.php:18
 msgid "Post Object"
@@ -1317,11 +1331,11 @@ msgstr "Modrá"
 
 #: core/fields/radio.php:175
 msgid "Add 'other' choice to allow for custom values"
-msgstr ""
+msgstr "Přidá 'další' možnost povolenou pro vlastní hodnoty"
 
 #: core/fields/radio.php:187
 msgid "Save 'other' values to the field's choices"
-msgstr ""
+msgstr "Uloží 'další' možnost pro volby pole"
 
 #: core/fields/relationship.php:18
 msgid "Relationship"
@@ -1337,7 +1351,7 @@ msgstr "Hledat..."
 
 #: core/fields/relationship.php:439
 msgid "Filter by post type"
-msgstr ""
+msgstr "Filtrovat dle typu příspěvku"
 
 #: core/fields/relationship.php:572
 msgid "Return Format"
@@ -1365,7 +1379,7 @@ msgstr "Prvky"
 
 #: core/fields/relationship.php:660
 msgid "Selected elements will be displayed in each result"
-msgstr ""
+msgstr "Vybrané prvky budou zobrazeny v každém výsledku"
 
 #: core/fields/relationship.php:669 core/views/meta_box_options.php:106
 msgid "Featured Image"
@@ -1393,16 +1407,20 @@ msgid ""
 "Use \"Tab Fields\" to better organize your edit screen by grouping your "
 "fields together under separate tab headings."
 msgstr ""
+"Použijte \"Pole záložky\" pro lepší organizaci obrazovky úprav seskupením "
+"polí pod oddělené záložky."
 
 #: core/fields/tab.php:69
 msgid ""
 "All the fields following this \"tab field\" (or until another \"tab field\" "
 "is defined) will be grouped together."
 msgstr ""
+"Všechna pole následující po tomto \"poli záložky\" (nebo do určení dalšího "
+"\"pole záložky\") boudou seskupena."
 
 #: core/fields/tab.php:70
 msgid "Use multiple tabs to divide your fields into sections."
-msgstr ""
+msgstr "Použijte více záložek pro rozdělení polí do sekcí."
 
 #: core/fields/taxonomy.php:18 core/fields/taxonomy.php:278
 msgid "Taxonomy"
@@ -1427,7 +1445,7 @@ msgstr "Vícenásobný výběr"
 
 #: core/fields/taxonomy.php:322 core/fields/user.php:264
 msgid "Single Value"
-msgstr ""
+msgstr "Jednotlivá hodnota"
 
 #: core/fields/taxonomy.php:323
 msgid "Radio Buttons"
@@ -1435,12 +1453,14 @@ msgstr "Přepínací tlačítka"
 
 #: core/fields/taxonomy.php:352
 msgid "Load & Save Terms to Post"
-msgstr ""
+msgstr "Načíst a uložit termíny do příspěvku"
 
 #: core/fields/taxonomy.php:360
 msgid ""
 "Load value based on the post's terms and update the post's terms on save"
 msgstr ""
+"Načíst hodnotu založenou na termínu příspěvku a aktualizovat termín "
+"příspěvku po uložení"
 
 #: core/fields/taxonomy.php:377
 msgid "Term Object"
@@ -1448,7 +1468,7 @@ msgstr "Objekt termínu"
 
 #: core/fields/taxonomy.php:378
 msgid "Term ID"
-msgstr ""
+msgstr "ID termínu"
 
 #: core/fields/text.php:19
 msgid "Text"
@@ -1460,7 +1480,7 @@ msgstr "Formátování"
 
 #: core/fields/text.php:177 core/fields/textarea.php:142
 msgid "Effects value on front end"
-msgstr ""
+msgstr "Ovlivňuje hodnotu na front endu"
 
 #: core/fields/text.php:186 core/fields/textarea.php:151
 msgid "No formatting"
@@ -1468,15 +1488,15 @@ msgstr "Bez formátování"
 
 #: core/fields/text.php:187 core/fields/textarea.php:153
 msgid "Convert HTML into tags"
-msgstr ""
+msgstr "Převést HTML na tagy"
 
 #: core/fields/text.php:195 core/fields/textarea.php:126
 msgid "Character Limit"
-msgstr ""
+msgstr "Omezení znaků"
 
 #: core/fields/text.php:196 core/fields/textarea.php:127
 msgid "Leave blank for no limit"
-msgstr ""
+msgstr "Nechte prázdné pro neomezeno"
 
 #: core/fields/textarea.php:19
 msgid "Text Area"
@@ -1484,7 +1504,7 @@ msgstr "Textová oblast"
 
 #: core/fields/textarea.php:152
 msgid "Convert new lines into &lt;br /&gt; tags"
-msgstr ""
+msgstr "Převést nové řádky na tag &lt;br /&gt;"
 
 #: core/fields/true_false.php:19
 msgid "True / False"
@@ -1496,11 +1516,11 @@ msgstr "např. Zobrazit dodatečný obsah"
 
 #: core/fields/user.php:18 core/views/meta_box_location.php:94
 msgid "User"
-msgstr ""
+msgstr "Uživatel"
 
 #: core/fields/user.php:224
 msgid "Filter by role"
-msgstr ""
+msgstr "Filtrovat dle role"
 
 #: core/fields/wysiwyg.php:35
 msgid "Wysiwyg Editor"
@@ -1596,7 +1616,7 @@ msgstr "Požadováno?"
 
 #: core/views/meta_box_fields.php:209
 msgid "Conditional Logic"
-msgstr ""
+msgstr "Podmíněná logika"
 
 #: core/views/meta_box_fields.php:260 core/views/meta_box_location.php:117
 msgid "is equal to"
@@ -1608,7 +1628,7 @@ msgstr "není rovno"
 
 #: core/views/meta_box_fields.php:279
 msgid "Show this field when"
-msgstr ""
+msgstr "Zobrazit toto pole když"
 
 #: core/views/meta_box_fields.php:285
 msgid "all"
