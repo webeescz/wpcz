@@ -1,0 +1,2764 @@
+# The Genesis 2.0.0 Translation Master File
+# Copyright (C) 2013 StudioPress
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Genesis v2.0.0 Czech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-01-26 15:08+0100\n"
+"Report-Msgid-Bugs-To: StudioPress <translations@studiopress.com>\n"
+"Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
+"Language-Team: webees.cz s.r.o. <jakubmachala@webees.cz>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Textdomain-Support: yes\n"
+"Language: cs_CZ\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib/admin/import-export.php:74
+msgid ""
+"You can import a file you've previously exported. The file name will start "
+"with %s followed by one or more strings indicating which settings it "
+"contains, finally followed by the date and time it was exported."
+msgstr ""
+"Můžete importovat soubor, který jste dříve exportovali. Jméno souboru bude "
+"začínat s %s následováno řetězci indikujícími, které nastavení obsahuje a "
+"bude zakončeno datem a časem exporu."
+
+#: lib/admin/import-export.php:75
+msgid ""
+"Once you upload an import file, it will automatically overwrite your "
+"existing settings."
+msgstr ""
+"Jakmile nahrajete importovaný soubor, bude automaticky přepsáno existující "
+"nastavení."
+
+#: lib/admin/import-export.php:79
+msgid ""
+"You can export your Genesis-related settings to back them up, or copy them "
+"to another site. Child themes and plugins may add their own checkboxes to "
+"the list. The settings are exported in %s format."
+msgstr ""
+"Můžete exportovat nastavení související s Genesis pro jejich zálohu nebo "
+"překopírování na jiný web. Dědičné šablony a pluginy mohou do seznamu přidat "
+"své vlastná zatržítka. Nastavení jsou exportována ve formátu %s."
+
+#: lib/admin/cpt-archive-settings.php:247
+msgid "The Archive Headline sets the title seen on the archive page"
+msgstr ""
+"Nadpis archivu nastavuje titulek, který se zobrazuje na stránce archivu"
+
+#: lib/admin/cpt-archive-settings.php:248
+msgid ""
+"The Archive Intro Text sets the text before the archive entries to introduce "
+"the content to the viewer."
+msgstr ""
+"Úvodní text archivu nastavuje text před položkami archivu k představení "
+"obsahu prohlížejícímu."
+
+#: lib/admin/cpt-archive-settings.php:260
+msgid ""
+"The Custom Document Title sets the page title as seen in browsers and search "
+"engines. "
+msgstr ""
+"Vlastní titulek dokumentu nastavuje titulek stránky zobrazený v prohlížečích "
+"a vyhledávačích."
+
+#: lib/admin/cpt-archive-settings.php:261
+msgid ""
+"The Meta description and keywords fill in the meta tags for the archive "
+"page. The Meta description is the short text blurb that appear in search "
+"engine results.\n"
+" "
+msgstr ""
+"Meta popisek a klíčová slova budou použity v meta tazích na archivní "
+"stránce. Meta popisek je krátký text, který se zobrazuje ve výsledcích "
+"vyhledávání.\n"
+" "
+
+#: lib/admin/cpt-archive-settings.php:264
+msgid ""
+"The Robots Meta Tags tell search engines how to handle the archive page. "
+"Noindex means not to index the page at all, and it will not appear in search "
+"results. Nofollow means do not follow any links from this page and noarchive "
+"tells them not to make an archive copy of the page."
+msgstr ""
+"Meta tagy robotů říkají vyhledávačům, jak zacházet se stránkou archivu. "
+"Noindex znamená, že stránka nebude indexována vůbec a nezobrazí se ve "
+"výsledcích hledání. Nofollow znamená, že nebudou následovány žádné odkazy ze "
+"stránky a noarchiv značí, že nebude vytvářena archivní kopie stránky."
+
+#: lib/admin/cpt-archive-settings.php:276
+msgid ""
+"This lets you select the layout for the archive page. On most of the child "
+"themes you'll see these options:"
+msgstr ""
+"Tato možnost umožňuje nastavit rozložení stránky archivu. Ve většině "
+"dědičných šablon uvidíte toto nastavení:"
+
+#: lib/admin/cpt-archive-settings.php:285 lib/admin/theme-settings.php:266
+msgid "These options can be extended or limited by the child theme."
+msgstr "Tato nastavení mohou být rozšířena nebo omezena dědičnou šablonou."
+
+#: lib/admin/cpt-archive-settings.php:286
+msgid ""
+"The Custom Body Class adds a class to the body tag in the HTML to allow CSS "
+"modification exclusively for this post type's archive page."
+msgstr ""
+"Vlastní třída body přidá třídu body tagu v HTML a umožní modifikace CSS "
+"výlučně pro stránku archivu tohoto typu obsahu.."
+
+#: lib/admin/import-export.php:130
+msgid ""
+"Upload the data file (%s) from your computer and we'll import your settings."
+msgstr ""
+"Nahrejte datový soubor (%s) z vašeho počítače a my importujeme vaše "
+"nastavení."
+
+#: lib/admin/import-export.php:149
+msgid ""
+"When you click the button below, Genesis will generate a data file (%s) for "
+"you to save to your computer."
+msgstr ""
+"Když kliknete na tlačítko níže, Genesis vygeneruje datový soubor (%s) pro "
+"uložení na vašem počítači."
+
+#: lib/admin/seo-settings.php:339
+msgid "Use semantic HTML5 page and section headings throughout site?"
+msgstr "Použít sémantickou HTML5 stránku a nadpisy sekcí napříč webem?"
+
+#: lib/admin/theme-settings.php:249
+msgid ""
+"These options can be extended or limited by the child theme. Additionally, "
+"many of the child themes do not allow different layouts on the home page as "
+"they have been designed for a specific home page layout."
+msgstr ""
+"Tato nastavení mohou být rozšířena nebo omezena dědičnou šablonou. Navíc "
+"mnoho dědičných šablon neumožňuje různé rozložení na domovské stránce, "
+"protože už byly navrženy s konkrétním rozvržením,"
+
+#: lib/admin/theme-settings.php:291
+msgid ""
+"This works with the Blog Template, which is a page template that shows your "
+"latest posts. It's what people see when they land on your homepage."
+msgstr ""
+"Tato možnost pracuje s šablonou Blog, která je šablonou stránky zobrazující "
+"vaše poslední příspěvky. Tuto šablonu lidé uvidí, když si zobrazí vaši "
+"domovskou stránku."
+
+#: lib/admin/theme-settings.php:292
+msgid ""
+"In the General Settings you can select a specific category to display from "
+"the drop down menu, and exclude categories by ID, or even select how many "
+"posts you'd like to display on this page."
+msgstr ""
+"V obecném nastavení můžete vybrat specifickou rubriku k zobrazení z "
+"výsuvného menu, dále také vyloučit rubriky podle ID nebo dokonce vybrat, "
+"kolik příspěvků chcete na této stránce zobrazit."
+
+#: lib/admin/theme-settings.php:293
+msgid ""
+"There are some special features of the Blog Template that allow you to "
+"specify which category to show on each page using the template, which is "
+"helpful if you have a \"News\" category (or something else) that you want to "
+"display separately."
+msgstr ""
+"Jsou k dispozici speciální funkce šablony Blog, které vám umožní určit, "
+"jakou rubriku zobrazit na které stránce použitím šablon, jež jsou nápomocné, "
+"pokud máte rubriku \"Novinky\" (nebo jinou), kterou chcete zobrazit odděleně."
+
+#: lib/admin/theme-settings.php:294
+msgid ""
+"You can find more on this feature in the <a href=\"%s\" target=\"_blank"
+"\">How to Add a Post Category Page tutorial.</a>"
+msgstr ""
+"Více o této funkci můžete najít v tutoriálu <a href=\"%s\" target=\"_blank"
+"\">Jak přidat stránku rubriky příspěvku</a>."
+
+#: lib/admin/theme-settings.php:493
+msgid ""
+"If you provide an email address above, you will be notified via email when a "
+"new version of Genesis is available."
+msgstr ""
+"Pokud nám výše poskytnete emailovou adresu, budete emailem upozorněni, "
+"jakmile bude k dispozici nová verze Genesis."
+
+#: lib/admin/theme-settings.php:626
+msgid "Load Superfish Script?"
+msgstr "Nahrát skript Superfish?"
+
+#: lib/admin/whats-new.php:70
+msgid ""
+"Genesis has always been on the cutting edge of web technology, and Genesis "
+"2.0 continues in that excellent tradition. With a single line of code in a "
+"child theme, Genesis will now output HTML5 markup in place of the old XHTML "
+"tags. Also, every theme we build in the future will be developed on HTML5."
+msgstr ""
+"Genesis byl vždy na vrcholu webových technologií a Genesis 2.0 v této skvělé "
+"tradici pokračuje. S jedinou řádkou kódu v dědičné šabloně nyní Genesis "
+"vypisuje HTML5 kód namísto starých XHTML tagů. Také každá další budoucí "
+"šablona, jíž vytvoříme, bude v HTML5,"
+
+#: lib/admin/whats-new.php:73
+msgid ""
+"If you're using a theme with HTML5 enabled, Genesis will also output your "
+"markup using microdata.. Not sure what that is? We don't blame you. Take a "
+"look at <a href=\"%s\" target=\"_blank\">this explanation</a>. Still "
+"confused? Don't worry. That's why you're using a framework. We did all the "
+"research and modified the markup to serve search engines the Microdata "
+"they're looking for, so you don't have to. It's good to be a Genesis user."
+msgstr ""
+"Pokud používáte šablonu se zapnutým HTML5, Genesis bude i váš kód vypisovat "
+"jako mikrodata. Nejste si jisti, co to je? Nebudeme vás obviňovat. Podívejte "
+"se na <a href=\"%s\" target=\"_blank\">toto vysvětlení</a>. Pořád jste "
+"zmateni? Nezoufejte. To proto používáte framework. Udělali jsme veškerý "
+"výzkum za vás a upravili syntaxi tak, aby vyhledávačům servírovala "
+"mikrodata, která chtějí, namísto vás. Je super být uživatelem Genesis."
+
+#: lib/admin/whats-new.php:79
+msgid ""
+"We want to keep Genesis as lightweight as possible for you, nobody wants to "
+"use bloated software. So we've removed the Latest Tweets widget, eNews "
+"widget, the \"post templates\" feature, and the \"fancy dropdowns\" setting. "
+"But fear not! If you want those features back, click below to install the "
+"handy plugins we created for you."
+msgstr ""
+"Chceme Genesis zachovat tak lehký, jak to jen půjde. Nikdo nechce používat "
+"nabobtnalý software. Proto jsme odstranili widget posledních tweetů, widget "
+"eNews, funkci \"šablony příspěvků\" a nastavení \"hezkých dropdownů\". Ale "
+"nebojte! Pokud chcete tyto funkce zpět, klikněte níže pro instalaci "
+"užitečných pluginů, které jsme pro výs vytvořili."
+
+#: lib/admin/whats-new.php:91
+msgid ""
+"We're always improving. Call it a sickness, but we like to make things work "
+"really, really well. Here's a list of the technical changes in this latest "
+"release."
+msgstr ""
+"Vždy se vylepšujeme. Říkejte tomu třeba nemoc, ale opravdu rádi děláme "
+"opravdu dobře funkční věci. Tady je seznam technických změn v posledním "
+"vydání."
+
+#: lib/functions/deprecated.php:32
+msgid "data in style sheet files"
+msgstr "data v souborech stylu"
+
+#: lib/structure/sidebar.php:65
+msgid ""
+"This is the %s. You can add content to this area by visiting your <a href="
+"\"%s\">Widgets Panel</a> and adding new widgets to this area."
+msgstr ""
+"Toto je %s. Do této oblasti můžete přidat obsah návštěvou <a href=\"%s"
+"\">Panelu widgetů</a> a přidávat nové widgety do této oblasti."
+
+#: lib/admin/theme-settings.php:254
+msgid ""
+"The <strong>Dynamic text</strong> option will use the Site Title and Site "
+"Description from your site's settings in your header."
+msgstr ""
+"Možnost <strong>Dynamický text</strong> použije titulek webu a popis webu v "
+"hlavičce z vašeho nastavení."
+
+#: lib/admin/theme-settings.php:255
+msgid ""
+"The <strong>Image logo</strong> option will use a logo image file in the "
+"header instead of the site's title and description. This setting adds a ."
+"header-image class to your site, allowing you to specify the header image in "
+"your child theme's style.css. By default, the logo can be saved as logo.png "
+"and saved to the images folder of your child theme."
+msgstr ""
+"Možnost <strong>Obrázkové logo</strong> použije v hlavičce obrázkový soubor "
+"loga namísto titulku a popisku webu. Toto nastavení přidá na web třídu ."
+"header-image, což umožní určit obrázek v hlavičce ve style.css vaší dědičné "
+"šablony. Ve výchozím nastavení může být logo uloženo jako logo.png do složky "
+"images ve vaší dědičné šabloně."
+
+#: lib/admin/theme-settings.php:259
+msgid ""
+"The Primary Navigation Extras typically display on the right side of your "
+"Primary Navigation menu."
+msgstr ""
+"Doplňky hlavní navigace se typicky zobrazují na pravé straně menu Hlavní "
+"navigace."
+
+#: lib/admin/theme-settings.php:261
+msgid "Today's date displays the current date"
+msgstr "Dnešní datum zobrazí aktuální datum"
+
+#: lib/admin/theme-settings.php:262
+msgid ""
+"RSS feed link displays a link to the RSS feed for your site that a reader "
+"can use to subscribe to your site using the feedreader of their choice."
+msgstr ""
+"Odkaz na RSS zdroj zobrazí odkaz na RSS zdroj vašeho webu a čtenář jej může "
+"použít k přihlášení k odběru webu v jeho čtečce."
+
+#: lib/admin/theme-settings.php:263
+msgid ""
+"Search form displays a small search form utilizing the WordPress search "
+"functionality."
+msgstr ""
+"Vyhledávací formulář zobrazí malý formulář užívající wordpressovou funkci "
+"hledání."
+
+#: lib/admin/theme-settings.php:264
+msgid ""
+"Twitter link displays a link to your Twitter profile, as indicated in "
+"Twitter ID setting. Enter only your user name in this setting."
+msgstr ""
+"Twitter odkaz zobrazí odkaz na Twitter profil uvedený v nastavení Twitter "
+"ID. Do tohoto nastavení vložte pouze uživatelské jméno."
+
+#: lib/admin/theme-settings.php:638
+msgid ""
+"In order to view the Primary navigation menu settings, you must build a <a "
+"href=\"%s\">custom menu</a>, then assign it to the Primary Menu Location."
+msgstr ""
+"Abyste mohli prohlížet nastavení hlavní navigace, je nejprve nutné postavit "
+"<a href=\"%s\">vlastní menu</a> a pak jej přiřadit do oblasti Hlavní menu."
+
+#: lib/functions/upgrade.php:559
+msgid ""
+"Genesis %s is available. <a href=\"%s\" %s>Check out what's new</a> or <a "
+"href=\"%s\" %s>update now.</a>"
+msgstr ""
+"Genesis %s je k dispozici. <a href=\"%s\" %s>Podívejte se, co je nového</a> "
+"nebo <a href=\"%s\" %s>nyní aktualizujte.</a>"
+
+#: lib/admin/import-export.php:68
+msgid "This allows you to import or export Genesis Settings."
+msgstr "Tato možnost umožní importovat nebo exportovat nastavení Genesis."
+
+#: lib/admin/import-export.php:69
+msgid ""
+"This is specific to Genesis settings and does not includes posts, pages, or "
+"images, which is what the built-in WordPress import/export menu does."
+msgstr ""
+"Tato možnost je specifická k nastavení Genesis a neobsahuje příspěvky, "
+"stránky nebo obrázky, které má na starosti zabudovaný WordPress import/"
+"export."
+
+#: lib/admin/import-export.php:70
+msgid ""
+"It also does not include other settings for plugins, widgets, or post/page/"
+"term/user specific settings."
+msgstr ""
+"Dále také neobsahuje další nastavení pro pluginy, widgety nebo nastavení pro "
+"příspěvek/stránku/termín/uživatele."
+
+#: lib/admin/import-export.php:73 lib/admin/import-export.php:88
+msgid "Import"
+msgstr "Import"
+
+#: lib/admin/import-export.php:75
+msgid "This cannot be undone"
+msgstr "Tuto možnost není možné vrátit zpět"
+
+#: lib/admin/import-export.php:78 lib/admin/import-export.php:93
+msgid "Export"
+msgstr "Export"
+
+#: lib/admin/import-export.php:79
+msgid "JavaScript Object Notation"
+msgstr "JavaScriptový objektový zápis"
+
+#: lib/admin/import-export.php:79
+msgid "JSON"
+msgstr "JSON"
+
+#: lib/admin/import-export.php:99 lib/admin/seo-settings.php:242
+#: lib/admin/theme-settings.php:374
+msgid "For more information:"
+msgstr "Pro více informací:"
+
+#: lib/admin/import-export.php:100 lib/admin/seo-settings.php:243
+#: lib/admin/theme-settings.php:375
+msgid "Get Support"
+msgstr "Získat podporu"
+
+#: lib/admin/import-export.php:101 lib/admin/seo-settings.php:244
+#: lib/admin/theme-settings.php:376
+msgid "Genesis Snippets"
+msgstr "Genesis útržky"
+
+#: lib/admin/import-export.php:102 lib/admin/seo-settings.php:245
+#: lib/admin/theme-settings.php:377
+msgid "Genesis Tutorials"
+msgstr "Genesis návody"
+
+#: lib/admin/seo-settings.php:170
+msgid ""
+"Genesis SEO (search engine optimization) is polite, and will disable itself "
+"when most popular SEO plugins (e.g., All-in-One SEO, WordPress SEO, etc.) "
+"are active."
+msgstr ""
+"Genesis SEO (optimalizace pro vyhledávače) je vlídná a vypne se, pokud jsou "
+"aktivní nejpopulárnější SEO pluginy (např. All-on-One SEO, WordPress SEO, "
+"apod.)."
+
+#: lib/admin/seo-settings.php:171
+msgid ""
+"If you don’t see an SEO Settings sub menu, then you probably have another "
+"SEO plugin active."
+msgstr ""
+"Pokud nevidíte podmenu Nastavení SEO, pak máte nejspíš aktivní jiný SEO "
+"plugin."
+
+#: lib/admin/seo-settings.php:172
+msgid ""
+"If you see the menu, then opening that menu item will let you set the "
+"General SEO settings for your site."
+msgstr ""
+"Pokud vidíte menu, pak otevřením položky získáte obecné nastavení SEO pro "
+"váš web."
+
+#: lib/admin/seo-settings.php:173
+msgid ""
+"Each page, post, and term will have its own SEO settings as well. The "
+"default settings are recommended for most users. If you wish to adjust your "
+"SEO settings, the boxes include internal descriptions."
+msgstr ""
+"Každá stránka, příspěvek nebo termín má také své vlastní nastavení SEO. "
+"Výchozí nastavení jsou doporučena pro většinu uživatelů. Pokud si přejete "
+"upravit vaše SEO nastavení, boxy obsahují interní popisky."
+
+#: lib/admin/seo-settings.php:174
+msgid "Below you'll find a few succinct notes on the options for each box:"
+msgstr "Níže naleznete několik stručných poznámek k nastavení každého boxu:"
+
+#: lib/admin/seo-settings.php:177 lib/admin/seo-settings.php:216
+msgid "Doctitle Settings"
+msgstr "Nastavení titulku"
+
+#: lib/admin/seo-settings.php:178
+msgid ""
+"<strong>Append Site Description</strong> will insert the site description "
+"from your General Settings after the title on your home page."
+msgstr ""
+"<strong>Přidružit popisek webu</strong> vloží popisek webu z obecného "
+"nastavení za titulek do vaší domovské stránky."
+
+#: lib/admin/seo-settings.php:179
+msgid ""
+"<strong>Append Site Name</strong> will put the site name from the General "
+"Settings after the title on inner page."
+msgstr ""
+"<strong>Přidružit jméno webu</strong> vloží jméno webu z obecného nastavení "
+"za titulek do vnitřní stránky."
+
+#: lib/admin/seo-settings.php:180
+msgid ""
+"<strong>Doctitle Append Location</strong> determines which side of the title "
+"to add the previously mentioned items."
+msgstr ""
+"<strong>Místo přidružení titulku</strong> určí, na kterou stranu titulku "
+"přidat výše změněné položky."
+
+#: lib/admin/seo-settings.php:181
+msgid ""
+"The <strong>Doctitle Separator</strong> is the character that will go "
+"between the title and appended text."
+msgstr ""
+"<strong>Oddělovač titulku</strong> je znak, který bude vložen mezi titulek a "
+"přidružený text."
+
+#: lib/admin/seo-settings.php:185
+msgid ""
+"These are the homepage specific SEO settings. Note: these settings will not "
+"apply if a static page is set as the front page. If you're using a static "
+"WordPress page as your hompage, you'll need to set the SEO settings on that "
+"particular page."
+msgstr ""
+"Zde jsou specifická SEO nastavení pro domovskou stránku. Poznámka: toto "
+"nastavení nebude aplikováno na statickou stránku, která je nastavena jako "
+"domovská stránka. Pokud používáte statickou WordPress stránku jako svou "
+"domovskou stránku, musíte použít SEO nastavení této konkrétní stránky."
+
+#: lib/admin/seo-settings.php:186
+msgid ""
+"You can also specify if the Site Title, Description, or your own custom text "
+"should be wrapped in an &lt;h1&gt; tag (the primary heading in HTML)."
+msgstr ""
+"Můžete také specifikovat název webu, popisek nebo váš vlastní text, který "
+"bude obalen &lt;h1&gt; tagem (hlavní nadpis v HTML)."
+
+#: lib/admin/seo-settings.php:187
+msgid ""
+"To add custom text you'll have to either edit a php file, or use a text "
+"widget on a widget enabled homepage."
+msgstr ""
+"K přidání vlastního textu musíte buď upravit PHP soubor nebo použít textový "
+"widget na domovské stránce se zapnutými widgety."
+
+#: lib/admin/seo-settings.php:188
+msgid ""
+"The home doctitle sets what will appear within the <title></title> tags "
+"(unseen in the browser) for the home page."
+msgstr ""
+"Titulek domovské stránky nastaví, co se zobrazí v <title></title> tagu (není "
+"v prohlížeči vidět) domovské stránky."
+
+#: lib/admin/seo-settings.php:189
+msgid ""
+"The home META description and keywords fill in the meta tags for the home "
+"page. The META description is the short text blurb that appear in search "
+"engine results."
+msgstr ""
+"Domovský META popisek a klíčová slova vyplňují meta tagy pro domovskou "
+"stránku. Meta popisek je krátký text, který se zobrazuje ve výsledcích "
+"vyhledávání."
+
+#: lib/admin/cpt-archive-settings.php:263 lib/admin/seo-settings.php:190
+msgid ""
+"Most search engines do not use Keywords at this time or give them very "
+"little consideration; however, it's worth using in case keywords are given "
+"greater consideration in the future and also to help guide your content. If "
+"the content doesn’t match with your targeted key words, then you may need to "
+"consider your content more carefully."
+msgstr ""
+"Většina vyhledávačů v tuto chvíli nepoužívá klíčová slova nebo jim dává jen "
+"minimální váhu. Klíčová slova je vhodé použít, pokud jim v budoucnu "
+"plánujete dát větší váhu nebo jako pomocíka pro obsah. Pokud obsah "
+"neodpovídá zamýšleným klíčovým slovům, měli byste zvážit obsah stránky "
+"pečlivěji."
+
+#: lib/admin/seo-settings.php:191
+msgid ""
+"The Homepage Robots Meta Tags tell search engines how to handle the "
+"homepage. Noindex means not to index the page at all, and it will not appear "
+"in search results. Nofollow means do not follow any links from this page and "
+"noarchive tells them not to make an archive copy of the page."
+msgstr ""
+"Meta tagy robotů domovské stránky říkají vyhledávačům, jak s domovskou "
+"stránkou zacházet. Noindex znamená, že stránka nebude indexována vůbec a "
+"nezobrazí se ve výsledcích hledání. Nofollow znamená, že nebudou následovány "
+"žádné odkazy ze stránky a noarchiv značí, že nebude vytvářena archivní kopie "
+"stránky."
+
+#: lib/admin/seo-settings.php:195
+msgid ""
+"The Relationship Link Tags are tags added by WordPress that currently have "
+"no SEO value but slow your site load down. They're disabled by default, but "
+"if you have a specific need&#8212;for a plugin or other non typical "
+"use&#8212;then you can enable as needed here."
+msgstr ""
+"Příbuzenské odkazové štítky jsou štítky přidávané WordPressem, které "
+"aktuálně nemají pro SEO žádnou váhu, ale vaše stránky zpomalují. Ve výchozím "
+"nastavení jsou vypnuty, ale pokud máte specifické požadavky pro plugin nebo "
+"další netypické použití, pak je zde můžete povolit."
+
+#: lib/admin/seo-settings.php:196
+msgid ""
+"You can also add support for Windows Live Writer if you use software that "
+"supports this and include a shortlink tag if this is required by any third "
+"party service."
+msgstr ""
+"Můžete také přidat podporu pro Windows Live Writer, používáte-li software, "
+"který jej podporuje a potřebujete vložit krátký odkazový štítek, pokud je "
+"požadován jakoukoli službou třetích stran."
+
+#: lib/admin/seo-settings.php:200
+msgid ""
+"Noarchive and noindex are explained in the home settings. Here you can "
+"select what other parts of the site to apply these options to."
+msgstr ""
+"Noarchive a noindex jsou vysvětleny u nastavení domovské stránky. Zde můžete "
+"vybrat, na které další části webu tato nastavení použít."
+
+#: lib/admin/seo-settings.php:201
+msgid ""
+"At least one archive should be indexed, but indexing multiple archives will "
+"typically result in a duplicate content penalization (multiple pages with "
+"identical content look manipulative to search engines)."
+msgstr ""
+"Alespoň jedna stránka archivu by měla být indexována, nicméně indexování "
+"více stránek archivu obvykle vyústí v penalizaci duplicitního obsahu (více "
+"stránek se stejným obsahem vypadá pro vyhledávače podezřele)."
+
+#: lib/admin/seo-settings.php:202
+msgid ""
+"For most sites either the home page or blog page (using the blog template) "
+"will serve as this index which is why the default is not to index "
+"categories, tags, authors, dates, or searches."
+msgstr ""
+"Na většině webů bude domovská stránka nebo stránka blogu (používající "
+"šablonu blogu) sloužit jako index a proto se ve výchozím nastavení neidexují "
+"rubriky, štítky, autoři, data nebo hledání."
+
+#: lib/admin/seo-settings.php:206
+msgid ""
+"Canonical links will point search engines to the front page of paginated "
+"content (search engines have to choose the “preferred link” when there is "
+"duplicate content on pages)."
+msgstr ""
+"Kanonické odkazy nasměrují vyhledávače na domovskou stránku stránkovaného "
+"obsahu (vyhledávače musí vybrat „preferovaný odkaz“ pokud je na stránkách "
+"duplikovaný obsah)."
+
+#: lib/admin/seo-settings.php:207
+msgid ""
+"This tells them “this is paged content and the first page starts here” and "
+"helps to avoid spreading keywords across multiple pages."
+msgstr ""
+"Tato možnost jim řekne „toto je stránkovaný obsah a první stránka začíná "
+"zde“ a pomůže zabránit rozšiřování klíčových slov v rámci více stránek."
+
+#: lib/admin/seo-settings.php:236
+msgid "SEO Archives"
+msgstr "SEO archivy"
+
+#: lib/admin/theme-settings.php:223
+msgid ""
+"Your Theme Settings provides control over how the theme works. You will be "
+"able to control a lot of common and even advanced features from this menu. "
+"Some child themes may add additional menu items to this list, including the "
+"ability to select different color schemes or set theme specific features "
+"such as a slider. Each of the boxes can be collapsed by clicking the box "
+"header and expanded by doing the same. They can also be dragged into any "
+"order you desire or even hidden by clicking on \"Screen Options\" in the top "
+"right of the screen and \"unchecking\" the boxes you do not want to see. "
+"Below you'll find the items common to every child theme..."
+msgstr ""
+"Nastavení šablony poskytuje kontrolu nad fungováním šablony. Z tohoto menu "
+"můžete ovládat více běžných i složitějších funkcí. Některé dědičné šablony "
+"mohou přidávat další položky menu do tohoto seznamu, včetně možnosti vybrat "
+"další barevná schémata nebo nastavit některé specifické funkce šablony jako "
+"například slider. Každý z boxů může být skryt kliknutím na hlavičku boxu a "
+"zobrazen stejným způsobem. Mohou být také přetaženy na libovolné místo a "
+"nebo být dokonce skryty kliknutím na \"Nastavení zobrazení\" v pravé horní "
+"části obrazovky a \"odškrtnutí\" boxů, které nechcete vidět. Níže naleznete "
+"položky běžné pro každé dědičné téma."
+
+#: lib/admin/theme-settings.php:227
+msgid ""
+"The information box allows you to see the current Genesis theme information "
+"and display if desired."
+msgstr ""
+"Informační box umožňuje vidět informace k současné Genesis šabloně a "
+"zobrazit je v případě potřeby."
+
+#: lib/admin/theme-settings.php:228
+msgid ""
+"Normally, this should be unchecked. You can also set to enable automatic "
+"updates."
+msgstr ""
+"Standardně by tento box neměl být zaškrtnut. Můžete také nastavit aktivní "
+"automatické aktualizace."
+
+#: lib/admin/theme-settings.php:229
+msgid ""
+"This does not mean the updates happen automatically without your permission; "
+"it will just notify you that an update is available. You must select it to "
+"perform the update."
+msgstr ""
+"Toto neznamená, že se aktualizace provedou automaticky bez vašeho povolení. "
+"Dojde pouze k upozornění v případě dostupnosti aktualizace a stále musíte "
+"provedení aktualizace vybrat."
+
+#: lib/admin/theme-settings.php:230
+msgid ""
+"If you provide an email address and select to notify that email address when "
+"the update is available, your site will email you when the update can be "
+"performed.No, updates only affect files being updated."
+msgstr ""
+"Pokud zadáte svou emailovou adresu, můžete dostávat upozornění v případě "
+"dostupnosti aktualizace. Váš web vám pošle email, když bude možné provést "
+"aktualizaci. Aktualizace ovlivňují pouze aktualizované soubory."
+
+#: lib/admin/theme-settings.php:234
+msgid ""
+"If you use Feedburner to handle your rss feed(s) you can use this function "
+"to set your site's native feed to redirect to your Feedburner feed."
+msgstr ""
+"Používáte-li Feedburner pro váš RSS zdroj (zdroje) můžete použít tuto funkci "
+"pro nastavení přesměrování zdroje webu na zdroj Feedburneru."
+
+#: lib/admin/theme-settings.php:235
+msgid ""
+"By filling in the feed links calling for the main site feed, it will display "
+"as a link to Feedburner."
+msgstr ""
+"Vyplněním odkazu na zdroj dochází při zavolání hlavního zdroje webu k "
+"zobrazení odkazu na Feedburner."
+
+#: lib/admin/theme-settings.php:236
+msgid ""
+"By checking the \"Redirect Feed\" box, all traffic to default feed links "
+"will be redirected to the Feedburner link instead."
+msgstr ""
+"Zaškrtnutím pole \"Přesměrovat zdroj\" bude veškerá návštěvnost výchozích "
+"odkazů zdroje přesměrována na odkaz Feedburneru."
+
+#: lib/admin/theme-settings.php:240
+msgid ""
+"This lets you select the default layout for your entire site. On most of the "
+"child themes you'll see these options:"
+msgstr ""
+"Tato možnost vám dovoluje vybrat výchozí rozložení pro celý web. Ve většině "
+"dědičných šablon uvidíte tyto možnosti:"
+
+#: lib/admin/cpt-archive-settings.php:278 lib/admin/theme-settings.php:242
+msgid "Content Sidebar"
+msgstr "Obsah Sidebar"
+
+#: lib/admin/cpt-archive-settings.php:279 lib/admin/theme-settings.php:243
+msgid "Sidebar Content"
+msgstr "Sidebar Obsah"
+
+#: lib/admin/cpt-archive-settings.php:280 lib/admin/theme-settings.php:244
+msgid "Sidebar Content Sidebar"
+msgstr "Sidebar Obsah Sidebar"
+
+#: lib/admin/cpt-archive-settings.php:281 lib/admin/theme-settings.php:245
+msgid "Content Sidebar Sidebar"
+msgstr "Obsah Sidebar Sidebar"
+
+#: lib/admin/cpt-archive-settings.php:282 lib/admin/theme-settings.php:246
+msgid "Sidebar Sidebar Content"
+msgstr "Sidebat Sidebar Obsah"
+
+#: lib/admin/theme-settings.php:250
+msgid ""
+"This layout can also be overridden in the post/page/term layout options on "
+"each post/page/term."
+msgstr ""
+"Toto rozložení může být přepsáno v nastavení rozložení příspěvku / stránky / "
+"termínu v každém příspěvku / stránce / termínu."
+
+#: lib/admin/theme-settings.php:270
+msgid ""
+"This box lets you define where the \"Breadcrumbs\" display. The Breadcrumb "
+"is the navigation tool that displays where a visitor is on the site at any "
+"given moment."
+msgstr ""
+"Tento box umožňuje definovat, kde se zobrazí \"Drobečková navigace\". "
+"Drobečková navigace je nástroj, který zobrazuje, kde se návštěvník na webu v "
+"dané chvíli nachází."
+
+#: lib/admin/theme-settings.php:274
+msgid ""
+"This allows a site wide decision on whether comments and trackbacks "
+"(notifications when someone links to your page) are enabled for posts and "
+"pages."
+msgstr ""
+"Tato možnost umožňuje rozhodnout, zda v rámci celého webu zobrazit komentáře "
+"a trackbacky (upozornění odkazování na stránku) v příspěvcích a na stránkách."
+
+#: lib/admin/theme-settings.php:275
+msgid ""
+"If you enable comments or trackbacks here, it can be disabled on an "
+"individual post or page. If you disable here, they cannot be enabled on an "
+"individual post or page."
+msgstr ""
+"Pokud zapnete komentáře a trackbacky zde, mohou být na jednotlivých "
+"příspěvcích nebo stránkách vypnuty. Pokud je zde vypnete, nemohou být "
+"zapnuty v jednotlivém příspěvku nebo stránce."
+
+#: lib/admin/theme-settings.php:279
+msgid ""
+"In the Genesis Theme Settings you may change the site wide Content Archives "
+"options to control what displays in the site's Archives."
+msgstr ""
+"V nastavení šablony Genesis můžete změnit možnosti archivu obsahu, "
+"ovlivňující co bude zobrazeno v archivech webu."
+
+#: lib/admin/theme-settings.php:280
+msgid ""
+"Archives include any pages using the blog template, category pages, tag "
+"pages, date archive, author archives, and the latest posts if there is no "
+"custom home page."
+msgstr ""
+"Archivy obsahují každou stránku používající šablonu blogu, stránku rubriky, "
+"stránku štítku, archiv data, archiv autora a poslední příspěvky v případě, "
+"že neexistuje vlastní domovská stránka."
+
+#: lib/admin/theme-settings.php:281
+msgid ""
+"The first option allows you to display the post content or the post excerpt. "
+"The Display post content setting will display the entire post including HTML "
+"code up to the <!--more--> tag if used (this is HTML for the comment tag "
+"that is not displayed in the browser)."
+msgstr ""
+"První možnost umožňuje zobrazit obsah příspěvku nebo stručný výpis. "
+"Nastavení Zobrazit obsah příspěvku zobrazí celý příspěvek včetně HTML kódu "
+"až po tag <!--more-->, pokud je použit (je to HTML pro tag komentáře, jež "
+"není v prohlížeči zobrazen)."
+
+#: lib/admin/theme-settings.php:282
+msgid ""
+"It may also be coupled with the second field \"Limit content to [___] "
+"characters\" to limit the content to a specific number of letters or spaces. "
+"This will strip any HTML, but allows for more precise and easily changed "
+"lengths than the excerpt."
+msgstr ""
+"Může být také spárován s druhým polem \"Omezit obsah na [___] znaků\" k "
+"omezení obsahu na určitý počet znaků nebo mezer. Tato možnost odstraní "
+"jakékoliv HTML, ale umožní přesněji a jednodušeji určovat délky, než stručný "
+"výpis."
+
+#: lib/admin/theme-settings.php:283
+msgid ""
+"The Display post excerpt setting will display the first 55 words of the post "
+"after also stripping any included HTML or the manual/custom excerpt added in "
+"the post edit screen."
+msgstr ""
+"Nastavení Zobrazit stručný výpis příspěvku zobrazí prvních 55 slov příspěvku "
+"po odstranění veškerého vloženého HTML a nebo ruční / vlastní stručný výpis "
+"přidaný na obrazovce úprav příspěvku."
+
+#: lib/admin/theme-settings.php:284
+msgid ""
+"The 'Include post image?' setting allows you to show a thumbnail of the "
+"first attached image or currently set featured image."
+msgstr ""
+"Nastavení 'Vložit obrázek příspěvku?' umožní zobrazit náhled prvního "
+"příloženého obrázku nebo aktuálně nastavený náhledový obrázek."
+
+#: lib/admin/theme-settings.php:285
+msgid ""
+"This option should not be used with the post content unless the content is "
+"limited to avoid duplicate images."
+msgstr ""
+"Tato možnost by neměla být použita s obsahem příspěvku, pokud není obsah "
+"omezen kvůli vynechání duplicitních obrázků."
+
+#: lib/admin/theme-settings.php:286
+msgid ""
+"The 'Image Size' list is populated by the available image sizes defined in "
+"the theme."
+msgstr ""
+"Seznam 'Velikost obrázku' je naplněn dostupnými možnostmi velikostí obrázků "
+"definovanými v šabloně."
+
+#: lib/admin/theme-settings.php:287
+msgid ""
+"Post Navigation Technique allows you to select one of three navigation "
+"methods."
+msgstr ""
+"Technika navigace v příspěvcích umožńuje vybrat jednu ze tří navigačních "
+"metod."
+
+#: lib/admin/theme-settings.php:290 lib/admin/theme-settings.php:358
+msgid "Blog Page"
+msgstr "Stránka blogu"
+
+#: lib/admin/theme-settings.php:298
+msgid ""
+"This provides you with two fields that will output to the <head></head> of "
+"your site and just before the </body>. These will appear on every page of "
+"the site and are a great way to add analytic code and other scripts. You "
+"cannot use PHP in these fields. If you need to use PHP then you should look "
+"into the Genesis Simple Hooks plugin."
+msgstr ""
+"Tato možnost zpřístupní dvě pole, která se ukládají na webu do <head></"
+"head>  a těsně před </body>. Objeví se na každé stránce webu a jsou skvělou "
+"cestou k přidání analytických kódů nebo jiných skriptů. V těchto polích není "
+"možné použít PHP, pokud potžebujete použít PHP, pak doporučejeme nahlédnout "
+"na plugin Genesis Simple Hooks."
+
+#: lib/admin/theme-settings.php:301
+msgid "How Home Pages Work"
+msgstr "Jak fungují domovské stránky"
+
+#: lib/admin/theme-settings.php:302
+msgid "Most Genesis child themes include a custom home page."
+msgstr "Většina dědičných šablon Genesis obsahuje vlastní domovskou stránku."
+
+#: lib/admin/theme-settings.php:303
+msgid ""
+"To use this type of home page, make sure your latest posts are set to show "
+"on the front page. You can setup a page with the Blog page template to show "
+"a blog style list of your latest posts on another page."
+msgstr ""
+"K použití tohoto typu domovské stránky se ujistěte, že jsou na úvodní "
+"stránce nastaveny nejnovější příspěvky. Můžete vytvořit stránku se šablonou "
+"Blog k zobrazení seznamu posledních příspěvků ve stylu blogu na jiné stránce."
+
+#: lib/admin/theme-settings.php:304
+msgid ""
+"This home page is typically setup via widgets in the sidebars for the home "
+"page. This can be accessed via the Widgets menu item under Appearance."
+msgstr ""
+"Tato domovská stránka je obvykle nastavována přes widgety pro domovskou "
+"stránku v sidebaru. Tato možnost je přístupná pod položkou Widgety zařazené "
+"pod Vzhled."
+
+#: lib/admin/theme-settings.php:305
+msgid ""
+"Child themes that include this type of home page typically include "
+"additional theme-specific tutorials which can be accessed via a sticky post "
+"at the top of that child theme support forum."
+msgstr ""
+"Dědičně šablony, které obsahují tento typ domovské stránky obvykle obsahují "
+"i další specifické návody, které jsou přístupné přes zvýrazněný příspěvek "
+"nahoře ve fóru podpory daného dědičného tématu."
+
+#: lib/admin/theme-settings.php:306
+msgid ""
+"If your theme uses a custom home page and you want to show the latest posts "
+"in a blog format, do not use the blog template. Instead, you need to rename "
+"the home.php file to home-old.php instead."
+msgstr ""
+"Pokud vaše šablona používá vlastní domovskou stránku a chcete zobrazit "
+"poslední příspěvky ve formátu blogu, nepoužívejte šablonu blog. Namísto toho "
+"musíte přejmenovat soubor home.php na home-old.php."
+
+#: lib/admin/theme-settings.php:307
+msgid ""
+"Another common home page is the \"blog\" type home page, which is common to "
+"most of the free child themes. This shows your latest posts and requires no "
+"additional setup."
+msgstr ""
+"Další běžná domovská stránka je typu \"blog\", jež je obvyklá pro většinu "
+"dědičných šablon zdarma. Tato stránka zobrazuje poslední příspěvky a "
+"nepotřebuje žádná dodatečné nastavení."
+
+#: lib/admin/theme-settings.php:308
+msgid ""
+"The third type of home page is the new dynamic home page. This is common on "
+"the newest child themes. It will show your latest posts in a blog type "
+"listing unless you put widgets into the home page sidebars."
+msgstr ""
+"Třetí typ domovské stránky je nová dynamická stránka. Ta je běžná pro "
+"nejnovější dědičné šablony. Ukáže vaše poslední příspěvky vypsané jako blog, "
+"pokud nevložíte do sidebaru domovské stránky widgety."
+
+#: lib/admin/theme-settings.php:309
+msgid ""
+"This setup is preferred because it makes it easier to show a blog on the "
+"front page (no need to rename the home.php file) and does not have the "
+"confusion of no content on the home page when the theme is initially "
+"installed."
+msgstr ""
+"Toto nastavení je preferováno, protože umožňuje jednoduché zobrazení blogu "
+"na domovské stránce (není nutné přejmenovávat soubor home.php) a nehrozí "
+"zmatek z chybějícího obsahu na domovské stránce při instalaci šablony."
+
+#: lib/admin/theme-settings.php:368
+msgid "Home Pages"
+msgstr "Domovské stránky"
+
+#: 404.php:41 lib/structure/post.php:335 page_archive.php:30
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: 404.php:46 page_archive.php:35
+msgid "Categories:"
+msgstr "Rubriky:"
+
+#: 404.php:51 page_archive.php:40
+msgid "Authors:"
+msgstr "Autoři:"
+
+#: 404.php:56 page_archive.php:45
+msgid "Monthly:"
+msgstr "Měsíční:"
+
+#: 404.php:61 page_archive.php:50
+msgid "Recent Posts:"
+msgstr "Poslední příspěvky:"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Tento příspěvek je chráněný heslem. Vložte heslo pro prohlížení komentářů."
+
+#: lib/admin/cpt-archive-settings.php:183 lib/admin/inpost-metaboxes.php:46
+#: lib/admin/term-meta.php:102 lib/admin/user-meta.php:187
+msgid "Custom Document Title"
+msgstr "Vlastní titulek dokumentu"
+
+#: lib/admin/inpost-metaboxes.php:49
+msgid "Custom Post/Page Meta Description"
+msgstr "Vlastní meta popisek příspěvku / stránky"
+
+#: lib/admin/inpost-metaboxes.php:52
+msgid "Custom Post/Page Meta Keywords, comma separated"
+msgstr "Vlastní meta klíčová slova pro příspěvek / stránku oddělená čárkou"
+
+#: lib/admin/inpost-metaboxes.php:55
+msgid "Custom Canonical URL"
+msgstr "Vlastní kanonické URL"
+
+#: lib/admin/inpost-metaboxes.php:63 lib/admin/seo-settings.php:199
+#: lib/admin/seo-settings.php:231 lib/admin/seo-settings.php:266
+msgid "Robots Meta Settings"
+msgstr "Nastavení meta robotů"
+
+#: lib/admin/inpost-metaboxes.php:67 lib/admin/inpost-metaboxes.php:70
+#: lib/admin/inpost-metaboxes.php:73
+msgid "Apply %s to this post/page"
+msgstr "Použít %s pro tento příspěvek / stránku"
+
+#: lib/admin/cpt-archive-settings.php:224 lib/admin/inpost-metaboxes.php:235
+#: lib/admin/term-meta.php:181 lib/admin/user-meta.php:257
+msgid "Default Layout set in <a href=\"%s\">Theme Settings</a>"
+msgstr "Výchozí rozložení definováno v <a href=\"%s\">Nastavení šablony</a>"
+
+#: lib/admin/import-export.php:209 lib/admin/theme-settings.php:57
+#: lib/admin/theme-settings.php:58 lib/admin/theme-settings.php:222
+#: lib/admin/theme-settings.php:313
+msgid "Theme Settings"
+msgstr "Nastavení šablony"
+
+#: lib/admin/cpt-archive-settings.php:139
+#: lib/admin/cpt-archive-settings.php:259
+#: lib/admin/cpt-archive-settings.php:269 lib/admin/import-export.php:213
+#: lib/admin/seo-settings.php:42 lib/admin/seo-settings.php:169
+#: lib/admin/seo-settings.php:211
+msgid "SEO Settings"
+msgstr "Nastavení SEO"
+
+#: lib/admin/seo-settings.php:184 lib/admin/seo-settings.php:221
+#: lib/admin/seo-settings.php:264
+msgid "Homepage Settings"
+msgstr "Nastavení domovské stránky"
+
+#: lib/admin/seo-settings.php:205 lib/admin/seo-settings.php:267
+msgid "Archives Settings"
+msgstr "Nastavení archivů"
+
+#: lib/admin/seo-settings.php:194 lib/admin/seo-settings.php:226
+#: lib/admin/seo-settings.php:265
+msgid "Document Head Settings"
+msgstr "Nastavení hlavičky dokumentu"
+
+#: lib/admin/seo-settings.php:41
+msgid "Genesis - SEO Settings"
+msgstr "Genesis - nastavení SEO"
+
+#: lib/admin/seo-settings.php:48 lib/admin/theme-settings.php:68
+#: lib/classes/admin.php:105
+msgid "Save Settings"
+msgstr "Uložit nastavení"
+
+#: lib/admin/seo-settings.php:49 lib/admin/theme-settings.php:69
+#: lib/classes/admin.php:106
+msgid "Reset Settings"
+msgstr "Obnovit nastavení"
+
+#: lib/js/load-scripts.php:146
+msgid "Are you sure you want to reset?"
+msgstr "Jste si jisti, že chcete nastavení obnovit?"
+
+#: lib/admin/seo-settings.php:305 lib/widgets/featured-page-widget.php:217
+#: lib/widgets/featured-post-widget.php:353
+#: lib/widgets/featured-post-widget.php:383
+#: lib/widgets/user-profile-widget.php:166
+msgid "Left"
+msgstr "Vlevo"
+
+#: lib/admin/seo-settings.php:308 lib/widgets/featured-page-widget.php:218
+#: lib/widgets/featured-post-widget.php:354
+#: lib/widgets/featured-post-widget.php:384
+#: lib/widgets/user-profile-widget.php:167
+msgid "Right"
+msgstr "Vpravo"
+
+#: lib/admin/seo-settings.php:347
+msgid "Which text would you like to be wrapped in %s tags?"
+msgstr "Který text chcete obalit tagy %s?"
+
+#: lib/admin/seo-settings.php:351
+msgid "Site Title"
+msgstr "Titulek webu"
+
+#: lib/admin/seo-settings.php:357
+msgid "Neither. I'll manually wrap my own text on the homepage"
+msgstr "Žádný. Na domovské stránce manuálně vložím svůj vlastní text."
+
+#: lib/admin/seo-settings.php:379
+msgid "Homepage Robots Meta Tags:"
+msgstr "Meta tagy roootů domovské stránky:"
+
+#: lib/admin/seo-settings.php:383 lib/admin/seo-settings.php:386
+#: lib/admin/seo-settings.php:389
+msgid "Apply %s to the homepage?"
+msgstr "Použít %s na domovské stránce?"
+
+#: lib/admin/seo-settings.php:542
+msgid "Canonical Paginated Archives"
+msgstr "Kanonicky stránkované archivy"
+
+#: lib/admin/seo-settings.php:545
+msgid ""
+"This option points search engines to the first page of an archive, if "
+"viewing a paginated page. If you do not know what this means, leave it on."
+msgstr ""
+"Tato možnost nasměruje vyhledávače na první stránku archivu, pokud prohlíží "
+"stránkovanou stránku. Pokud si nejste jisti, co to znamená, ponechte zapnuto."
+
+#: lib/admin/seo-settings.php:426
+msgid "Relationship Link Tags:"
+msgstr "Štítky vztahů odkazů:"
+
+#: lib/admin/seo-settings.php:433
+msgid "Windows Live Writer Support:"
+msgstr "Podpora pro Windows Live Writer:"
+
+#: lib/admin/seo-settings.php:437
+msgid "Include Windows Live Writer Support Tag?"
+msgstr "Vložit tag pro podporu Windows Live Writer?"
+
+#: lib/admin/seo-settings.php:440
+msgid "Shortlink Tag:"
+msgstr "Tag Shortlink:"
+
+#: lib/admin/seo-settings.php:444
+msgid "Include Shortlink tag?"
+msgstr "Vložit tag pro Shortlink?"
+
+#: lib/admin/seo-settings.php:470
+msgid ""
+"Depending on your situation, you may or may not want the following archive "
+"pages to be indexed by search engines. Only you can make that determination."
+msgstr ""
+"Zde záleží na vaší situaci, můžete a nemusíte chtít následující stránky "
+"archivu indexovanat vyhledávači. Rozhodnutí je pouze na vás."
+
+#: lib/admin/seo-settings.php:474 lib/admin/seo-settings.php:498
+msgid "Apply %s to Category Archives?"
+msgstr "Použít %s na archivy rubrik?"
+
+#: lib/admin/seo-settings.php:477 lib/admin/seo-settings.php:501
+msgid "Apply %s to Tag Archives?"
+msgstr "Použít na %s archivy štítků?"
+
+#: lib/admin/seo-settings.php:480 lib/admin/seo-settings.php:504
+msgid "Apply %s to Author Archives?"
+msgstr "Použít %s na archivy autora?"
+
+#: lib/admin/seo-settings.php:483 lib/admin/seo-settings.php:507
+msgid "Apply %s to Date Archives?"
+msgstr "Použít %s na archivy data?"
+
+#: lib/admin/seo-settings.php:486 lib/admin/seo-settings.php:510
+msgid "Apply %s to Search Archives?"
+msgstr "Použít %s na archivy hledání?"
+
+#: lib/admin/seo-settings.php:493
+msgid "Apply %s to Entire Site?"
+msgstr "Použít %s na celý web?"
+
+#: lib/admin/seo-settings.php:513
+msgid ""
+"Occasionally, search engines use resources like the Open Directory Project "
+"and the Yahoo! Directory to find titles and descriptions for your content. "
+"Generally, you will not want them to do this. The %s and %s tags prevent "
+"them from doing so."
+msgstr ""
+"Občas používají vyhledávače zdroje jako jsou Open Directory Project nebo "
+"Yahoo! Directory k nalezení titulků a popisků vašeho obsahu. Obyčejně to ale "
+"pro vás nebude žádoucí. Tagy %s a %s v tom vyhledávačům zabrání."
+
+#: lib/admin/seo-settings.php:517 lib/admin/seo-settings.php:520
+msgid "Apply %s to your site?"
+msgstr "Použít %s na váš web?"
+
+#: lib/admin/cpt-archive-settings.php:191 lib/admin/term-meta.php:119
+#: lib/admin/user-meta.php:204
+msgid "Comma separated list"
+msgstr "Seznam oddělený čárkou"
+
+#: lib/admin/term-meta.php:124 lib/admin/user-meta.php:209
+msgid "Robots Meta"
+msgstr "Meta robotů"
+
+#: lib/admin/term-meta.php:127 lib/admin/term-meta.php:130
+#: lib/admin/term-meta.php:133 lib/admin/user-meta.php:212
+#: lib/admin/user-meta.php:215 lib/admin/user-meta.php:218
+msgid "Apply %s to this archive?"
+msgstr "Použít %s na tento archiv?"
+
+#: lib/admin/theme-settings.php:226 lib/admin/theme-settings.php:318
+#: lib/admin/theme-settings.php:408
+msgid "Information"
+msgstr "Informace"
+
+#: lib/admin/theme-settings.php:233 lib/admin/theme-settings.php:323
+#: lib/admin/theme-settings.php:413
+msgid "Custom Feeds"
+msgstr "Vlastní zdroje"
+
+#: lib/admin/user-meta.php:140
+msgid "Author Box"
+msgstr "Box autora"
+
+#: lib/admin/theme-settings.php:269 lib/admin/theme-settings.php:343
+#: lib/admin/theme-settings.php:423
+msgid "Breadcrumbs"
+msgstr "Drobečková navigace"
+
+#: lib/admin/theme-settings.php:278 lib/admin/theme-settings.php:353
+#: lib/admin/theme-settings.php:426
+msgid "Content Archives"
+msgstr "Archivy obsahu"
+
+#: lib/admin/theme-settings.php:475
+msgid "Version:"
+msgstr "Verze:"
+
+#: lib/admin/theme-settings.php:475
+msgid "Released:"
+msgstr "Vydáno:"
+
+#: lib/admin/theme-settings.php:482
+msgid "Enable Automatic Updates"
+msgstr "Zapnout automatické aktualizace"
+
+#: lib/admin/theme-settings.php:488
+msgid "Notify"
+msgstr "Upozornit"
+
+#: lib/admin/theme-settings.php:490
+msgid "when updates are available"
+msgstr "při dostupnost aktualizace"
+
+#: lib/admin/theme-settings.php:599
+msgid "Dynamic text"
+msgstr "Dynamický text"
+
+#: lib/admin/theme-settings.php:600
+msgid "Image logo"
+msgstr "Obrázek loga"
+
+#: lib/admin/cpt-archive-settings.php:283 lib/admin/theme-settings.php:247
+#: lib/functions/layout.php:60
+msgid "Full Width Content"
+msgstr "Plná šířka obsahu"
+
+#: lib/admin/theme-settings.php:887
+msgid "Comma separated - 1,2,3 for example"
+msgstr "Oddělené čárkou - například 1,2,3"
+
+#: lib/admin/theme-settings.php:644
+msgid "Display the following:"
+msgstr "Zobrazit následující:"
+
+#: lib/admin/theme-settings.php:647
+msgid "Today's date"
+msgstr "Dnešní datum"
+
+#: lib/admin/theme-settings.php:648
+msgid "RSS feed links"
+msgstr "Odkazy RSS zdroje"
+
+#: lib/admin/theme-settings.php:649
+msgid "Search form"
+msgstr "Vyhledávací formulář"
+
+#: lib/admin/theme-settings.php:650
+msgid "Twitter link"
+msgstr "Twitter odkaz"
+
+#: lib/admin/theme-settings.php:655
+msgid "Enter Twitter ID:"
+msgstr "Vložte Twitter ID:"
+
+#: lib/admin/theme-settings.php:659
+msgid "Twitter Link Text:"
+msgstr "Text Twitter odkazu:"
+
+#: lib/admin/theme-settings.php:684
+msgid "Enter your custom feed URL:"
+msgstr "Vložte vlastní adresu zdroje:"
+
+#: lib/admin/theme-settings.php:688 lib/admin/theme-settings.php:696
+msgid "Redirect Feed?"
+msgstr "Přesměrovat zdroj?"
+
+#: lib/admin/theme-settings.php:692
+msgid "Enter your custom comments feed URL:"
+msgstr "Vložte vlastní adresu zdroje komentářů:"
+
+#: lib/admin/theme-settings.php:719
+msgid "Enable Comments"
+msgstr "Zapnout komentáře"
+
+#: lib/admin/theme-settings.php:721 lib/admin/theme-settings.php:730
+msgid "on posts?"
+msgstr "u příspěvků?"
+
+#: lib/admin/theme-settings.php:724 lib/admin/theme-settings.php:733
+msgid "on pages?"
+msgstr "u stránek?"
+
+#: lib/admin/theme-settings.php:728
+msgid "Enable Trackbacks"
+msgstr "Zapnout trackbacky"
+
+#: lib/admin/theme-settings.php:805
+msgid "Select one of the following:"
+msgstr "Vyberte jedno z následujících:"
+
+#: lib/admin/theme-settings.php:811
+msgid "Display post content"
+msgstr "Zobrazit obsah příspěvku"
+
+#: lib/admin/theme-settings.php:812
+msgid "Display post excerpts"
+msgstr "Zobrazit stručný výpis příspěvku"
+
+#: lib/admin/theme-settings.php:823 lib/widgets/featured-post-widget.php:416
+msgid "Limit content to"
+msgstr "Omezit obsah na"
+
+#: lib/admin/theme-settings.php:825 lib/widgets/featured-post-widget.php:418
+msgid "characters"
+msgstr "znaků"
+
+#: lib/widgets/featured-page-widget.php:202
+#: lib/widgets/featured-post-widget.php:368
+msgid "Image Size"
+msgstr "Velikost obrázku"
+
+#: lib/admin/theme-settings.php:848
+msgid "Select Post Navigation Technique:"
+msgstr "Vyberte techniku navigace příspěvkem:"
+
+#: lib/admin/theme-settings.php:850
+msgid "Older / Newer"
+msgstr "Starší / Novější"
+
+#: lib/admin/theme-settings.php:851
+msgid "Previous / Next"
+msgstr "Předchozí / Další"
+
+#: lib/admin/theme-settings.php:852
+msgid "Numeric"
+msgstr "Číselné"
+
+#: lib/admin/theme-settings.php:880
+msgid "Display which category:"
+msgstr "Kterou rubriku zobrazit:"
+
+#: lib/admin/theme-settings.php:881 lib/widgets/featured-post-widget.php:289
+msgid "All Categories"
+msgstr "Všechny rubriky"
+
+#: lib/admin/theme-settings.php:885
+msgid "Exclude the following Category IDs:"
+msgstr "Vynechat rubriky s následujícími ID:"
+
+#: lib/widgets/featured-post-widget.php:296
+#: lib/widgets/featured-post-widget.php:439
+msgid "Number of Posts to Show"
+msgstr "Počet příspěvků k zobrazení"
+
+#: lib/classes/breadcrumb.php:44 lib/functions/menu.php:120
+msgid "Home"
+msgstr "Domů"
+
+#: lib/functions/upgrade.php:536
+msgid "Click here to complete the upgrade"
+msgstr "Klikněte zde pro dokončení aktualizace"
+
+#: lib/functions/upgrade.php:606
+msgid "Genesis %s is available for %s"
+msgstr "Genesis %s je k dispozici pro %s"
+
+#: lib/functions/upgrade.php:607
+msgid ""
+"Genesis %s is now available. We have provided 1-click updates for this "
+"theme, so please log into your dashboard and update at your earliest "
+"convenience."
+msgstr ""
+"Genesis %s je nyní k dispozici. Pro tuto šablonu poskytujeme aktualizaci "
+"jedním klikem, tak se prosím přihlašte do vašeho rozhraní a aktualizujte co "
+"nejdříve."
+
+#: lib/shortcodes/footer.php:40
+msgid "Return to top of page"
+msgstr "Vrátit se nahoru stránky"
+
+#: lib/shortcodes/footer.php:240
+msgid "Log in"
+msgstr "Přihlásit"
+
+#: lib/shortcodes/footer.php:242
+msgid "Log out"
+msgstr "Odhlásit"
+
+#: lib/shortcodes/post.php:249
+msgid "Leave a Comment"
+msgstr "Napsat komentář"
+
+#: lib/shortcodes/post.php:248
+msgid "1 Comment"
+msgstr "1 komentář"
+
+#: lib/shortcodes/post.php:247
+msgid "% Comments"
+msgstr "% komentáře(ů)"
+
+#: lib/shortcodes/post.php:293
+msgid "Tagged With: "
+msgstr "Se štítky: "
+
+#: lib/shortcodes/post.php:333 lib/shortcodes/post.php:375
+msgid "Filed Under: "
+msgstr "Zařazeno do: "
+
+#: lib/shortcodes/post.php:423 lib/structure/comments.php:233
+#: lib/structure/comments.php:298 lib/structure/post.php:280
+msgid "(Edit)"
+msgstr "(Upravit)"
+
+#: lib/structure/comments.php:79
+msgid "<h3>Comments</h3>"
+msgstr "<h3>Komentáře</h3>"
+
+#: lib/structure/comments.php:143
+msgid "<h3>Trackbacks</h3>"
+msgstr "<h3>Trackbacky</h3>"
+
+#: lib/structure/comments.php:228
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">%s:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">%s:</span>"
+
+#: lib/structure/comments.php:228 lib/structure/comments.php:289
+msgid "says"
+msgstr "říká"
+
+#: lib/structure/comments.php:232
+msgid "%1$s at %2$s"
+msgstr "%1$s v %2$s"
+
+#: lib/structure/comments.php:239 lib/structure/comments.php:305
+msgid "Your comment is awaiting moderation."
+msgstr "Komentář čeká na schválení."
+
+#: lib/structure/comments.php:380
+msgid "Name"
+msgstr "Jméno"
+
+#: lib/structure/comments.php:386
+msgid "Email"
+msgstr "E-mail"
+
+#: lib/structure/comments.php:392
+msgid "Website"
+msgstr "Web"
+
+#: lib/structure/comments.php:401
+msgid "Speak Your Mind"
+msgstr "Co chcete říct"
+
+#: lib/structure/footer.php:145
+msgid "Copyright"
+msgstr "Copyright"
+
+#: lib/init.php:58
+msgid "Primary Navigation Menu"
+msgstr "Hlavní navigační menu"
+
+#: lib/admin/theme-settings.php:769 lib/structure/menu.php:184
+msgid "Posts"
+msgstr "Příspěvky"
+
+#: lib/structure/menu.php:185
+msgid "Comments"
+msgstr "Komentáře"
+
+#: lib/structure/post.php:287 lib/structure/post.php:289
+msgid "[Read more...]"
+msgstr "(Číst více...)"
+
+#: lib/widgets/featured-post-widget.php:53
+msgid "By"
+msgstr "Od"
+
+#: lib/structure/post.php:507 lib/structure/post.php:517
+msgid "About"
+msgstr "O"
+
+#: lib/structure/post.php:567
+msgid "Older Posts"
+msgstr "Starší příspěvky"
+
+#: lib/structure/post.php:568
+msgid "Newer Posts"
+msgstr "Novější příspěvky"
+
+#: lib/structure/search.php:33
+msgid "Search"
+msgstr "Hledání"
+
+#: lib/structure/sidebar.php:27
+msgid "Primary Sidebar Widget Area"
+msgstr "Hlavní oblast widgetů sidebaru"
+
+#: lib/structure/sidebar.php:45
+msgid "Secondary Sidebar Widget Area"
+msgstr "Vedlejší oblast widgetů sidebaru"
+
+#: lib/classes/breadcrumb.php:52
+msgid "You are here: "
+msgstr "Jste zde: "
+
+#: lib/classes/breadcrumb.php:53 lib/classes/breadcrumb.php:54
+#: lib/classes/breadcrumb.php:55 lib/classes/breadcrumb.php:56
+#: lib/classes/breadcrumb.php:58 lib/classes/breadcrumb.php:59
+msgid "Archives for "
+msgstr "Archivy pro"
+
+#: lib/classes/breadcrumb.php:57
+msgid "Search for "
+msgstr "Hledání pro"
+
+#: lib/classes/breadcrumb.php:352
+msgid "View all posts in %s"
+msgstr "Zobrazit všechny příspěvky v %s"
+
+#: lib/widgets/featured-page-widget.php:185
+#: lib/widgets/featured-post-widget.php:273
+#: lib/widgets/featured-post-widget.php:309
+#: lib/widgets/featured-post-widget.php:434
+#: lib/widgets/user-profile-widget.php:141
+msgid "Title"
+msgstr "Titulek"
+
+#: lib/widgets/featured-page-widget.php:51
+msgid "Displays featured page with thumbnails"
+msgstr "Zobrazí vybranou stránku s náhledy"
+
+#: lib/widgets/featured-page-widget.php:60
+msgid "Genesis - Featured Page"
+msgstr "Genesis - vybraná stránka"
+
+#: lib/shortcodes/footer.php:175 lib/structure/post.php:381
+msgid "by"
+msgstr "od"
+
+#: lib/widgets/featured-page-widget.php:190
+msgid "Page"
+msgstr "Stránka"
+
+#: lib/widgets/featured-page-widget.php:214
+#: lib/widgets/featured-post-widget.php:380
+msgid "Image Alignment"
+msgstr "Zarovnání obrázku"
+
+#: lib/admin/theme-settings.php:646 lib/widgets/featured-page-widget.php:216
+#: lib/widgets/featured-post-widget.php:352
+#: lib/widgets/featured-post-widget.php:382
+#: lib/widgets/user-profile-widget.php:165
+#: lib/widgets/user-profile-widget.php:185
+msgid "None"
+msgstr "Žádné"
+
+#: lib/widgets/featured-page-widget.php:226
+msgid "Show Page Title"
+msgstr "Zobrazit titulek stránky"
+
+#: lib/widgets/featured-page-widget.php:231
+msgid "Show Page Content"
+msgstr "Zobrazit obsah stránky"
+
+#: lib/widgets/featured-page-widget.php:235
+msgid "Content Character Limit"
+msgstr "Omezení znaků obsahu"
+
+#: lib/widgets/featured-page-widget.php:240
+msgid "More Text"
+msgstr "Text více"
+
+#: lib/widgets/featured-post-widget.php:65
+msgid "Displays featured posts with thumbnails"
+msgstr "Zobrazí vybrané příspěvky s náhledy"
+
+#: lib/widgets/featured-post-widget.php:74
+msgid "Genesis - Featured Posts"
+msgstr "Genesis - vybrané příspěvky"
+
+#: lib/widgets/featured-post-widget.php:56
+msgid "[Read More...]"
+msgstr "(Číst více...)"
+
+#: lib/widgets/featured-post-widget.php:60
+msgid "More Posts from this Category"
+msgstr "Více příspěvků z této rubriky"
+
+#: lib/widgets/featured-post-widget.php:282
+msgid "Category"
+msgstr "Rubrika"
+
+#: lib/widgets/featured-post-widget.php:301
+msgid "Number of Posts to Offset"
+msgstr "Počet příspěvků pro odsazení"
+
+#: lib/widgets/featured-post-widget.php:306
+msgid "Order By"
+msgstr "Řadit podle"
+
+#: lib/widgets/featured-post-widget.php:308
+msgid "Date"
+msgstr "Data"
+
+#: lib/widgets/featured-post-widget.php:310
+msgid "Parent"
+msgstr "Rodiče"
+
+#: lib/widgets/featured-post-widget.php:311
+msgid "ID"
+msgstr "ID"
+
+#: lib/widgets/featured-post-widget.php:312
+msgid "Comment Count"
+msgstr "Počtu komentářů"
+
+#: lib/widgets/featured-post-widget.php:313
+msgid "Random"
+msgstr "Náhodně"
+
+#: lib/widgets/featured-post-widget.php:318
+msgid "Sort Order"
+msgstr "Způsob řazení"
+
+#: lib/widgets/featured-post-widget.php:320
+msgid "Descending (3, 2, 1)"
+msgstr "Sestupně (3, 2, 1)"
+
+#: lib/widgets/featured-post-widget.php:321
+msgid "Ascending (1, 2, 3)"
+msgstr "Vzestupně (1, 2, 3)"
+
+#: lib/widgets/featured-post-widget.php:336
+msgid "Show Author Gravatar"
+msgstr "Zobrazit Gravatar autora"
+
+#: lib/widgets/featured-post-widget.php:340
+#: lib/widgets/user-profile-widget.php:151
+msgid "Gravatar Size"
+msgstr "Velikost Gravataru"
+
+#: lib/widgets/featured-post-widget.php:342
+msgid "Small (45px)"
+msgstr "Malý (45px)"
+
+#: lib/widgets/featured-post-widget.php:343
+msgid "Medium (65px)"
+msgstr "Střední (65px)"
+
+#: lib/widgets/featured-post-widget.php:344
+msgid "Large (85px)"
+msgstr "Velký (85px)"
+
+#: lib/widgets/featured-post-widget.php:345
+msgid "Extra Large (125px)"
+msgstr "Velmi velký (125px)"
+
+#: lib/widgets/featured-post-widget.php:350
+#: lib/widgets/user-profile-widget.php:163
+msgid "Gravatar Alignment"
+msgstr "Zarovnání Gravataru"
+
+#: lib/widgets/featured-post-widget.php:398
+msgid "Show Post Title"
+msgstr "Zobrazit titulek příspěvku"
+
+#: lib/widgets/featured-post-widget.php:423
+msgid "More Text (if applicable)"
+msgstr "Text více (pokud je použito)"
+
+#: lib/widgets/featured-post-widget.php:431
+msgid ""
+"To display an unordered list of more posts from this category, please fill "
+"out the information below"
+msgstr ""
+"Pro zobrazení neseřazeného seznamu více příspěvků z této rubriky prosím "
+"vyplňte informace níže"
+
+#: lib/widgets/featured-post-widget.php:449
+msgid "Show Category Archive Link"
+msgstr "Zobrazit odkaz na archiv rubriky"
+
+#: lib/widgets/featured-post-widget.php:453
+msgid "Link Text"
+msgstr "Text odkazu"
+
+#: lib/widgets/user-profile-widget.php:49
+msgid "Displays user profile block with Gravatar"
+msgstr "Zobrazí blok profilu uživatele s Gravatarem"
+
+#: lib/widgets/user-profile-widget.php:58
+msgid "Genesis - User Profile"
+msgstr "Genesis - Uživatelský profil"
+
+#: lib/widgets/user-profile-widget.php:102
+msgid "View My Blog Posts"
+msgstr "Prohlížet mé příspěvky na blogu"
+
+#: lib/widgets/user-profile-widget.php:146
+msgid ""
+"Select a user. The email address for this account will be used to pull the "
+"Gravatar image."
+msgstr ""
+"Vyberte uživatele. Emailová adresa tohoto účtu bude použita pro získání "
+"obrázku Gravataru."
+
+#: lib/widgets/user-profile-widget.php:154
+msgid "Small"
+msgstr "Malý"
+
+#: lib/widgets/user-profile-widget.php:154
+msgid "Medium"
+msgstr "Střední"
+
+#: lib/widgets/user-profile-widget.php:154
+msgid "Large"
+msgstr "Velký"
+
+#: lib/widgets/user-profile-widget.php:154
+msgid "Extra Large"
+msgstr "Extra velký"
+
+#: lib/widgets/user-profile-widget.php:172
+msgid "Select which text you would like to use as the author description"
+msgstr "Vyberte jaký text chcete použít pro popis autora"
+
+#: lib/widgets/user-profile-widget.php:175
+msgid "Author Bio"
+msgstr "Biografie autora"
+
+#: lib/widgets/user-profile-widget.php:177
+msgid "Custom Text (below)"
+msgstr "Vlastní text (níže)"
+
+#: lib/widgets/user-profile-widget.php:184
+msgid ""
+"Choose your extended \"About Me\" page from the list below. This will be the "
+"page linked to at the end of the about me section."
+msgstr ""
+"Vyberte vaši rozšířenou stránku \"O mně\" ze seznamu níže. Bude to "
+"odkazovaná stránka na konci sekce o mně."
+
+#: lib/widgets/user-profile-widget.php:195
+msgid "Show Author Archive Link?"
+msgstr "Zobrazit odkaz na archiv autora?"
+
+#: lib/admin/import-export.php:45
+msgid "Genesis - Import/Export"
+msgstr "Genesis - Import / Export"
+
+#: lib/admin/import-export.php:128
+msgid "Import Genesis Settings File"
+msgstr "Importovat soubor nastavení Genesis"
+
+#: lib/admin/import-export.php:136
+msgid "Upload File: (Maximum Size: %s)"
+msgstr "Nahrát soubor: (Maximální velikost: %s)"
+
+#: lib/admin/import-export.php:147
+msgid "Export Genesis Settings File"
+msgstr "Exportovat soubor nastavení Genesis"
+
+#: lib/admin/import-export.php:150
+msgid ""
+"Once you have saved the download file, you can use the import function on "
+"another site to import this data."
+msgstr ""
+"Jakmile uložíte stažený soubor, můžete použít funkci importu na jiném webu "
+"pro import těchto dat."
+
+#: lib/admin/import-export.php:157
+msgid "Download Export File"
+msgstr "Stáhnout soubor exportu"
+
+#: lib/admin/inpost-metaboxes.php:46 lib/admin/inpost-metaboxes.php:49
+msgid "Characters Used: %s"
+msgstr "Použito znaků: %s"
+
+#: lib/admin/inpost-metaboxes.php:58
+msgid "Custom Redirect URL"
+msgstr "Vlastní adresa pro přesměrování"
+
+#: lib/admin/cpt-archive-settings.php:231 lib/admin/inpost-metaboxes.php:242
+msgid "Custom Body Class"
+msgstr "Vlastní třída body"
+
+#: lib/admin/inpost-metaboxes.php:245
+msgid "Custom Post Class"
+msgstr "Vlastní třída příspěvku"
+
+#: lib/admin/import-export.php:46 lib/admin/import-export.php:67
+#: lib/admin/import-export.php:83
+msgid "Import/Export"
+msgstr "Import / Export"
+
+#: lib/admin/term-meta.php:176 lib/admin/user-meta.php:252
+msgid "Choose Layout"
+msgstr "Vyberte rozložení"
+
+#: lib/admin/theme-settings.php:833
+msgid "Include the Featured Image?"
+msgstr "Přiložit náhledový obrázek?"
+
+#: lib/admin/user-meta.php:76
+msgid "Genesis Admin Menus"
+msgstr "Menu administrace Genesis"
+
+#: lib/admin/user-meta.php:79
+msgid "Enable Genesis Admin Menu?"
+msgstr "Zapnout menu administrace Genesis?"
+
+#: lib/admin/user-meta.php:82
+msgid "Enable SEO Settings Submenu?"
+msgstr "Zapnout submenu Nastavení SEO?"
+
+#: lib/admin/user-meta.php:85
+msgid "Enable Import/Export Submenu?"
+msgstr "Zapnout submenu Import / Export?"
+
+#: lib/admin/user-meta.php:143
+msgid "Enable Author Box on this User's Posts?"
+msgstr "Zapnou box autora u příspěvků tohoto uživatele?"
+
+#: lib/admin/user-meta.php:146
+msgid "Enable Author Box on this User's Archives?"
+msgstr "Zapnout box autora na archivech tohoto uživatele?"
+
+#: lib/admin/user-meta.php:120 lib/admin/user-meta.php:183
+#: lib/admin/user-meta.php:248
+msgid "These settings apply to this author's archive pages."
+msgstr "Tato nastavení budou aplikována na stránky archivu tohoto autora."
+
+#: lib/admin/user-meta.php:124
+msgid "Custom Archive Headline"
+msgstr "Vlastní nadpis archivu"
+
+#: lib/admin/user-meta.php:127
+msgid "Will display in the %s tag at the top of the first page"
+msgstr "Zobrazí se v tagu %s nahoře na první stránce"
+
+#: lib/admin/user-meta.php:132
+msgid "Custom Description Text"
+msgstr "Vlastní text popisku"
+
+#: lib/admin/user-meta.php:135
+msgid "This text will be the first paragraph, and display on the first page"
+msgstr "Tento text bude prvním odstavcem zobrazeným na domovské stránce"
+
+#: lib/functions/upgrade.php:512
+msgid "Congratulations! You are now rocking Genesis %s"
+msgstr "Gratulujeme! Nyní ovládáte Genesis %s"
+
+#: lib/widgets/featured-page-widget.php:198
+#: lib/widgets/featured-post-widget.php:364
+msgid "Show Featured Image"
+msgstr "Zobrazit náhledový obrázek"
+
+#: lib/widgets/featured-post-widget.php:403
+msgid "Show Post Info"
+msgstr "Zobrazit informace o příspěvku"
+
+#: lib/widgets/featured-post-widget.php:408
+msgid "Content Type"
+msgstr "Typ obsahu"
+
+#: lib/widgets/featured-post-widget.php:410
+msgid "Show Content"
+msgstr "Zobrazit obsah"
+
+#: lib/widgets/featured-post-widget.php:411
+msgid "Show Excerpt"
+msgstr "Zobrazit stručný výpis"
+
+#: lib/widgets/featured-post-widget.php:412
+msgid "Show Content Limit"
+msgstr "Zobrazit omezení obsahu"
+
+#: lib/widgets/featured-post-widget.php:413
+msgid "No Content"
+msgstr "Žádný obsah"
+
+#: lib/classes/breadcrumb.php:60
+msgid "Not found: "
+msgstr "Nenalezeno:"
+
+#: lib/classes/breadcrumb.php:187 lib/classes/breadcrumb.php:280
+#: lib/classes/breadcrumb.php:316
+msgid "View %s"
+msgstr "Zobrazit %s"
+
+#: lib/classes/breadcrumb.php:467 lib/classes/breadcrumb.php:491
+msgid "View archives for %s"
+msgstr "Zobrazit archivy pro %s"
+
+#: lib/classes/breadcrumb.php:497
+msgid "View archives for %s %s"
+msgstr "Zobrazit archivy pro %s %s"
+
+#: lib/classes/breadcrumb.php:386
+msgid "View all %s"
+msgstr "Zobrazit všechny %s"
+
+#: lib/classes/breadcrumb.php:561
+msgid "View all items in %s"
+msgstr "Zobrazit všechny položky v %s"
+
+#: lib/functions/widgetize.php:108
+msgid "Header Right"
+msgstr "Hlavička vpravo"
+
+#: lib/functions/widgetize.php:117
+msgid "Primary Sidebar"
+msgstr "Hlavní sidebar"
+
+#: lib/functions/widgetize.php:126
+msgid "Secondary Sidebar"
+msgstr "Vedlejší sidebar"
+
+#: lib/admin/import-export.php:191
+msgid "There was a problem importing your settings. Please try again."
+msgstr "Nastal problém při importu vašeho nastavení. Zkuste to prosím znovu."
+
+#: lib/functions/layout.php:109
+msgid "No Label Selected"
+msgstr "Nebyl vybrán žádný název"
+
+#: lib/functions/widgetize.php:159
+msgid "Footer %d"
+msgstr "Patička %d"
+
+#: lib/admin/import-export.php:235
+msgid "No export options available."
+msgstr "Žádné možnosti exportu nejsou k dispozici."
+
+#: lib/js/load-scripts.php:143
+msgid "Select / Deselect All"
+msgstr "Označit / zrušit vše"
+
+#: lib/shortcodes/post.php:42
+msgid "ago"
+msgstr "před"
+
+#: lib/structure/post.php:589 lib/structure/post.php:655
+msgid "Previous Page"
+msgstr "Předchozí stránka"
+
+#: lib/structure/post.php:590 lib/structure/post.php:685
+msgid "Next Page"
+msgstr "Další stránka"
+
+#: lib/admin/theme-settings.php:539
+msgid "Default"
+msgstr "Výchozí"
+
+#: lib/admin/import-export.php:131
+msgid "Choose the file from your computer and click \"Upload file and Import\""
+msgstr ""
+"Vyberte soubor ve vašem počítači a klikněte na \"Nahrát soubor a importovat\""
+
+#: lib/admin/import-export.php:139
+msgid "Upload File and Import"
+msgstr "Nahrát soubor a importovat"
+
+#: lib/admin/import-export.php:189
+msgid "Settings successfully imported."
+msgstr "Nastavení bylo úspěšně importováno."
+
+#: lib/admin/seo-settings.php:51 lib/admin/theme-settings.php:71
+#: lib/classes/admin.php:108
+msgid "Settings reset."
+msgstr "Nastavení obnoveno."
+
+#: lib/admin/seo-settings.php:50 lib/admin/theme-settings.php:70
+#: lib/classes/admin.php:107
+msgid "Settings saved."
+msgstr "Nastavení uloženo."
+
+#: lib/admin/seo-settings.php:376
+msgid "Keywords are generally ignored by Search Engines."
+msgstr "Klíčová slova jsou obvykle vyhledávači ignorována."
+
+#: lib/admin/theme-settings.php:239 lib/admin/theme-settings.php:328
+#: lib/admin/theme-settings.php:414
+msgid "Default Layout"
+msgstr "Výchozí rozložení"
+
+#: lib/admin/theme-settings.php:273 lib/admin/theme-settings.php:348
+#: lib/admin/theme-settings.php:425
+msgid "Comments and Trackbacks"
+msgstr "Komentáře a trackbacky"
+
+#: lib/admin/theme-settings.php:297 lib/admin/theme-settings.php:363
+#: lib/admin/theme-settings.php:430
+msgid "Header and Footer Scripts"
+msgstr "Skripty hlavičky a patičky"
+
+#: lib/admin/theme-settings.php:478
+msgid ""
+"This can be helpful for diagnosing problems with your theme when seeking "
+"assistance in the <a href=\"%s\" target=\"_blank\">support forums</a>."
+msgstr ""
+"Toto může být nápomocno při diagnostice problémů s vaší šablonou, hledáte-li "
+"pomoc ve <a href=\"%s\" target=\"_blank\">fórech podpory</a>."
+
+#: lib/admin/theme-settings.php:699
+msgid ""
+"If your custom feed(s) are not handled by Feedburner, we do not recommend "
+"that you use the redirect options."
+msgstr ""
+"Pokud nejsou vaše vlastní zdroje servírovány Feedburnerem, nedoporučujeme "
+"používat možnosti přesměrování."
+
+#: lib/admin/theme-settings.php:736
+msgid ""
+"Comments and Trackbacks can also be disabled on a per post/page basis when "
+"creating/editing posts/pages."
+msgstr ""
+"Komentáře a trackbacky mohou být vypnuty také v jednotlivých příspěvcích / "
+"stránkách při vytváření příspěvků / stránek."
+
+#: lib/admin/theme-settings.php:755
+msgid "Enable on:"
+msgstr "Zapnout na:"
+
+#: lib/admin/theme-settings.php:759
+msgid "Front Page"
+msgstr "Úvodní stránka"
+
+#: lib/admin/theme-settings.php:772
+msgid "Pages"
+msgstr "Stránky"
+
+#: lib/admin/theme-settings.php:775
+msgid "Archives"
+msgstr "Archivy"
+
+#: lib/admin/theme-settings.php:778
+msgid "404 Page"
+msgstr "Stránka 404"
+
+#: lib/admin/theme-settings.php:784
+msgid ""
+"Breadcrumbs are a great way of letting your visitors find out where they are "
+"on your site with just a glance. You can enable/disable them on certain "
+"areas of your site."
+msgstr ""
+"Drobečková navigace je skvělým způsobem, jak dát vaším návštěvníkům rychle "
+"vědět, kde se na webu nacházejí. Můžete je zapnout / vypnout v určitých "
+"oblastech vašeho webu."
+
+#: lib/admin/theme-settings.php:828
+msgid ""
+"Using this option will limit the text and strip all formatting from the text "
+"displayed. To use this option, choose \"Display post content\" in the select "
+"box above."
+msgstr ""
+"Použití této možnosti omezí množství textu a odstraní ze zobrazeného textu "
+"veškeré formátování. Pro použití této možnosti vyberte \"Zobrazit obsah "
+"příspěvku\" ve výsuvném menu výše."
+
+#: lib/admin/theme-settings.php:856
+msgid ""
+"These options will affect any blog listings page, including archive, author, "
+"blog, category, search, and tag pages."
+msgstr ""
+"Tyto možnosti ovlivní všechny stránky s výpisem blogu, včetně stránek "
+"archivů, autorů, blogů, rubrik, hledání a štítků."
+
+#: lib/functions/formatting.php:284
+msgctxt "time difference"
+msgid "seconds"
+msgstr "sekund"
+
+#: lib/functions/formatting.php:288
+msgctxt "time difference"
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] "%s rokem"
+msgstr[1] "%s lety"
+
+#: lib/functions/formatting.php:289
+msgctxt "time difference"
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] "%s měsícem"
+msgstr[1] "%s měsíci"
+
+#: lib/functions/formatting.php:290
+msgctxt "time difference"
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] "%s týdnem"
+msgstr[1] "%s týdny"
+
+#: lib/functions/formatting.php:291
+msgctxt "time difference"
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s dnem"
+msgstr[1] "%s dny"
+
+#: lib/functions/formatting.php:292
+msgctxt "time difference"
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] "%s hodinou"
+msgstr[1] "%s hodinami"
+
+#: lib/functions/formatting.php:293
+msgctxt "time difference"
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s minutou"
+msgstr[1] "%s minutami"
+
+#: lib/functions/formatting.php:294
+msgctxt "time difference"
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s sekundou"
+msgstr[1] "%s sekundami"
+
+#: lib/functions/formatting.php:319
+msgctxt "separator in time difference"
+msgid "and"
+msgstr "a"
+
+#: lib/functions/layout.php:39
+msgid "Content-Sidebar"
+msgstr "Obsah-Sidebar"
+
+#: lib/functions/layout.php:44
+msgid "Sidebar-Content"
+msgstr "Sidebar-Obsah"
+
+#: lib/functions/layout.php:48
+msgid "Content-Sidebar-Sidebar"
+msgstr "Obsah-Sidebar-Sidebar"
+
+#: lib/functions/layout.php:52
+msgid "Sidebar-Sidebar-Content"
+msgstr "Sidebar-Sidebar-Obsah"
+
+#: lib/functions/layout.php:56
+msgid "Sidebar-Content-Sidebar"
+msgstr "Sidebar-Obsah-Sidebar"
+
+#: lib/admin/inpost-metaboxes.php:29 lib/admin/term-meta.php:98
+#: lib/admin/user-meta.php:182
+msgid "Theme SEO Settings"
+msgstr "Nastavení SEO šablony"
+
+#: lib/admin/cpt-archive-settings.php:140
+#: lib/admin/cpt-archive-settings.php:275
+#: lib/admin/cpt-archive-settings.php:291 lib/admin/inpost-metaboxes.php:214
+#: lib/admin/term-meta.php:172 lib/admin/user-meta.php:247
+msgid "Layout Settings"
+msgstr "Nastavení rozložení"
+
+#: lib/admin/seo-settings.php:430
+msgid "Adjacent Posts %s link tags"
+msgstr "Sousední příspěvky %s odkazů štítků"
+
+#: lib/admin/cpt-archive-settings.php:46 lib/admin/cpt-archive-settings.php:47
+#: lib/admin/cpt-archive-settings.php:138
+#: lib/admin/cpt-archive-settings.php:246
+#: lib/admin/cpt-archive-settings.php:253 lib/admin/term-meta.php:45
+msgid "Archive Settings"
+msgstr "Nastavení archivu"
+
+#: lib/admin/theme-settings.php:88
+msgid "Follow me on Twitter"
+msgstr "Sledujte mě na Twitteru"
+
+#: lib/admin/theme-settings.php:411
+msgid "Color Style"
+msgstr "Barevný styl"
+
+#: lib/admin/theme-settings.php:781
+msgid "Attachment Page"
+msgstr "Stránka přílohy"
+
+#: lib/admin/theme-settings.php:837
+msgid "Image Size:"
+msgstr "Velikost obrázku:"
+
+#: lib/admin/theme-settings.php:892
+msgid "Number of Posts to Show:"
+msgstr "Počet příspěvků k zobrazení:"
+
+#: lib/admin/theme-settings.php:914 lib/admin/theme-settings.php:924
+msgid "Enter scripts or code you would like output to %s:"
+msgstr "Vložte skripty nebo kód, který chcete vypsat do %s:"
+
+#: lib/admin/theme-settings.php:919 lib/admin/theme-settings.php:929
+msgid ""
+"The %1$s hook executes immediately before the closing %2$s tag in the "
+"document source."
+msgstr ""
+"Hook %1$s se provede hned před uzavřením %2$s tagu ve zdrojovém souboru "
+"dokumentu."
+
+#: lib/admin/theme-settings.php:537
+msgid "Color Style:"
+msgstr "Styl barev:"
+
+#: lib/admin/theme-settings.php:551
+msgid ""
+"Please select the color style from the drop down list and save your settings."
+msgstr "Vyberte prosím styl barev z výsuvného menu a uložte nastavení."
+
+#: lib/admin/user-meta.php:72
+msgid "User Permissions"
+msgstr "Práva uživatele"
+
+#: lib/admin/user-meta.php:119
+msgid "Author Archive Settings"
+msgstr "Nastavení archivu autora"
+
+#: lib/classes/admin.php:119
+msgid ""
+"You cannot use %s to create two menus in the same subclass. Please use "
+"separate subclasses for each menu."
+msgstr ""
+"Nemůžete použít %s pro vytvoření dvou menu ve stejné podtřídě. Použijte "
+"prosím oddělené podtřídy pro každé menu."
+
+#: lib/functions/menu.php:91
+msgid ""
+"The argument, \"context\", has been replaced with \"theme_location\" in the "
+"$args array."
+msgstr "Argument \"context\" byl nahrazen \"theme_location\" v poli $args."
+
+#: lib/functions/seo.php:127
+msgid "Dismiss"
+msgstr "Zamítnout"
+
+#: lib/functions/widgetize.php:118
+msgid ""
+"This is the primary sidebar if you are using a two or three column site "
+"layout option."
+msgstr ""
+"Toto je hlavní sidebar v případě, že používáte dvou nebo tří sloupcové "
+"rozvržení stránky."
+
+#: lib/functions/widgetize.php:127
+msgid ""
+"This is the secondary sidebar if you are using a three column site layout "
+"option."
+msgstr ""
+"Toto je vedlejší sidebar v případě, že používáte tří sloupcové rozvržení "
+"stránky."
+
+#: lib/functions/widgetize.php:160
+msgid "Footer %d widget area."
+msgstr "Oblast %d widgetů v patičce."
+
+#: lib/widgets/user-profile-widget.php:189
+msgid "Extended page link text"
+msgstr "Text odkazu na rozšířenou stránku"
+
+#: lib/functions/widgetize.php:108
+msgid "Header Left"
+msgstr "Hlavička vlevo"
+
+#: lib/functions/widgetize.php:109
+msgid "This is the widget area in the header."
+msgstr "Toto je oblast widgetů v hlavičce."
+
+#: lib/init.php:59
+msgid "Secondary Navigation Menu"
+msgstr "Vedlejší navigační menu"
+
+#: lib/widgets/user-profile-widget.php:178
+msgid "Custom Text Content"
+msgstr "Vlastní textový obsah"
+
+#: lib/admin/seo-settings.php:52 lib/admin/theme-settings.php:72
+#: lib/classes/admin.php:109
+msgid "Error saving settings."
+msgstr "Chyba při ukládání nastavení"
+
+#: lib/admin/cpt-archive-settings.php:160 lib/admin/term-meta.php:49
+msgid "Archive Headline"
+msgstr "Nadpis archivu"
+
+#: lib/admin/cpt-archive-settings.php:162 lib/admin/term-meta.php:52
+msgid "Leave empty if you do not want to display a headline."
+msgstr "Ponechte prázdné v případě, že nechcete nadpis zobrazit."
+
+#: lib/admin/cpt-archive-settings.php:164 lib/admin/term-meta.php:56
+msgid "Archive Intro Text"
+msgstr "Úvodní text archivu"
+
+#: lib/admin/cpt-archive-settings.php:166 lib/admin/term-meta.php:59
+msgid "Leave empty if you do not want to display any intro text."
+msgstr "Ponechte prázdné, pokud nechcete zobrazovat žádný text."
+
+#: lib/structure/footer.php:145
+msgid "on"
+msgstr "na"
+
+#: lib/admin/seo-settings.php:392
+msgid "Homepage Author"
+msgstr "Autor domovské stránky"
+
+#: lib/admin/seo-settings.php:395
+msgid ""
+"Select the user that you would like to be used as the %s for the homepage. "
+"Be sure the user you select has entered their Google+ profile address on the "
+"profile edit screen."
+msgstr ""
+"Vyberte uživatele, které byste chtěl použít jako %s pro domovskou stránku. "
+"Ujistěte se, že vybraný uživatel vložil na obrazovce úprav svou adresu "
+"profilu na Google+."
+
+#: lib/admin/seo-settings.php:400
+msgid "Select User"
+msgstr "Vyberte uživatele"
+
+#: lib/admin/theme-settings.php:597
+msgid "Use for site title/logo:"
+msgstr "Použít pro titulek webu / logo:"
+
+#: lib/admin/user-meta.php:26
+msgid "Google+"
+msgstr "Google+"
+
+#: lib/admin/whats-new.php:39
+msgid "Welcome to Genesis %s"
+msgstr "Vítejte v Genesis %s"
+
+#: lib/admin/whats-new.php:66
+msgid "What&#8217;s New"
+msgstr "Co je nového"
+
+#: lib/admin/whats-new.php:112
+msgid "Project Leads"
+msgstr "Projekt vede"
+
+#: lib/admin/whats-new.php:156
+msgid "Go to Theme Settings &rarr;"
+msgstr "Otevřít nastavení šablony &rarr;"
+
+#: lib/admin/whats-new.php:157
+msgid "Go to SEO Settings &rarr;"
+msgstr "Otevřít nastavení SEO &rarr;"
+
+#: lib/shortcodes/post.php:170
+msgid "Visit %s&#x02019;s website"
+msgstr "Navštivte web %s"
+
+#: lib/structure/loops.php:253
+msgid "Read more"
+msgstr "Číst více"
+
+#: lib/structure/search.php:31
+msgid "Search this website"
+msgstr "Prohledat tento web"
+
+#: lib/widgets/user-profile-widget.php:43
+msgid "Read More"
+msgstr "Číst více"
+
+#: lib/admin/seo-settings.php:263
+msgid "Document Title Settings"
+msgstr "Nastavení titulku dokumentu"
+
+#: lib/admin/seo-settings.php:285
+msgid ""
+"The document title (%s) is the single most important element in your "
+"document source for <abbr title=\"Search engine optimization\">SEO</abbr>. "
+"It succinctly informs search engines of what information is contained in the "
+"document. The title can, and should, be different on each page, but these "
+"options will help you control what it will look like by default."
+msgstr ""
+"Titulek dokumentu (%s) je nejdůležitějším prvkem ve zdroji vašeho dokumentu "
+"pro <abbr title=\"Optimalizace pro vyhledávače\">SEO</abbr>. Titulek "
+"vyhledávače informuje, jaké jsou v dokumentu obsaženy informace. Titulek "
+"může, a měl by být, odlišný pro každou stránku, ale tato nastavení vám "
+"pomohou určit, jak budou vypadat výchozí."
+
+#: lib/admin/seo-settings.php:287
+msgid ""
+"<strong>By default</strong>, the home page document title will contain the "
+"site title, the single post and page document titles will contain the post "
+"or page title, the archive pages will contain the archive type, etc."
+msgstr ""
+"Ve <strong>výchozím</strong> nastavení by měl titulek dokumentu domovské "
+"stránky obsahovat titulek webu, titulek jednotlivých příspěvků a stránek by "
+"měl obsahovat název příspěvku nebo stránky, stránky archivu by měly "
+"obsahovat typ archovu a podobně."
+
+#: lib/admin/seo-settings.php:291
+msgid "Add site description (tagline) to %s on home page?"
+msgstr "Přidat popisek webu (řádek tagu) k %s na domovskou stránku?"
+
+#: lib/admin/seo-settings.php:296
+msgid "Add site name to %s on inner pages?"
+msgstr "Přidat název webu k %s na vnitřní stránky?"
+
+#: lib/admin/seo-settings.php:300
+msgid "Document Title Additions Location:"
+msgstr "Umístění přídavků titulku dokumentu:"
+
+#: lib/admin/seo-settings.php:301
+msgid "Determines which side the added title text will go on."
+msgstr "Určuje, na kterou stranu bude přidáný text titulku umístěn."
+
+#: lib/admin/seo-settings.php:313
+msgid "Document Title Separator:"
+msgstr "Oddělovač titulku dokumentu:"
+
+#: lib/admin/seo-settings.php:315
+msgid ""
+"If the title consists of two parts (original title and optional addition), "
+"then the separator will go in between them."
+msgstr ""
+"Pokud se titulek skládá ze dvou části (originální titulek a volitelný "
+"přídavek), bude oddělovač umístěn mezi ně."
+
+#: lib/admin/seo-settings.php:354
+msgid "Site Description (Tagline)"
+msgstr "Popisek webu (řádek tagu)"
+
+#: lib/admin/seo-settings.php:362
+msgid "Homepage Document Title:"
+msgstr "Titulek dokumentu domovské stránky:"
+
+#: lib/admin/seo-settings.php:364
+msgid ""
+"If you leave the document title field blank, your site&#8217;s title will be "
+"used instead."
+msgstr ""
+"Pokud ponecháte pole pro titulek dokumentu prázdné, bude namísto něj použit "
+"název webu."
+
+#: lib/admin/seo-settings.php:368
+msgid "Home Meta Description:"
+msgstr "Meta popisek domovské stránky:"
+
+#: lib/admin/seo-settings.php:370
+msgid ""
+"The meta description can be used to determine the text used under the title "
+"on search engine results pages."
+msgstr ""
+"Meta popisek může být použit pro určení textu použitého pod názvem webu ve "
+"výsledcích vyhledávání."
+
+#: lib/admin/seo-settings.php:374
+msgid "Home Meta Keywords (comma separated):"
+msgstr "Klíčová slova domovské stránky (oddělna čárkou):"
+
+#: lib/admin/seo-settings.php:424
+msgid ""
+"By default, WordPress places several tags in your document %1$s. Most of "
+"these tags are completely unnecessary, and provide no <abbr title=\"Search "
+"engine optimization\">SEO</abbr> value whatsoever; they just make your site "
+"slower to load. Choose which tags you would like included in your document "
+"%1$s. If you do not know what something is, leave it unchecked."
+msgstr ""
+"Ve výchozím nastavení umístí WordPress do dokumentu několik tagů %1$s. "
+"Většina z těchto tagů není potřebná a nepřidává žádnou hodnotu pro <abbr "
+"title=\"Optimalizace pro vyhledávače\">SEO</abbr>, jen zpomalí načtení "
+"stránky. Vyberte, které tagy chcete v dokumentu %1$s zachovat. Pokud nevíte, "
+"co něco je, nechte odškrtnuto."
+
+#: lib/admin/seo-settings.php:447
+msgid ""
+"<span class=\"genesis-admin-note\">Note:</span> The shortlink tag might have "
+"some use for 3rd party service discoverability, but it has no <abbr title="
+"\"Search engine optimization\">SEO</abbr> value whatsoever."
+msgstr ""
+"<span class=\"genesis-admin-note\">Poznámka:</span> Tag zkráceného odkazu "
+"může mít využití pro fungování služeb třetích stran, ale nemá žádný význam "
+"pro <abbr title=\"Optimalizace pro vyhledávače\">SEO</abbr>."
+
+#: lib/admin/seo-settings.php:489
+msgid ""
+"Some search engines will cache pages in your site (e.g. Google Cache). The "
+"%1$s tag will prevent them from doing so. Choose which archives you want "
+"%1$s applied to."
+msgstr ""
+"Některé vyhledávače budou ukládát stránky vašeho webu (např. Google Cache). "
+"Tag %1$s jim v tom zabrání. Vyberte, na které archivy chcete %1$s aplikovat."
+
+#: lib/admin/theme-settings.php:253 lib/admin/theme-settings.php:333
+#: lib/admin/theme-settings.php:417
+msgid "Header"
+msgstr "Hlavička"
+
+#: lib/admin/theme-settings.php:258 lib/admin/theme-settings.php:338
+#: lib/admin/theme-settings.php:420
+msgid "Navigation"
+msgstr "Navigace"
+
+#: lib/admin/theme-settings.php:427
+msgid "Blog Page Template"
+msgstr "Šablona stránky blogu"
+
+#: lib/admin/theme-settings.php:762
+msgid "Posts Page"
+msgstr "Stránka příspěvků"
+
+#: lib/admin/theme-settings.php:765
+msgid "Homepage"
+msgstr "Domovská stránka"
+
+#: lib/admin/theme-settings.php:875
+msgid ""
+"These settings apply to any page given the \"Blog\" page template, not the "
+"homepage or post archive pages."
+msgstr ""
+"Tato nastavení budou použita na všechny stránky s šablonou \"Blog\", ne na "
+"domovskou stránku nebo stránky archivu příspěvků."
+
+#: lib/functions/seo.php:125
+msgid ""
+"Have you tried our Scribe content marketing software? Do research, content "
+"and website optimization, and relationship building without leaving "
+"WordPress. <b>Genesis owners save big when using the special link on the "
+"special page we've created just for you</b>. <a href=\"%s\" target=\"_blank"
+"\">Click here for more info</a>."
+msgstr ""
+"Zkusili jste náš software pro obsahový marketing Scribe? Udělejte průzkum, "
+"optimalizaci obsahu a webu a budujte vztahy bez opuštění WordPressu. "
+"<b>Majitelé Genesis výrazně ušetří použitím speciálního odkazu na speciální "
+"stránce, kterou jsme vytvořili jen pro vás</b>. <a href=\"%s\" target="
+"\"_blank\">Klikněte zde pro více informací</a>."
+
+#: lib/admin/whats-new.php:118 lib/admin/whats-new.php:123
+#: lib/admin/whats-new.php:128
+msgid "Lead Developer"
+msgstr "Hlavní vývojář"
+
+#: lib/admin/whats-new.php:136
+msgid "Contributors"
+msgstr "Přispěvatelé"
+
+#: lib/admin/whats-new.php:147
+msgid "Contributor"
+msgstr "Přispěvatel"
+
+#: search.php:22
+msgid "Search Results for:"
+msgstr "Výsledky hledání pro:"
+
+#: 404.php:27
+msgid "Not found, error 404"
+msgstr "Nenalezeno, chyba 404"
+
+#: 404.php:32
+msgid ""
+"The page you are looking for no longer exists. Perhaps you can return back "
+"to the site's <a href=\"%s\">homepage</a> and see if you can find what you "
+"are looking for. Or, you can try finding it by using the search form below."
+msgstr ""
+"Hledaná stránka už neexistuje. Možná se můžete vrátit zpátky na <a href=\"%s"
+"\">domovskou stránku</a> webu a zkusit najít to, co hledáte. Nebo můžete "
+"zkusit použít vyhledávací formulář níže."
+
+#: lib/admin/cpt-archive-settings.php:55
+msgid "Archive"
+msgstr "Archiv"
+
+#: lib/admin/cpt-archive-settings.php:158
+msgid "View the <a href=\"%s\">%s archive</a>."
+msgstr "Zobrazit <a href=\"%s\">archiv %s</a>."
+
+#: lib/admin/cpt-archive-settings.php:186 lib/admin/term-meta.php:109
+#: lib/admin/user-meta.php:194
+msgid "Meta Description"
+msgstr "Meta popisek"
+
+#: lib/admin/cpt-archive-settings.php:189 lib/admin/term-meta.php:116
+#: lib/admin/user-meta.php:201
+msgid "Meta Keywords"
+msgstr "Meta klíčová slova"
+
+#: lib/admin/cpt-archive-settings.php:193
+msgid "Robots Meta Tags:"
+msgstr "Me tagy robotů:"
+
+#: lib/admin/cpt-archive-settings.php:196
+#: lib/admin/cpt-archive-settings.php:199
+#: lib/admin/cpt-archive-settings.php:202
+msgid "Apply %s to this archive"
+msgstr "Použít %s na tento archiv"
+
+#: lib/admin/inpost-metaboxes.php:141
+msgid "Scripts"
+msgstr "Skripty"
+
+#: lib/admin/inpost-metaboxes.php:158
+msgid "Page-specific Scripts"
+msgstr "Skripty specifické pro stránku"
+
+#: lib/admin/inpost-metaboxes.php:160
+msgid ""
+"Suitable for custom tracking, conversion or other page-specific script. Must "
+"include %s tags."
+msgstr ""
+"Vhodný pro vlastní tracking, konverze nebo jiný skript specifický pro "
+"stránku. Musí obsahovat tagy %s."
+
+#: lib/admin/seo-settings.php:342
+msgid ""
+"HTML5 allows for multiple %s tags throughout the document source, provided "
+"they are the primary title for the section in which they appear. However, "
+"following this standard may have a marginal negative impact on SEO."
+msgstr ""
+"HTML5 umožňuje několik %s tagů napříč zdrojovým kódem dokumentu za "
+"předpokladu, že jsou hlavním názvem sekce, ve které se zobrazují. Navzdory "
+"tomu může mít dodržování tohoto standardu marginální negativní dopad na SEO."
+
+#: lib/admin/theme-settings.php:634
+msgid "Primary Navigation Extras"
+msgstr "Doplňky hlavní navigace"
+
+#: lib/functions/deprecated.php:67
+msgid "decimal or hexidecimal entities"
+msgstr "decimální nebo hexadecimální entity"
+
+#: lib/js/load-scripts.php:144
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "Provedené změny budou ztraceny, pokud se vrátíte z této stránky zpět."
+
+#: lib/js/load-scripts.php:145
+msgid ""
+"Updating Genesis will overwrite the current installed version of Genesis. "
+"Are you sure you want to update?. \"Cancel\" to stop, \"OK\" to update."
+msgstr ""
+"Aktualizace Genesis přepíše aktuální nainstalovanou verzi Genesis. Jste si "
+"jisti, že chcete aktualizovat?. \"Zrušit\" pro zastavení, \"OK\" pro "
+"aktualizaci."
+
+#: lib/structure/comments.php:296
+msgid "at"
+msgstr "v"
+
+#: lib/structure/post.php:313
+msgid "Permalink"
+msgstr "Trvalý odkaz"
+
+#: lib/structure/post.php:351
+msgid "Sorry, no content matched your criteria."
+msgstr "Omlouváme se, ale žádný obsah neodpovídá zadaným kritériím."
+
+#: lib/widgets/featured-post-widget.php:327
+msgid "Exclude Previously Displayed Posts?"
+msgstr "Vyloučit dříve zobrazené příspěvky?"
+
+#: lib/admin/whats-new.php:63
+msgid "Congratulations! You're now running Genesis %s."
+msgstr "Gratulujeme! Nyní provozujete Genesis %s."
+
+#: lib/admin/whats-new.php:69
+msgid "HTML5 Markup"
+msgstr "HTML5 Markup"
+
+#: lib/admin/whats-new.php:72
+msgid "Microdata"
+msgstr "Microdata"
+
+#: lib/admin/whats-new.php:75
+msgid "A Brand New Design"
+msgstr "Zbrusu nový design"
+
+#: lib/admin/whats-new.php:76
+msgid ""
+"Genesis is sporting a fresh new look. And we've taken advantage of the new "
+"HTML5 markup, as well as some snazzy CSS3. We think you're gonna love this."
+msgstr ""
+"Genesis podporuje nový a čerstvý vzhled. Využíváme výhod kódu HTML5, stejně "
+"jako některých hezkých CSS3. Myslíme si, že tohle budete milovat."
+
+#: lib/admin/whats-new.php:78
+msgid "Removing Features"
+msgstr "Odstranění funkcí"
+
+#: lib/admin/whats-new.php:83
+msgid "Genesis Latest Tweets Widget"
+msgstr "Genesis widget Poslední Tweety"
+
+#: lib/admin/whats-new.php:84
+msgid "Genesis eNews Extended"
+msgstr "Genesis eNews Extended"
+
+#: lib/admin/whats-new.php:85
+msgid "Single Post Template"
+msgstr "Šablona jednoho příspěvku"
+
+#: lib/admin/whats-new.php:86
+msgid "Fancy Dropdowns"
+msgstr "Hezké výsuvné menu"
+
+#: lib/admin/whats-new.php:90
+msgid "Boring, but important"
+msgstr "Nudné, ale důležité"
+
+#: lib/admin/whats-new.php:95
+msgid "Better named loop hooks for HTML5."
+msgstr "Lépe pojmenované hooky smyčky pro HTML5."
+
+#: lib/admin/whats-new.php:96
+msgid ""
+"Network Upgrade now upgrades the Genesis database for all sites in a network "
+"when running WordPress in multisite mode."
+msgstr ""
+"Síťová aktualizace nyní aktualizuje databázi Genesis pro všechny weby v síti "
+"v případě používání síťového režimu."
+
+#: lib/admin/whats-new.php:97
+msgid "Widget classes are now coded in PHP5 format."
+msgstr "Třídy widgetů jsou nyní kódovány ve formátu PHP5."
+
+#: lib/admin/whats-new.php:98
+msgid "Admin CSS and Javascript are now minified."
+msgstr "CSS a JavaScript administrace je nyní minimalizován."
+
+#: lib/admin/whats-new.php:99
+msgid "Inline HTML comments have been removed to reduce page size."
+msgstr "Inline HTML komentáře byly odstraněny pro omezení velikosti stránky."
+
+#: lib/admin/whats-new.php:100
+msgid "The Scripts option now has its own metabox when editing an entry."
+msgstr "Možnost Skripty má nyní svůj vlastní box při úpravě položky."
+
+#: lib/admin/whats-new.php:101
+msgid ""
+"Custom Post Type archive pages now have a settings page so you can control "
+"the output."
+msgstr ""
+"Stránky archivu vlastních typů příspěvků mají nyní stránku nastavení pro "
+"kontrolu výstupu."
+
+#: lib/admin/whats-new.php:102
+msgid ""
+"Genesis tracks displayed entry IDs so you can exclude entries from showing "
+"twice on a page."
+msgstr ""
+"Genesis sleduje ID zobrazených položek, abyste mohli položky vyloučit z "
+"dvojího zobrazení na stránce."
+
+#: lib/admin/whats-new.php:103
+msgid "Entries without titles now display a permalink after the post content."
+msgstr "Položky bez titulků nyní zobrazí trvalý odkaz po obsahu příspěvku."
+
+#: lib/functions/general.php:345
+msgid "Install %s"
+msgstr "Nainstalovat %s"
+
+#: 404.php:39
+msgid ""
+"The page you are looking for no longer exists. Perhaps you can return back "
+"to the site's <a href=\"%s\">homepage</a> and see if you can find what you "
+"are looking for. Or, you can try finding it with the information below."
+msgstr ""
+"Hledaná stránka už neexistuje. Možná se můžete vrátit zpátky na <a href=\"%s"
+"\">domovskou stránku</a> webu a zkusit najít to, co hledáte. Nebo ji můžete "
+"zkusit najít s informacemi níže."

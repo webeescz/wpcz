@@ -1,0 +1,775 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Lightbox\n"
+"POT-Creation-Date: 2013-10-28 14:23+0100\n"
+"PO-Revision-Date: 2014-01-18 10:36+0100\n"
+"Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
+"Language-Team: \n"
+"Language: Czech\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../responsive-lightbox.php:272
+msgid "prettyPhoto"
+msgstr "prettyPhoto"
+
+#: ../responsive-lightbox.php:274
+msgid "slow"
+msgstr "pomalu"
+
+#: ../responsive-lightbox.php:275
+msgid "normal"
+msgstr "normálně"
+
+#: ../responsive-lightbox.php:276
+msgid "fast"
+msgstr "rychle"
+
+#: ../responsive-lightbox.php:279
+msgid "default"
+msgstr ""
+
+#: ../responsive-lightbox.php:280
+msgid "light rounded"
+msgstr "světlý zakulacený"
+
+#: ../responsive-lightbox.php:281
+msgid "dark rounded"
+msgstr "tmavý zakulacený"
+
+#: ../responsive-lightbox.php:282
+msgid "light square"
+msgstr "světlý hranatý"
+
+#: ../responsive-lightbox.php:283
+msgid "dark square"
+msgstr "tmavý hranatý"
+
+#: ../responsive-lightbox.php:284
+msgid "facebook"
+msgstr ""
+
+#: ../responsive-lightbox.php:287
+msgid "window"
+msgstr "okno"
+
+#: ../responsive-lightbox.php:288
+msgid "transparent"
+msgstr "průhledný"
+
+#: ../responsive-lightbox.php:289
+msgid "opaque"
+msgstr "neprůhledný"
+
+#: ../responsive-lightbox.php:290
+msgid "direct"
+msgstr "přímý"
+
+#: ../responsive-lightbox.php:291
+msgid "gpu"
+msgstr ""
+
+#: ../responsive-lightbox.php:296
+msgid "SwipeBox"
+msgstr ""
+
+#: ../responsive-lightbox.php:298
+msgid "CSS"
+msgstr ""
+
+#: ../responsive-lightbox.php:299
+msgid "jQuery"
+msgstr ""
+
+#: ../responsive-lightbox.php:303
+msgid "FancyBox"
+msgstr ""
+
+#: ../responsive-lightbox.php:305
+msgid "elastic"
+msgstr ""
+
+#: ../responsive-lightbox.php:306 ../responsive-lightbox.php:327
+msgid "fade"
+msgstr ""
+
+#: ../responsive-lightbox.php:307
+msgid "none"
+msgstr ""
+
+#: ../responsive-lightbox.php:310
+msgid "auto"
+msgstr ""
+
+#: ../responsive-lightbox.php:311
+msgid "yes"
+msgstr ""
+
+#: ../responsive-lightbox.php:312
+msgid "no"
+msgstr ""
+
+#: ../responsive-lightbox.php:315
+msgid "swing"
+msgstr ""
+
+#: ../responsive-lightbox.php:316
+msgid "linear"
+msgstr ""
+
+#: ../responsive-lightbox.php:319
+msgid "outside"
+msgstr ""
+
+#: ../responsive-lightbox.php:320
+msgid "inside"
+msgstr ""
+
+#: ../responsive-lightbox.php:321
+msgid "over"
+msgstr ""
+
+#: ../responsive-lightbox.php:325
+msgid "Nivo Lightbox"
+msgstr ""
+
+#: ../responsive-lightbox.php:328
+msgid "fade scale"
+msgstr ""
+
+#: ../responsive-lightbox.php:329
+msgid "slide left"
+msgstr ""
+
+#: ../responsive-lightbox.php:330
+#, fuzzy
+msgid "slide right"
+msgstr "Výška videa"
+
+#: ../responsive-lightbox.php:331
+msgid "slide up"
+msgstr ""
+
+#: ../responsive-lightbox.php:332
+msgid "slide down"
+msgstr ""
+
+#: ../responsive-lightbox.php:333
+msgid "fall"
+msgstr ""
+
+#: ../responsive-lightbox.php:339
+msgid "Enable"
+msgstr "Povolit"
+
+#: ../responsive-lightbox.php:340
+msgid "Disable"
+msgstr "Zakázat"
+
+#: ../responsive-lightbox.php:345 ../responsive-lightbox.php:446
+msgid "General settings"
+msgstr "Obecné nastavení"
+
+#: ../responsive-lightbox.php:351 ../responsive-lightbox.php:457
+msgid "Lightbox settings"
+msgstr "Nastavení lightboxu"
+
+#: ../responsive-lightbox.php:447
+msgid "Lightbox script"
+msgstr "Lightbox skript"
+
+#: ../responsive-lightbox.php:448
+msgid "Selector"
+msgstr "Selektor"
+
+#: ../responsive-lightbox.php:449
+msgid "Galleries"
+msgstr "Galerie"
+
+#: ../responsive-lightbox.php:450
+msgid "Video links"
+msgstr "Video odkazy"
+
+#: ../responsive-lightbox.php:451
+msgid "Image links"
+msgstr "Odkazy obrázků"
+
+#: ../responsive-lightbox.php:452
+msgid "Single images as gallery"
+msgstr "Galerie po jednotlivých obrázcích"
+
+#: ../responsive-lightbox.php:453
+msgid "Deactivation"
+msgstr "Deaktivace"
+
+#: ../responsive-lightbox.php:461
+msgid "Animation type"
+msgstr "Typ animace"
+
+#: ../responsive-lightbox.php:462
+msgid "Force PNG icons"
+msgstr ""
+
+#: ../responsive-lightbox.php:463
+msgid "Top and bottom bars"
+msgstr "Horní a dolní lišta"
+
+#: ../responsive-lightbox.php:464
+msgid "Video max width"
+msgstr "Maximální šířka videa"
+
+#: ../responsive-lightbox.php:468
+msgid "Animation speed"
+msgstr "Rychlost animace"
+
+#: ../responsive-lightbox.php:469
+msgid "Slideshow"
+msgstr ""
+
+#: ../responsive-lightbox.php:470
+msgid "Slideshow autoplay"
+msgstr "Automatické přehrání slideshow"
+
+#: ../responsive-lightbox.php:471 ../responsive-lightbox.php:500
+msgid "Opacity"
+msgstr "Průhlednost"
+
+#: ../responsive-lightbox.php:472
+msgid "Show title"
+msgstr "Ukázat název"
+
+#: ../responsive-lightbox.php:473
+msgid "Allow resize big images"
+msgstr "Povolit přizpůsobení velkých obrázků"
+
+#: ../responsive-lightbox.php:474 ../responsive-lightbox.php:512
+msgid "Video width"
+msgstr "Šířka videa"
+
+#: ../responsive-lightbox.php:475 ../responsive-lightbox.php:513
+msgid "Video height"
+msgstr "Výška videa"
+
+#: ../responsive-lightbox.php:476
+msgid "Theme"
+msgstr "Motiv"
+
+#: ../responsive-lightbox.php:477
+msgid "Horizontal padding"
+msgstr "Horizontální odsazení"
+
+#: ../responsive-lightbox.php:478
+msgid "Hide Flash"
+msgstr "Skrýt flash"
+
+#: ../responsive-lightbox.php:479
+msgid "Flash Window Mode (wmode)"
+msgstr "Typ flash okna (wmode)"
+
+#: ../responsive-lightbox.php:480
+msgid "Video autoplay"
+msgstr "Automatické spuštění videa"
+
+#: ../responsive-lightbox.php:481 ../responsive-lightbox.php:489
+msgid "Modal"
+msgstr ""
+
+#: ../responsive-lightbox.php:482
+msgid "Deeplinking"
+msgstr ""
+
+#: ../responsive-lightbox.php:483
+msgid "Overlay gallery"
+msgstr "Překrytí galerií"
+
+#: ../responsive-lightbox.php:484
+msgid "Keyboard shortcuts"
+msgstr "Klávesové zkratky"
+
+#: ../responsive-lightbox.php:485
+msgid "Social (Twitter, Facebook)"
+msgstr "Sociální sítě (Twitter, Facebook)"
+
+#: ../responsive-lightbox.php:490
+#, fuzzy
+msgid "Show overlay"
+msgstr "Automatické přehrání slideshow"
+
+#: ../responsive-lightbox.php:491
+msgid "Show close button"
+msgstr ""
+
+#: ../responsive-lightbox.php:492
+msgid "Enable escape button"
+msgstr ""
+
+#: ../responsive-lightbox.php:493
+msgid "Hide on overlay click"
+msgstr ""
+
+#: ../responsive-lightbox.php:494
+msgid "Hide on content click"
+msgstr ""
+
+#: ../responsive-lightbox.php:495
+msgid "Cyclic"
+msgstr ""
+
+#: ../responsive-lightbox.php:496
+msgid "Show nav arrows"
+msgstr ""
+
+#: ../responsive-lightbox.php:497
+msgid "Auto scale"
+msgstr ""
+
+#: ../responsive-lightbox.php:498
+msgid "Scrolling (in/out)"
+msgstr ""
+
+#: ../responsive-lightbox.php:499
+msgid "Center on scroll"
+msgstr ""
+
+#: ../responsive-lightbox.php:501
+#, fuzzy
+msgid "Overlay opacity"
+msgstr "Překrytí galerií"
+
+#: ../responsive-lightbox.php:502
+#, fuzzy
+msgid "Overlay color"
+msgstr "Překrytí galerií"
+
+#: ../responsive-lightbox.php:503
+msgid "Title show"
+msgstr ""
+
+#: ../responsive-lightbox.php:504
+msgid "Title position"
+msgstr ""
+
+#: ../responsive-lightbox.php:505
+msgid "Transition (in/out)"
+msgstr ""
+
+#: ../responsive-lightbox.php:506
+msgid "Easings (in/out)"
+msgstr ""
+
+#: ../responsive-lightbox.php:507
+msgid "Speed (in/out)"
+msgstr ""
+
+#: ../responsive-lightbox.php:508
+msgid "Change speed"
+msgstr ""
+
+#: ../responsive-lightbox.php:509
+msgid "Change fade"
+msgstr ""
+
+#: ../responsive-lightbox.php:510
+msgid "Padding"
+msgstr ""
+
+#: ../responsive-lightbox.php:511
+msgid "Margin"
+msgstr ""
+
+#: ../responsive-lightbox.php:517
+msgid "Effect"
+msgstr ""
+
+#: ../responsive-lightbox.php:518
+msgid "Keyboard navigation"
+msgstr ""
+
+#: ../responsive-lightbox.php:519
+msgid "Error message"
+msgstr ""
+
+#: ../responsive-lightbox.php:537
+msgid "Select your preffered ligthbox effect script."
+msgstr "Vyber preferovaný lightbox efekt."
+
+#: ../responsive-lightbox.php:547
+msgid "Select to which rel selector lightbox effect will be applied to."
+msgstr "Vyber, podle jakého klíčového slova bude lightbox vyvolán."
+
+#: ../responsive-lightbox.php:565
+#, fuzzy
+msgid "Add lightbox to WordPress image galleries by default."
+msgstr "Přidej lightbox efekt do galerie obrázků WordPresssu"
+
+#: ../responsive-lightbox.php:583
+#, fuzzy
+msgid "Add lightbox to YouTube and Vimeo video links by default."
+msgstr "Přidej lightbox efekt do odkazů na YouTube a Vimeo videa"
+
+#: ../responsive-lightbox.php:601
+#, fuzzy
+msgid "Add lightbox to WordPress image links by default."
+msgstr "Přidej lightbox efekt do odkazů na obrázek Wordpressu"
+
+#: ../responsive-lightbox.php:619
+#, fuzzy
+msgid "Display single post images as a gallery."
+msgstr "Zobraz jednotlivé obrázky v článcích jako galerie"
+
+#: ../responsive-lightbox.php:637
+#, fuzzy
+msgid "Delete settings on plugin deactivation."
+msgstr "Vymaž nastavení při deaktivaci pluginu"
+
+#: ../responsive-lightbox.php:655
+msgid "Select a method of applying a lightbox effect."
+msgstr "Vyber způsob zobrazení lightbox efektu.."
+
+#: ../responsive-lightbox.php:673
+#, fuzzy
+msgid ""
+"Disable if you don't want to top and bottom bars to be hidden after a period "
+"of time."
+msgstr "Zakaž, pokud nechceš zobrazovat horní a dolní lištu."
+
+#: ../responsive-lightbox.php:676
+msgid ""
+"Enter the time after which the top and bottom bars will be hidden (when "
+"hiding is enabled)."
+msgstr ""
+
+#: ../responsive-lightbox.php:687
+#, fuzzy
+msgid "Enter the max video width in a lightbox."
+msgstr "Vlož maximální šířku videa v lightboxu"
+
+#: ../responsive-lightbox.php:705
+msgid ""
+"Enable this if you're having problems with navigation icons not visible on "
+"some devices."
+msgstr ""
+
+#: ../responsive-lightbox.php:723
+#, fuzzy
+msgid "Select animation speed for lightbox effect."
+msgstr "Vyber rychlost animace lightbox efektu"
+
+#: ../responsive-lightbox.php:741
+#, fuzzy
+msgid "Display images as slideshow."
+msgstr "Zobraz obrázky jako slideshow"
+
+#: ../responsive-lightbox.php:744
+#, fuzzy
+msgid "Enter time (in miliseconds)."
+msgstr "Vlož čas (v milisekundách)"
+
+#: ../responsive-lightbox.php:763
+#, fuzzy
+msgid "Automatically start slideshow."
+msgstr "Automatické spuštění slideshow"
+
+#: ../responsive-lightbox.php:776
+#, fuzzy
+msgid "Value between 0 and 100, 100 for no opacity."
+msgstr "Hodnota mezi 0 a 1 (např. 0.5)"
+
+#: ../responsive-lightbox.php:794
+#, fuzzy
+msgid "Display image tiltle."
+msgstr "Zobraz název obrázku"
+
+#: ../responsive-lightbox.php:812
+msgid "Resize the photos bigger than viewport."
+msgstr "Změna velikosti obrázků, pokud jsou větší než obrazovka."
+
+#: ../responsive-lightbox.php:822 ../responsive-lightbox.php:832
+msgid "in pixels"
+msgstr "v pixelech"
+
+#: ../responsive-lightbox.php:850
+#, fuzzy
+msgid "Select theme for lightbox effect."
+msgstr "Vyber motiv lightbox efektu."
+
+#: ../responsive-lightbox.php:860
+#, fuzzy
+msgid "Horizontal padding (in pixels)."
+msgstr "Horizontální odsazení (v pixelech)"
+
+#: ../responsive-lightbox.php:878
+#, fuzzy
+msgid ""
+"Hides all the flash object on a page. Enable this if flash appears over "
+"prettyPhoto."
+msgstr ""
+"Skryje všechny flash objekty na stránce. Povol, pokud se flash objevuje v "
+"prettyPhoto"
+
+#: ../responsive-lightbox.php:896
+#, fuzzy
+msgid "Select flash window mode."
+msgstr "Vyber flash typ okna"
+
+#: ../responsive-lightbox.php:914
+#, fuzzy
+msgid "Automatically start videos."
+msgstr "Automatické spuštění videí"
+
+#: ../responsive-lightbox.php:932
+#, fuzzy
+msgid "If set to true, only the close button will close the window."
+msgstr "Pokud povolíš, pouze zavírací tlačítko zavře okno."
+
+#: ../responsive-lightbox.php:950
+#, fuzzy
+msgid "Allow prettyPhoto to update the url to enable deeplinking."
+msgstr "Povolí prettyPhoto aktualizovat url k umožnění deeplinkingu"
+
+#: ../responsive-lightbox.php:968
+#, fuzzy
+msgid "If enabled, a gallery will overlay the fullscreen image on mouse over."
+msgstr "Pokud povolíš, překryje galerie celou obrazovku po najetí myší"
+
+#: ../responsive-lightbox.php:986
+#, fuzzy
+msgid "Set to false if you open forms inside prettyPhoto."
+msgstr "Zakaž, pokud otevíráš formuláře uvnitř prettyPhoto"
+
+#: ../responsive-lightbox.php:1004
+#, fuzzy
+msgid "Display links to Facebook and Twitter."
+msgstr "Zobraz odkazy na Facebook a Twitter"
+
+#: ../responsive-lightbox.php:1022
+#, fuzzy
+msgid "The transition type."
+msgstr "Typ animace"
+
+#: ../responsive-lightbox.php:1032
+msgid "Space between FancyBox wrapper and content."
+msgstr ""
+
+#: ../responsive-lightbox.php:1042
+msgid "Space between viewport and FancyBox wrapper."
+msgstr ""
+
+#: ../responsive-lightbox.php:1060
+msgid ""
+"When true, \"overlayShow\" is set to TRUE and \"hideOnOverlayClick\", "
+"\"hideOnContentClick\", \"enableEscapeButton\", \"showCloseButton\" are set "
+"to FALSE."
+msgstr ""
+
+#: ../responsive-lightbox.php:1078
+msgid "Toggle overlay."
+msgstr ""
+
+#: ../responsive-lightbox.php:1096
+msgid "Toggle close button."
+msgstr ""
+
+#: ../responsive-lightbox.php:1114
+msgid "Toggle if pressing Esc button closes FancyBox."
+msgstr ""
+
+#: ../responsive-lightbox.php:1132
+msgid "Toggle if clicking the overlay should close FancyBox."
+msgstr ""
+
+#: ../responsive-lightbox.php:1150
+msgid "Toggle if clicking the content should close FancyBox."
+msgstr ""
+
+#: ../responsive-lightbox.php:1168
+msgid ""
+"When true, galleries will be cyclic, allowing you to keep pressing next/back."
+msgstr ""
+
+#: ../responsive-lightbox.php:1186
+msgid "Toggle navigation arrows."
+msgstr ""
+
+#: ../responsive-lightbox.php:1204
+msgid "If true, FancyBox is scaled to fit in viewport."
+msgstr ""
+
+#: ../responsive-lightbox.php:1222
+msgid "Set the overflow CSS property to create or hide scrollbars."
+msgstr ""
+
+#: ../responsive-lightbox.php:1240
+msgid "When true, FancyBox is centered while scrolling page."
+msgstr ""
+
+#: ../responsive-lightbox.php:1258
+msgid "When true, transparency of content is changed for elastic transitions."
+msgstr ""
+
+#: ../responsive-lightbox.php:1271
+msgid "Opacity of the overlay."
+msgstr ""
+
+#: ../responsive-lightbox.php:1281
+msgid "Color of the overlay."
+msgstr ""
+
+#: ../responsive-lightbox.php:1299
+#, fuzzy
+msgid "Toggle title."
+msgstr "Ukázat název"
+
+#: ../responsive-lightbox.php:1317
+msgid "The position of title."
+msgstr ""
+
+#: ../responsive-lightbox.php:1335
+msgid "Easing used for elastic animations."
+msgstr ""
+
+#: ../responsive-lightbox.php:1345
+#, fuzzy
+msgid "Speed of the fade and elastic transitions, in milliseconds."
+msgstr "Vlož čas pro animaci mezi obrázky (v milisekundách)"
+
+#: ../responsive-lightbox.php:1355
+msgid "Speed of resizing when changing gallery items, in milliseconds."
+msgstr ""
+
+#: ../responsive-lightbox.php:1365
+msgid "Speed of the content fading while changing gallery items."
+msgstr ""
+
+#: ../responsive-lightbox.php:1375
+msgid "Width of the video."
+msgstr ""
+
+#: ../responsive-lightbox.php:1385
+msgid "Height of the video."
+msgstr ""
+
+#: ../responsive-lightbox.php:1403
+msgid "The effect to use when showing the lightbox."
+msgstr ""
+
+#: ../responsive-lightbox.php:1421
+msgid "Enable/Disable keyboard navigation (left/right/escape)."
+msgstr ""
+
+#: ../responsive-lightbox.php:1431
+msgid "Error message if the content cannot be loaded."
+msgstr ""
+
+#: ../responsive-lightbox.php:1626
+msgid ""
+"Changes were not saved because there was attempt to save settings of "
+"inactive script. The site has been reloaded to the proper script settings."
+msgstr ""
+"Změny nebyly uloženy, protože jsi se pokusil uložit nastavení neaktivního "
+"skriptu. Stránka byla znovu načtena do nastavení správného skriptu."
+
+#: ../responsive-lightbox.php:1636
+#, fuzzy
+msgid "Settings restored to defaults."
+msgstr "Nastavení skriptu SwipeBox bylo obnoveno na výchozí."
+
+#: ../responsive-lightbox.php:1644
+msgid "Settings of SwipeBox script were restored to defaults."
+msgstr "Nastavení skriptu SwipeBox bylo obnoveno na výchozí."
+
+#: ../responsive-lightbox.php:1650
+msgid "Settings of prettyPhoto script were restored to defaults."
+msgstr "Nastavení skriptu prettyPhoto bylo obnoveno na výchozí."
+
+#: ../responsive-lightbox.php:1656
+#, fuzzy
+msgid "Settings of FancyBox script were restored to defaults."
+msgstr "Nastavení skriptu SwipeBox bylo obnoveno na výchozí."
+
+#: ../responsive-lightbox.php:1662
+#, fuzzy
+msgid "Settings of Nivo script were restored to defaults."
+msgstr "Nastavení skriptu SwipeBox bylo obnoveno na výchozí."
+
+#: ../responsive-lightbox.php:1666
+msgid ""
+"Changes were not set to defaults because there was attempt to reset settings "
+"of inactive script. The site has been reloaded to the proper script settings."
+msgstr ""
+"Změny nebyly nastaveny na výchozí hodnoty, protože jsi se pokusil o obnovení "
+"nastavení neaktivního skriptu. Stránka byla znovu načtena do nastavení "
+"správného skriptu."
+
+#: ../responsive-lightbox.php:1680 ../responsive-lightbox.php:1681
+#: ../responsive-lightbox.php:1695 ../responsive-lightbox.php:1727
+msgid "Responsive Lightbox"
+msgstr ""
+
+#: ../responsive-lightbox.php:1720
+msgid "Reset to defaults"
+msgstr "Obnovit výchozí nastavení"
+
+#: ../responsive-lightbox.php:1729
+msgid "Need support?"
+msgstr "Potřebuješ pomoc?"
+
+#: ../responsive-lightbox.php:1730
+msgid ""
+"If you are having problems with this plugin, please talk about them in the"
+msgstr "Pokud máš problém s tímto pluginem, pověz o něm prosím ve"
+
+#: ../responsive-lightbox.php:1730
+msgid "Support forum"
+msgstr "fóru podpory"
+
+#: ../responsive-lightbox.php:1732
+msgid "Do you like this plugin?"
+msgstr "Líbí se ti tento plugin?"
+
+#: ../responsive-lightbox.php:1733
+msgid "Rate it 5"
+msgstr "Ohodnoť ho 5"
+
+#: ../responsive-lightbox.php:1733
+msgid "on WordPress.org"
+msgstr "na WordPress.org"
+
+#: ../responsive-lightbox.php:1734
+msgid "Blog about it & link to the"
+msgstr "Napiš o něm a odkaž na"
+
+#: ../responsive-lightbox.php:1734
+msgid "plugin page"
+msgstr "stránky pluginu"
+
+#: ../responsive-lightbox.php:1735
+msgid "Check out our other"
+msgstr "Zkus naše další"
+
+#: ../responsive-lightbox.php:1735
+msgid "WordPress plugins"
+msgstr "WordPress pluginy"
+
+#: ../responsive-lightbox.php:1762
+#, fuzzy
+msgid "Are you sure you want to reset these settings to defaults?"
+msgstr "Jsi si jistý, že chceš obnovit výchozí nastavení??"
+
+#: ../responsive-lightbox.php:1763
+msgid "Are you sure you want to reset scripts settings to defaults?"
+msgstr "Jsi si jistý, že chceš obnovit výchozí nastavení??"
+
+#: ../responsive-lightbox.php:2009
+msgid "Support"
+msgstr "Pomoc"
+
+#: ../responsive-lightbox.php:2031
+msgid "Settings"
+msgstr "Nastavení"

@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Executive Pro šablona pro Genesis Framework\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-16 14:00-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
+"Language-Team: webees.cz s.r.o. <jakubmachala@webees.cz>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.5.5\n"
+"Language: cs_CZ\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:9
+msgid "Executive Pro Theme"
+msgstr "Šablona Executive Pro"
+
+#: functions.php:45
+msgid "Executive Pro Brown"
+msgstr "Executive Pro Hnědá"
+
+#: functions.php:46
+msgid "Executive Pro Green"
+msgstr "Executive Pro Zelená"
+
+#: functions.php:47
+msgid "Executive Pro Orange"
+msgstr "Executive Pro Oranžová"
+
+#: functions.php:48
+msgid "Executive Pro Purple"
+msgstr "Executive Pro Růžová"
+
+#: functions.php:49
+msgid "Executive Pro Red"
+msgstr "Executive Pro Červená"
+
+#: functions.php:50
+msgid "Executive Pro Teal"
+msgstr "Executive Pro Zelenomodrá"
+
+#: functions.php:80
+msgctxt "taxonomy general name"
+msgid "Types"
+msgstr "Typy"
+
+#: functions.php:81
+msgid "Add New Portfolio Type"
+msgstr "Přidat nový typ portfolia"
+
+#: functions.php:82
+msgid "New Portfolio Type"
+msgstr "Nový typ portfolia"
+
+#: functions.php:103 functions.php:104
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: functions.php:143
+msgid "Continue Reading&hellip;"
+msgstr "Pokračovat ve čtení&hellip;"
+
+#: functions.php:182
+msgid "Home - Slider"
+msgstr "Úvod - Slider"
+
+#: functions.php:183
+msgid "This is the slider section on the home page."
+msgstr "Toto je oblast slideru na domovské stránce."
+
+#: functions.php:187
+msgid "Home - Top"
+msgstr "Úvod - Nahoře"
+
+#: functions.php:188
+msgid "This is the top section of the home page."
+msgstr "Toto je horní oblast domovské stránky."
+
+#: functions.php:192
+msgid "Home - Call To Action"
+msgstr "Úvod - Call To Action"
+
+#: functions.php:193
+msgid "This is the call to action section on the home page."
+msgstr "Toto je oblast call to action na domovské stránce."
+
+#: functions.php:197
+msgid "Home - Middle"
+msgstr "Úvod - Uprostřed"
+
+#: functions.php:198
+msgid "This is the middle section of the home page."
+msgstr "Toto je prostřední oblast na domovské stránce."

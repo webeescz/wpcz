@@ -1,0 +1,322 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Genesis Responsive Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-26 10:09-0300\n"
+"PO-Revision-Date: 2014-01-26 21:08+0100\n"
+"Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
+"Language-Team: webees.cz s.r.o. <jakubmachala@webees.cz>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"Language: cs_CZ\n"
+
+#: admin.php:74
+msgid "Settings reset."
+msgstr "Nastavení obnoveno."
+
+#: admin.php:76
+msgid "Settings saved."
+msgstr "Nastavení uloženo."
+
+#: admin.php:89
+msgid "Slider Settings"
+msgstr "Nastavení slideru"
+
+#: admin.php:111
+msgid "Genesis Slider Settings"
+msgstr "Nastavení Genesis slideru"
+
+#: admin.php:149 plugin.php:202
+msgid "Genesis - Slider"
+msgstr "Genesis - Slider"
+
+#: admin.php:150 admin.php:161
+msgid "Save Settings"
+msgstr "Uložit nastavení"
+
+#: admin.php:151 admin.php:162
+msgid "Reset Settings"
+msgstr "Obnovit nastavení"
+
+#: admin.php:151
+msgid "Are you sure you want to reset?"
+msgstr "Jste si jisti, že chcete nastavení obnovit?"
+
+#: admin.php:191
+msgid "Type of Content"
+msgstr "Typ obsahu"
+
+#: admin.php:193
+msgid "Would you like to use posts or pages"
+msgstr "Chcete použít příspěvky nebo stránky"
+
+#: admin.php:212
+msgid "By Taxonomy and Terms"
+msgstr "Dle taxonomie a termínu"
+
+#: admin.php:212
+msgid "Choose a term to determine what slides to include"
+msgstr "Vyberte termín pro určení zahrnutých slidů"
+
+#: admin.php:216
+msgid "All Taxonomies and Terms"
+msgstr "Všechny taxonomie a termíny"
+
+#: admin.php:243
+msgid "Include or Exclude by Taxonomy ID"
+msgstr "Zahrnout nebo vyloučit podle ID taxonomie"
+
+#: admin.php:246
+msgid ""
+"List which category, tag or other taxonomy IDs to include / exclude. "
+"(1,2,3,4 for example)"
+msgstr ""
+"Seznam rubrik, štítků nebo jiných ID taxonomie pro zahrnutí / vyloučení "
+"(například 1, 2, 3, 4)"
+
+#: admin.php:256
+#, php-format
+msgid "Include or Exclude by %s ID"
+msgstr "Zahrnout nebo vyloučit podle ID %s"
+
+#: admin.php:259
+msgid ""
+"Choose the include / exclude slides using their post / page ID in a comma-"
+"separated list. (1,2,3,4 for example)"
+msgstr ""
+"Vyberte zahrnuté / vyloučené slidy použitím jejich ID příspěvku / stránky v "
+"seznamu odděleném čárkami (například 1, 2, 3, 4)"
+
+#: admin.php:263
+msgid "Select"
+msgstr "Vybrat"
+
+#: admin.php:264
+msgid "Include"
+msgstr "Zahrnout"
+
+#: admin.php:265
+msgid "Exclude"
+msgstr "Vyloučit"
+
+#: admin.php:270
+msgid "List which"
+msgstr "Seznam"
+
+#: admin.php:270 admin.php:290
+msgid "ID"
+msgstr "ID"
+
+#: admin.php:270
+msgid "to include / exclude. (1,2,3,4 for example)"
+msgstr "k zahrnutí / vyloučení (například 1, 2, 3, 4)"
+
+#: admin.php:276
+msgid "Number of Slides to Show"
+msgstr "Počet slidů k zobrazení"
+
+#: admin.php:281
+msgid "Number of Posts to Offset"
+msgstr "Počet příspěvků k odsazení"
+
+#: admin.php:286
+msgid "Order By"
+msgstr "Seřadit podle"
+
+#: admin.php:288
+msgid "Date"
+msgstr "Data"
+
+#: admin.php:289
+msgid "Title"
+msgstr "Názvu"
+
+#: admin.php:291
+msgid "Random"
+msgstr "Náhodně"
+
+#: admin.php:299
+msgid "Transition Settings"
+msgstr "Nastavení přechodu"
+
+#: admin.php:302
+msgid "Time Between Slides (in milliseconds)"
+msgstr "Čas mezi slidy (v milisekundách)"
+
+#: admin.php:307
+msgid "Slide Transition Speed (in milliseconds)"
+msgstr "Rychlost přechodu slidu (v milisekundách)"
+
+#: admin.php:312
+msgid "Slider Effect"
+msgstr "Efekt slideru"
+
+#: admin.php:313 admin.php:366
+msgid "Select one of the following:"
+msgstr "Vyberte jedno z následujících:"
+
+#: admin.php:315
+msgid "Scroll right"
+msgstr "Scrollovat doprava"
+
+#: admin.php:316
+msgid "Scroll left"
+msgstr "Scrollovat doleva"
+
+#: admin.php:317
+msgid "Scroll down"
+msgstr "Scrollovat dolů"
+
+#: admin.php:318
+msgid "Scroll up"
+msgstr "Scrollovat nahoru"
+
+#: admin.php:319
+msgid "Fade"
+msgstr "Pohasínání"
+
+#: admin.php:320
+msgid "Wipe"
+msgstr "Setření"
+
+#: admin.php:321
+msgid "Cover up"
+msgstr "Zakrytí nahoru"
+
+#: admin.php:322
+msgid "Cover down"
+msgstr "Zakrytí dolů"
+
+#: admin.php:323
+msgid "Cover left"
+msgstr "Zakrytí doleva"
+
+#: admin.php:324
+msgid "Cover right"
+msgstr "Zakrytí doprava"
+
+#: admin.php:329
+msgid "Scroll Loop (only applies to scroll options)"
+msgstr "Smyčka scrollování (platná pouze pro možnost scrollování)"
+
+#: admin.php:331
+msgid "Rewind slides"
+msgstr "Přetočit slidy"
+
+#: admin.php:332
+msgid "Loop slides"
+msgstr "Opakovat slidy"
+
+#: admin.php:338
+msgid "Display Settings"
+msgstr "Nastavení zobrazení"
+
+#: admin.php:341
+msgid "Slider Width (in pixels)"
+msgstr "Šířka slideru (v pixelech)"
+
+#: admin.php:346
+msgid "Slider Height (in pixels)"
+msgstr "Výška slideru (v pixelech)"
+
+#: admin.php:351
+msgid "Display Next / Previous Arrows in Slider?"
+msgstr "Zobrazit ve slideru šipky Další / Předchozí?"
+
+#: admin.php:356
+msgid "Content Settings"
+msgstr "Nastavení obsahu"
+
+#: admin.php:359
+msgid "Display Post/Page Title in Slider?"
+msgstr "Zobrazit ve slideru název příspěvku / stránky?"
+
+#: admin.php:362
+msgid "Display Content in Slider?"
+msgstr "Zobrazit ve slideru obsah?"
+
+#: admin.php:368
+msgid "Display post content"
+msgstr "Zobrazit obsah příspěvku"
+
+#: admin.php:369
+msgid "Display post excerpts"
+msgstr "Zobrazit stručný výpis příspěvku"
+
+#: admin.php:374
+msgid "More Text (if applicable)"
+msgstr "Text pro více (pokud je použit)"
+
+#: admin.php:379
+msgid "Limit content to"
+msgstr "Omezit obsah na"
+
+#: admin.php:381
+msgid "characters"
+msgstr "znaků"
+
+#: admin.php:384
+msgid ""
+"Using this option will limit the text and strip all formatting from the text "
+"displayed. To use this option, choose \"Display post content\" in the select "
+"box above."
+msgstr ""
+"Použití této možnosti omezí množství textu a odstraní z něj veškeré "
+"formátování. Pro použití této možnosti vyberte \"Zobrazit obsah příspěvku\" "
+"v seznamu výše."
+
+#: admin.php:387
+msgid "Slider Excerpt Width (in pixels)"
+msgstr "Šířka stručného výpisu slideru (v pixelech)"
+
+#: admin.php:392
+msgid "Excerpt Location (vertical)"
+msgstr "Umístění stručného výpisu (vertikální)"
+
+#: admin.php:394
+msgid "Top"
+msgstr "Nahoře"
+
+#: admin.php:395
+msgid "Bottom"
+msgstr "Dole"
+
+#: admin.php:400
+msgid "Excerpt Location (horizontal)"
+msgstr "Umístění stručného výpisu (horizontální)"
+
+#: admin.php:402
+msgid "Left"
+msgstr "Vlevo"
+
+#: admin.php:403
+msgid "Right"
+msgstr "Vpravo"
+
+#: admin.php:413
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: plugin.php:200
+msgid "Displays a slideshow inside a widget area"
+msgstr "Zobrazí slideshow uvnitř oblasti widgetů"
+
+#: plugin.php:364
+msgid "Title:"
+msgstr "Název:"
+
+#: plugin.php:367
+#, php-format
+msgid ""
+"To configure slider options, please go to the <a href=\"%s\">Slider "
+"Settings</a> page."
+msgstr ""
+"Pro nastavení možností slideru prosím přejděte na <a href=\"%s\">Nastavení "
+"slideru</a>."
