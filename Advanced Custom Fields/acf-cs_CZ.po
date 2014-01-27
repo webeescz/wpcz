@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/advanced-custom-fields\n"
 "POT-Creation-Date: 2014-01-05 07:41:49+00:00\n"
-"PO-Revision-Date: 2014-01-27 18:59+0100\n"
+"PO-Revision-Date: 2014-01-27 19:06+0100\n"
 "Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
 "Language-Team: webees.cz s.r.o. <jakubmachala@webees.cz>\n"
 "MIME-Version: 1.0\n"
@@ -699,11 +699,11 @@ msgstr "Prohlížení konceptu nyní funguje!"
 
 #: core/controllers/field_groups.php:352
 msgid "This bug has been squashed along with many other little critters!"
-msgstr ""
+msgstr "Tento bug byl vymýcen spolu s dalšími drobnůstkami!"
 
 #: core/controllers/field_groups.php:352
 msgid "See the full changelog"
-msgstr ""
+msgstr "Prohlížet celý changelog"
 
 #: core/controllers/field_groups.php:356
 msgid "Important"
@@ -711,7 +711,7 @@ msgstr "Důležité"
 
 #: core/controllers/field_groups.php:358
 msgid "Database Changes"
-msgstr ""
+msgstr "Databáze změn"
 
 #: core/controllers/field_groups.php:359
 msgid ""
@@ -719,10 +719,13 @@ msgid ""
 "between versions 3 and 4. This means you can roll back to version 3 without "
 "any issues."
 msgstr ""
+"Nebyly učiněny absolutně <strong>žádné</strong> změny v databázi mezi "
+"verzemi 3 a 4. To znamená, že se můžete k verzi 3 vrátit absolutně bez "
+"potíží."
 
 #: core/controllers/field_groups.php:361
 msgid "Potential Issues"
-msgstr ""
+msgstr "Potenciální problémy"
 
 #: core/controllers/field_groups.php:362
 msgid ""
