@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Advanced Custom Fields\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/advanced-custom-fields\n"
 "POT-Creation-Date: 2014-01-05 07:41:49+00:00\n"
-"PO-Revision-Date: 2014-01-28 18:39+0100\n"
+"PO-Revision-Date: 2014-01-28 19:03+0100\n"
 "Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
 "Language-Team: webees.cz s.r.o. <jakubmachala@webees.cz>\n"
 "MIME-Version: 1.0\n"
@@ -13,6 +13,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.5\n"
 "Language: cs_CZ\n"
+"X-Poedit-Basepath: c:\\Users\\Jakub\\Documents\\GitHub\\wpcz\\Advanced "
+"Custom Fields\\moduly\n"
 
 #: acf.php:455
 msgid "Field&nbsp;Groups"
@@ -189,11 +191,11 @@ msgstr "Najde adresy a souřadnice požadovaných umístění"
 
 #: core/controllers/addons.php:182
 msgid "Contact Form 7 Field"
-msgstr "Contact Form 7 Pole"
+msgstr "Pole Contact Form 7"
 
 #: core/controllers/addons.php:183
 msgid "Assign one or more contact form 7 forms to a post"
-msgstr "Přiřadit jeden nebo více formulářů Contact Form 7 do příspěvku"
+msgstr "Přiřadí jeden nebo více formulářů Contact Form 7 do příspěvku"
 
 #: core/controllers/addons.php:193
 msgid "Advanced Custom Fields Add-Ons"
@@ -271,7 +273,8 @@ msgstr ""
 
 #: core/controllers/export.php:256
 msgid "Select field group(s) from the list and click \"Export XML\""
-msgstr "Vyberte skupinu(y) polí ze seznamu a klikněte na  \"Export XML\""
+msgstr ""
+"Vyberte skupinu(y) polí ze seznamu a klikněte na  \"Exportovat do XML\""
 
 #: core/controllers/export.php:257
 msgid "Save the .xml file when prompted"
@@ -323,7 +326,7 @@ msgstr ""
 
 #: core/controllers/export.php:272
 msgid "Select field group(s) from the list and click \"Create PHP\""
-msgstr "Vyberte skupinu(y) polí ze seznamu a klikněte na \"Vytvořit  PHP\""
+msgstr "Vyberte skupinu(y) polí ze seznamu a klikněte na \"Exportovat do PHP\""
 
 #: core/controllers/export.php:273 core/controllers/export.php:302
 msgid "Copy the PHP code generated"
@@ -939,7 +942,7 @@ msgstr "cervena : Červená"
 #: core/fields/checkbox.php:149 core/fields/radio.php:154
 #: core/fields/select.php:180
 msgid "blue : Blue"
-msgstr "modra: Modrá"
+msgstr "modra : Modrá"
 
 #: core/fields/checkbox.php:166 core/fields/color_picker.php:89
 #: core/fields/email.php:106 core/fields/number.php:116
@@ -956,7 +959,7 @@ msgstr "Vložte každou výchozí hodnotu na nový řádek"
 #: core/fields/checkbox.php:183 core/fields/message.php:20
 #: core/fields/radio.php:212 core/fields/tab.php:20
 msgid "Layout"
-msgstr "Typ zobrazení"
+msgstr "Rozvržení"
 
 #: core/fields/checkbox.php:194 core/fields/radio.php:223
 msgid "Vertical"
@@ -1064,7 +1067,7 @@ msgstr "Před"
 #: core/fields/email.php:139 core/fields/number.php:149
 #: core/fields/password.php:121 core/fields/text.php:147
 msgid "Appears before the input"
-msgstr "Objeví se přes polem"
+msgstr "Objeví se před polem"
 
 #: core/fields/email.php:153 core/fields/number.php:163
 #: core/fields/password.php:135 core/fields/text.php:161
@@ -1111,7 +1114,7 @@ msgstr "Přidat soubor"
 #: core/fields/file.php:153 core/fields/image.php:118
 #: core/fields/taxonomy.php:367
 msgid "Return Value"
-msgstr "Vrátit hodnotu"
+msgstr "Vrácená hodnota"
 
 #: core/fields/file.php:164
 msgid "File Object"
@@ -1159,11 +1162,11 @@ msgstr "Hledat adresu..."
 
 #: core/fields/google-map.php:162
 msgid "Center"
-msgstr "Centrovat"
+msgstr "Střed"
 
 #: core/fields/google-map.php:163
 msgid "Center the initial map"
-msgstr "Centrovat výchozí mapu"
+msgstr "Střed výchozí mapy"
 
 #: core/fields/google-map.php:199
 msgid "Zoom"
@@ -1252,7 +1255,7 @@ msgstr "Text &amp; HTML vložené zde se objeví spolu s poli"
 
 #: core/fields/message.php:72
 msgid "Please note that all text will first be passed through the wp function "
-msgstr "Mějte na paměti, že veškerý text nejprve projde před wp funkci"
+msgstr "Mějte na paměti, že veškerý text nejprve projde před wp funkci "
 
 #: core/fields/number.php:19
 msgid "Number"
@@ -1331,11 +1334,11 @@ msgstr "Modrá"
 
 #: core/fields/radio.php:175
 msgid "Add 'other' choice to allow for custom values"
-msgstr "Přidá 'další' možnost povolenou pro vlastní hodnoty"
+msgstr "Přidá \"další\" možnost určenou pro vlastní hodnoty"
 
 #: core/fields/radio.php:187
 msgid "Save 'other' values to the field's choices"
-msgstr "Uloží 'další' možnost pro volby pole"
+msgstr "Uloží \"další\" možnost do voleb pole"
 
 #: core/fields/relationship.php:18
 msgid "Relationship"
@@ -1563,8 +1566,8 @@ msgid ""
 "No fields. Click the <strong>+ Add Field</strong> button to create your "
 "first field."
 msgstr ""
-"Žádná pole. Klikněte na tlačítko<strong>+ Přidat pole</strong> pro vytvoření "
-"prvního pole."
+"Žádná pole. Klikněte na tlačítko <strong>+ Přidat pole</strong> pro "
+"vytvoření prvního pole."
 
 #: core/views/meta_box_fields.php:105 core/views/meta_box_fields.php:108
 msgid "Edit this Field"
@@ -1600,7 +1603,7 @@ msgstr "Toto je jméno, které se zobrazí na stránce úprav"
 
 #: core/views/meta_box_fields.php:144
 msgid "Single word, no spaces. Underscores and dashes allowed"
-msgstr "Jedno slovo, bez mezer. Podtržítka a pomlčky jsou povoleny."
+msgstr "Jedno slovo, bez mezer. Podtržítka a pomlčky jsou povoleny"
 
 #: core/views/meta_box_fields.php:173
 msgid "Field Instructions"
@@ -1608,7 +1611,7 @@ msgstr "Instrukce pole"
 
 #: core/views/meta_box_fields.php:174
 msgid "Instructions for authors. Shown when submitting data"
-msgstr "Instrukce pro autory. Jsou zobrazeny při zadávání dat."
+msgstr "Instrukce pro autory. Jsou zobrazeny při zadávání dat"
 
 #: core/views/meta_box_fields.php:186
 msgid "Required?"
@@ -1732,7 +1735,7 @@ msgstr "Pořadí"
 
 #: core/views/meta_box_options.php:26
 msgid "Field groups are created in order <br />from lowest to highest"
-msgstr "Skupiny polí jsou vytvářeny v pořadí <br />od nejnižších po nejvyšší"
+msgstr "Skupiny polí jsou řazeny v pořadí <br />od nejnižších po nejvyšší"
 
 #: core/views/meta_box_options.php:42
 msgid "Position"
