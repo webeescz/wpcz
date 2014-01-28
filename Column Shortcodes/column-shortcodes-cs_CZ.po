@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Column Shortcodes\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-14 16:55+0100\n"
-"PO-Revision-Date: 2014-01-18 11:01+0100\n"
+"PO-Revision-Date: 2014-01-28 19:28+0100\n"
 "Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
 "Language-Team: Czech (Czech Republic) (http://www.transifex.com/projects/p/"
 "column-shortcodes/language/cs_CZ/)\n"
@@ -23,28 +23,28 @@ msgstr ""
 
 #: ../column-shortcodes.php:263
 msgid "Select shortcode"
-msgstr "Vyberte značku šířky sloupce"
+msgstr "Vyberte shortcode sloupce"
 
 #: ../column-shortcodes.php:299
 msgid "Column shortcodes"
-msgstr "Značka šířky sloupce"
+msgstr "Shortcode sloupce"
 
 #: ../column-shortcodes.php:306
 msgid "Column padding ( optional )"
-msgstr "Odsazení sloupce ( volitelné )"
+msgstr "Odsazení sloupce (volitelné)"
 
 #: ../column-shortcodes.php:308
 msgid ""
 "Use the input fields below to customize the padding of your column shortcode."
-msgstr "Použijte vstupní pole níže pro úpravu odsazení sloupců."
+msgstr "Použijte vstupní pole níže pro úpravu odsazení shortcodů sloupců."
 
 #: ../column-shortcodes.php:309
 msgid "Enter padding first, then select your column shortcode."
-msgstr "Nejdříve zadejte odsazení sloupce, poté vyberte značku šířky sloupce."
+msgstr "Nejdříve zadejte odsazení, poté vyberte shortcode sloupce."
 
 #: ../column-shortcodes.php:324
 msgid "reset"
-msgstr "vymazat"
+msgstr "obnovit"
 
 #: ../column-shortcodes.php:352
 msgid "full width"
