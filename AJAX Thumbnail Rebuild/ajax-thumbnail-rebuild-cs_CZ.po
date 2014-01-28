@@ -1,0 +1,104 @@
+# Copyright (C) 2010 AJAX Thumbnail Rebuild
+# This file is distributed under the same license as the AJAX Thumbnail Rebuild package.
+msgid ""
+msgstr ""
+"Project-Id-Version: AJAX Thumbnail Rebuild 1.05\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/ajax-thumbnail-rebuild\n"
+"POT-Creation-Date: 2011-12-02 18:11:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-01-28 18:27+0100\n"
+"Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: ajax-thumbnail-rebuild.php:33
+msgid "Rebuild all Thumbnails"
+msgstr "Vygenerovat znovu všechny náhledy"
+
+#: ajax-thumbnail-rebuild.php:33
+msgid "Rebuild Thumbnails"
+msgstr "Rebuild Thumbnails"
+
+#: ajax-thumbnail-rebuild.php:50
+msgid "Reading attachments..."
+msgstr "Čtení příloh..."
+
+#: ajax-thumbnail-rebuild.php:71
+msgid "No attachments found."
+msgstr "Nebyly nalezeny žádné přílohy."
+
+#: ajax-thumbnail-rebuild.php:79
+msgid "Done."
+msgstr "Hotovo."
+
+#: ajax-thumbnail-rebuild.php:82
+msgid "\"Rebuilding \" + %s + \" of \" + %s + \" (\" + %s + \")...\""
+msgstr "\"Znovu generuji \" + %s + \" of \" + %s + \" (\" + %s + \")...\""
+
+#: ajax-thumbnail-rebuild.php:101
+msgid "Error"
+msgstr "Chyba"
+
+#: ajax-thumbnail-rebuild.php:118
+msgid "Select which thumbnails you want to rebuild"
+msgstr "Vyberte, které velikosti chcete znovu vygenerovat"
+
+#: ajax-thumbnail-rebuild.php:119
+msgid "Toggle all"
+msgstr "Přepnout vše"
+
+#: ajax-thumbnail-rebuild.php:129
+msgid "cropped"
+msgstr "ořezáváno"
+
+#: ajax-thumbnail-rebuild.php:136
+msgid "Only rebuild featured images"
+msgstr "Vygenerovat znovu jen náhledové obrázky"
+
+#: ajax-thumbnail-rebuild.php:139
+msgid ""
+"Note: If you've changed the dimensions of your thumbnails, existing "
+"thumbnail images will not be deleted."
+msgstr ""
+"Poznámka: Pokud jste změnili rozměry náhledů, nebudou existující náhledy "
+"smazány."
+
+#: ajax-thumbnail-rebuild.php:143
+msgid "Rebuild All Thumbnails"
+msgstr "Vygenerovat znovu všechny náhledy"
+
+#: ajax-thumbnail-rebuild.php:147
+msgid "Last image"
+msgstr "Poslední obrázek"
+
+#: ajax-thumbnail-rebuild.php:150
+msgid ""
+"If you find this plugin useful, I'd be happy to read your comments on the "
+"%splugin homepage%s. If you experience any problems, feel free to leave a "
+"comment too."
+msgstr ""
+"Pokud se vám tento plugin zdá užitečný, rád si přečtu vaše komentáře na "
+"%sdomovské stránce pluginu%s. Pokud jste narazili na nějaké potíže, napište "
+"komentář také."
+
+#. Plugin Name of the plugin/theme
+msgid "AJAX Thumbnail Rebuild"
+msgstr "AJAX Thumbnail Rebuild"
+
+#. Plugin URI of the plugin/theme
+msgid "http://breiti.cc/wordpress/ajax-thumbnail-rebuild"
+msgstr "http://breiti.cc/wordpress/ajax-thumbnail-rebuild"
+
+#. Description of the plugin/theme
+msgid "Rebuild all thumbnails"
+msgstr "Vygenerovat znovu všechny náhledy"
+
+#. Author of the plugin/theme
+msgid "junkcoder"
+msgstr "junkcoder"
+
+#. Author URI of the plugin/theme
+msgid "http://breiti.cc"
+msgstr "http://breiti.cc"

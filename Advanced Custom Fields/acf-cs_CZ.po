@@ -2,16 +2,17 @@
 # This file is distributed under the same license as the  package.
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Advanced Custom Fields\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/advanced-custom-fields\n"
 "POT-Creation-Date: 2014-01-05 07:41:49+00:00\n"
-"PO-Revision-Date: 2014-01-27 21:52+0100\n"
+"PO-Revision-Date: 2014-01-28 18:39+0100\n"
 "Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
 "Language-Team: webees.cz s.r.o. <jakubmachala@webees.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.5\n"
+"Language: cs_CZ\n"
 
 #: acf.php:455
 msgid "Field&nbsp;Groups"
@@ -23,7 +24,7 @@ msgstr "Advanced Custom Fields"
 
 #: acf.php:457
 msgid "Add New"
-msgstr "Přidat nové"
+msgstr "Přidat novou"
 
 #: acf.php:458
 msgid "Add New Field Group"
@@ -128,7 +129,7 @@ msgstr "Příspěvek aktualizován"
 
 #: core/controllers/addons.php:42 core/controllers/field_groups.php:307
 msgid "Add-ons"
-msgstr "Add-ons"
+msgstr "Add-ony"
 
 #: core/controllers/addons.php:130 core/controllers/field_groups.php:429
 msgid "Repeater Field"
@@ -529,11 +530,11 @@ msgstr "Seznam změn"
 
 #: core/controllers/field_groups.php:217
 msgid "See what's new in"
-msgstr "Co je nového v"
+msgstr "Co je nového ve"
 
 #: core/controllers/field_groups.php:217
 msgid "version"
-msgstr "verze"
+msgstr "verzi"
 
 #: core/controllers/field_groups.php:219
 msgid "Resources"
@@ -561,7 +562,7 @@ msgstr "Filtry"
 
 #: core/controllers/field_groups.php:226
 msgid "'How to' guides"
-msgstr "Příručky 'Jak na'"
+msgstr "Příručky \"Jak na\""
 
 #: core/controllers/field_groups.php:227
 msgid "Tutorials"
@@ -582,8 +583,8 @@ msgstr "Děkujeme za aktualizaci na poslední verzi!"
 #: core/controllers/field_groups.php:245
 msgid "is more polished and enjoyable than ever before. We hope you like it."
 msgstr ""
-"je mnohem lesklejší a radostnější než kdykoli dříve. Doufáme, že se vám bude "
-"líbit."
+"je mnohem svítivější a radostnější, než kdykoli dříve. Doufáme, že se vám "
+"bude líbit."
 
 #: core/controllers/field_groups.php:252
 msgid "What’s New"
@@ -595,7 +596,7 @@ msgstr "Stáhnout Add-ony"
 
 #: core/controllers/field_groups.php:309
 msgid "Activation codes have grown into plugins!"
-msgstr "Aktivační kódy přerostli do pluginů!"
+msgstr "Aktivační kódy se změnily na pluginy!"
 
 #: core/controllers/field_groups.php:310
 msgid ""
@@ -605,7 +606,7 @@ msgid ""
 msgstr ""
 "Add-ony jsou nyní aktivovány stáhnutím a nainstalováním jednotlivých "
 "pluginů. Ačkoli tyto pluginy nebudou hostovány na wordpress.org repozitáři, "
-"každý add-on bude přijímat aktualizaceo obvyklou cestou."
+"každý add-on bude přijímat aktualizace obvyklou cestou."
 
 #: core/controllers/field_groups.php:316
 msgid "All previous Add-ons have been successfully installed"
@@ -687,11 +688,11 @@ msgstr ""
 
 #: core/controllers/field_groups.php:349
 msgid "read this guide"
-msgstr "přečíst tohoto průvodce"
+msgstr "přečtěte si tohoto průvodce"
 
 #: core/controllers/field_groups.php:349
 msgid "to find the updated naming convention."
-msgstr "k nalezení aktualizovaného standardu pro pojmenování."
+msgstr "k nalezení aktuálního standardu pro pojmenování."
 
 #: core/controllers/field_groups.php:351
 msgid "Preview draft is now working!"
@@ -719,9 +720,8 @@ msgid ""
 "between versions 3 and 4. This means you can roll back to version 3 without "
 "any issues."
 msgstr ""
-"Nebyly učiněny absolutně <strong>žádné</strong> změny v databázi mezi "
-"verzemi 3 a 4. To znamená, že se můžete k verzi 3 vrátit absolutně bez "
-"potíží."
+"Mezi verzemi 3 a 4 nebyly učiněny absolutně <strong>žádné</strong> změny v "
+"databázi. To znamená, že se můžete k verzi 3 vrátit absolutně bez potíží."
 
 #: core/controllers/field_groups.php:361
 msgid "Potential Issues"
@@ -734,7 +734,7 @@ msgid ""
 "read the full"
 msgstr ""
 "Vzhledem k nemalým změnám okolo add-onů, typů polí a akcí / filtrů nemusí "
-"váš web fungovat správně. Je důležité přečít si plného"
+"váš web fungovat správně. Je důležité přečíst si celého"
 
 #: core/controllers/field_groups.php:362
 msgid "Migrating from v3 to v4"
