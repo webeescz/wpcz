@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Coming Soon Pro od SeedProd\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-08 22:21-0500\n"
-"PO-Revision-Date: 2014-01-30 18:53+0100\n"
+"PO-Revision-Date: 2014-01-30 19:18+0100\n"
 "Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
 "Language-Team: webees.cz s.r.o. <jakubmachala@webees.cz>\n"
 "MIME-Version: 1.0\n"
@@ -949,7 +949,7 @@ msgstr "Tato možnost automaticky spustí web při dosažení konce odpočtu."
 
 #: inc/config.php:701 inc/config.php:876
 msgid "Language Strings"
-msgstr "Jazykové řetězce"
+msgstr "Překlad hodnot"
 
 #: inc/config.php:702
 msgid "Translate the text strings below into your language if not English."
