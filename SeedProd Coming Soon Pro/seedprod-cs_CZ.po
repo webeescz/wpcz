@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Coming Soon Pro od SeedProd\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-08 22:21-0500\n"
-"PO-Revision-Date: 2014-01-30 19:18+0100\n"
+"PO-Revision-Date: 2014-01-30 21:03+0100\n"
 "Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
 "Language-Team: webees.cz s.r.o. <jakubmachala@webees.cz>\n"
 "MIME-Version: 1.0\n"
@@ -1013,148 +1013,157 @@ msgid ""
 "Favicons are displayed in a browser tab. Need Help <a href=\"http://tools."
 "dynamicdrive.com/favicon/\" target=\"_blank\">creating a favicon</a>?"
 msgstr ""
+"Favicony jsou zobrazeny v záložce prohlížeče. Potřebujete pomoc s <a href="
+"\"http://tools.dynamicdrive.com/favicon/\" target=\"_blank\">vytvářením "
+"favicony</a>?"
 
 #: inc/config.php:792
 msgid "SEO Title"
-msgstr ""
+msgstr "SEO titulek"
 
 #: inc/config.php:793
 msgid ""
 "If left empty the <a href=\"http://www.seomoz.org/learn-seo/title-tag\" "
 "target=\"_blank\">title tag</a> of your page will be: "
 msgstr ""
+"Je-li ponechán prázdný, <a href=\"http://www.seomoz.org/learn-seo/title-tag"
+"\" target=\"_blank\">titulek</a> stránky bude: "
 
 #: inc/config.php:799
 msgid "SEO Meta Description"
-msgstr ""
+msgstr "SEO meta popisek"
 
 #: inc/config.php:800
 msgid ""
 "If left empty the <a href=\"http://www.seomoz.org/learn-seo/meta-description"
 "\" target=\"_blank\">meta description</a> of your page will be: "
 msgstr ""
+"Je-li ponechán prázdný, <a href=\"http://www.seomoz.org/learn-seo/meta-"
+"description\" target=\"_blank\">meta popisek</a> vaší stránky bude: "
 
 #: inc/config.php:808
 msgid "Analytics Code"
-msgstr ""
+msgstr "Analytický kód"
 
 #: inc/config.php:809
 msgid ""
 "Paste in your <a href=\"http://www.google.com/analytics/\" target=\"_blank"
 "\">Google Analytics</a> code. Example: UA-xxxxxxxxx"
 msgstr ""
+"Vložte <a href=\"http://www.google.com/analytics/\" target=\"_blank\">Google "
+"Analytics</a> kód. Například: UA-xxxxxxxxx"
 
 #: inc/config.php:816
 msgid "Footer Credit"
-msgstr ""
+msgstr "Poděkování v patičce"
 
 #: inc/config.php:828
 msgid "Credit Image"
-msgstr ""
+msgstr "Obrázek poděkování"
 
 #: inc/config.php:829
 msgid "Use an image to add a footer credit."
-msgstr ""
+msgstr "Použít obrázek k přidání poděkování v patičce."
 
 #: inc/config.php:835
 msgid "Link to be used for your footer credit."
-msgstr ""
+msgstr "Odkaz použitý pro poděkování v patičce."
 
 #: inc/config.php:836
 msgid "Credit Link"
-msgstr ""
+msgstr "Odkaz poděkování"
 
 #: inc/config.php:851
 msgid "Social Media Profiles"
-msgstr ""
+msgstr "Profily sociálních médií"
 
 #: inc/config.php:857
 msgid "Social Media Icons Size"
-msgstr ""
+msgstr "Velikost ikon sociálních médií"
 
 #: inc/config.php:859
 msgid "Small 16px"
-msgstr ""
+msgstr "Malé 16px"
 
 #: inc/config.php:860
 msgid "Medium 24px"
-msgstr ""
+msgstr "Střední 24px"
 
 #: inc/config.php:861
 msgid "Large 32px"
-msgstr ""
+msgstr "Velké 32px"
 
 #: inc/config.php:869
 msgid "Social Profiles"
-msgstr ""
+msgstr "Sociální profily"
 
 #: inc/config.php:882
 msgid "Subscribe Button"
-msgstr ""
+msgstr "Tlačítko přihlášení odběru"
 
 #: inc/config.php:883
 msgid "Notify Me"
-msgstr ""
+msgstr "Upozornit mě"
 
 #: inc/config.php:889
 msgid "Subscribe Field"
-msgstr ""
+msgstr "Pole přihlášení odběru"
 
 #: inc/config.php:890
 msgid "Enter Your Email"
-msgstr ""
+msgstr "Vložte váš email"
 
 #: inc/config.php:896
 msgid "First Name Field"
-msgstr ""
+msgstr "Pole křestního jména"
 
 #: inc/config.php:897
 msgid "First Name"
-msgstr ""
+msgstr "Křestní jméno"
 
 #: inc/config.php:903
 msgid "Last Name Field"
-msgstr ""
+msgstr "Pole příjmení"
 
 #: inc/config.php:904
 msgid "Last Name"
-msgstr ""
+msgstr "Příjmení"
 
 #: inc/config.php:910
 msgid "Success"
-msgstr ""
+msgstr "Zpráva úspěchu"
 
 #: inc/config.php:911
 msgid "You'll be notified soon!"
-msgstr ""
+msgstr "Brzy budete upozornění!"
 
 #: inc/config.php:917
 msgid "Already Subscribed"
-msgstr ""
+msgstr "Už přihlášený uživatel"
 
 #: inc/config.php:918
 msgid "You're already subscribed."
-msgstr ""
+msgstr "Už jste se jednou přihlásili."
 
 #: inc/config.php:924
 msgid "Invalid Email"
-msgstr ""
+msgstr "Neplatný email"
 
 #: inc/config.php:931
 msgid "API Error"
-msgstr ""
+msgstr "Chyba API"
 
 #: inc/config.php:932
 msgid "Error, please try again."
-msgstr ""
+msgstr "Chyba, zkuste to prosím znovu."
 
 #: inc/config.php:939
 msgid "Display WPML Language Switcher"
-msgstr ""
+msgstr "Zobrazit přepínač jazyka WPML"
 
 #: inc/config.php:941
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #: inc/config.php:944
 msgid "This will display the WPML Language Switcher on the Coming Soon page."
