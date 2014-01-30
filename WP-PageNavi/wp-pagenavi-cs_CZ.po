@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: WP-PageNavi 2.73\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-pagenavi\n"
 "POT-Creation-Date: 2010-08-17 17:28+0300\n"
-"PO-Revision-Date: 2014-01-27 17:08+0100\n"
+"PO-Revision-Date: 2014-01-29 18:05+0100\n"
 "Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
 "Language-Team: \n"
 "Language: cs_CZ\n"
@@ -31,7 +31,7 @@ msgstr "Text pro počet stránek"
 
 #: admin.php:33
 msgid "The current page number."
-msgstr "Aktuální číslo stránky."
+msgstr "Číslo aktuální stránky."
 
 #: admin.php:34 admin.php:58 admin.php:66
 msgid "The total number of pages."
