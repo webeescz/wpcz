@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Coming Soon Pro od SeedProd\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-08 22:21-0500\n"
-"PO-Revision-Date: 2014-01-30 21:03+0100\n"
+"PO-Revision-Date: 2014-01-31 18:14+0100\n"
 "Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
 "Language-Team: webees.cz s.r.o. <jakubmachala@webees.cz>\n"
 "MIME-Version: 1.0\n"
@@ -1167,33 +1167,35 @@ msgstr "Ne"
 
 #: inc/config.php:944
 msgid "This will display the WPML Language Switcher on the Coming Soon page."
-msgstr ""
+msgstr "Tato možnost zobrazí na Coming Soon stránce přepínač jazyka WPML."
 
 #: inc/config.php:956
 msgid "Design"
-msgstr ""
+msgstr "Vzhled"
 
 #: inc/config.php:987
 msgid "Background"
-msgstr ""
+msgstr "Pozadí"
 
 #: inc/config.php:994
 msgid "Background Color"
-msgstr ""
+msgstr "Barva pozadí"
 
 #: inc/config.php:997
 msgid ""
 "Choose between having a solid color background or uploading an image. By "
 "default images will cover the entire background."
 msgstr ""
+"Vyberte si mezi použitím jedné barvy pozadí nebo nahrajte obrázek. Ve "
+"výchozím nastavení se obrázky roztáhnou na celé pozadí."
 
 #: inc/config.php:1004
 msgid "Background Image"
-msgstr ""
+msgstr "Obrázek na pozadí"
 
 #: inc/config.php:1010
 msgid "Cover or Stretch"
-msgstr ""
+msgstr "Pokrýt nebo natáhnout"
 
 #: inc/config.php:1011
 msgid ""
@@ -1201,161 +1203,165 @@ msgid ""
 "its height can fit inside the content area. The image will be stretched for "
 "older browsers."
 msgstr ""
+"Možnost Pokrýt změní měřítko obrázku na nejmenší velikost, aby se jeho šířka "
+"a výška vlezla do oblasti obsahu. Obrázek bude ve starších prohlížečích "
+"natažen."
 
 #: inc/config.php:1021
 msgid "Background Repeat"
-msgstr ""
+msgstr "Opakování pozadí"
 
 #: inc/config.php:1023
 msgid "No-Repeat"
-msgstr ""
+msgstr "Bez opakování"
 
 #: inc/config.php:1024
 msgid "Tile"
-msgstr ""
+msgstr "Dlaždice"
 
 #: inc/config.php:1025
 msgid "Tile Horizontally"
-msgstr ""
+msgstr "Horizontální dlaždice"
 
 #: inc/config.php:1026
 msgid "Tile Vertically"
-msgstr ""
+msgstr "Vertikální dlaždice"
 
 #: inc/config.php:1034
 msgid "Background Position"
-msgstr ""
+msgstr "Pozice pozadí"
 
 #: inc/config.php:1036
 msgid "Left Top"
-msgstr ""
+msgstr "Vlevo nahoře"
 
 #: inc/config.php:1037
 msgid "Left Center"
-msgstr ""
+msgstr "Vlevo uprostřed"
 
 #: inc/config.php:1038
 msgid "Left Bottom"
-msgstr ""
+msgstr "Vlevo dole"
 
 #: inc/config.php:1039
 msgid "Right Top"
-msgstr ""
+msgstr "Vpravo nahoře"
 
 #: inc/config.php:1040
 msgid "Right Center"
-msgstr ""
+msgstr "Vpravo uprostřed"
 
 #: inc/config.php:1041
 msgid "Right Bottom"
-msgstr ""
+msgstr "Vpravo dole"
 
 #: inc/config.php:1042
 msgid "Center Top"
-msgstr ""
+msgstr "Uprostřed nahoře"
 
 #: inc/config.php:1043
 msgid "Center Center"
-msgstr ""
+msgstr "Uprostřed vprostřed"
 
 #: inc/config.php:1044
 msgid "Center Bottom"
-msgstr ""
+msgstr "Uprostřed uprostřed"
 
 #: inc/config.php:1051
 msgid "Background Attachment"
-msgstr ""
+msgstr "Přichycení pozadí"
 
 #: inc/config.php:1053
 msgid "Fixed"
-msgstr ""
+msgstr "Pevné"
 
 #: inc/config.php:1054
 msgid "Scroll"
-msgstr ""
+msgstr "Scrollovat"
 
 #: inc/config.php:1061
 msgid "Background Effects"
-msgstr ""
+msgstr "Efekty pozadí"
 
 #: inc/config.php:1063
 msgid "None"
-msgstr ""
+msgstr "Žádné"
 
 #: inc/config.php:1064
 msgid "Noise"
-msgstr ""
+msgstr "Noise"
 
 #: inc/config.php:1066
 msgid ""
 "Background effects can be applied to Background Colors or Background Images."
-msgstr ""
+msgstr "Efekty pozadí mohou být použity na barvu pozadí nebo obrázek pozadí."
 
 #: inc/config.php:1074
 msgid "Background Slideshow"
-msgstr ""
+msgstr "Slideshow na pozadí"
 
 #: inc/config.php:1075
 msgid "This will override the setting above and create a background slideshow."
-msgstr ""
+msgstr "Tato možnost přepíše nastavení výše a vytvoří slideshow na pozadí."
 
 #: inc/config.php:1085
 msgid "Slideshow Randomize"
-msgstr ""
+msgstr "Náhodné slideshow"
 
 #: inc/config.php:1086
 msgid ""
 "This will display a random slideshow each time as opposed to the order "
 "listed below."
 msgstr ""
+"Tato možnost zobrazí náhodné pořadí slidů navzdory řazení vybranému níže."
 
 #: inc/config.php:1096
 msgid "Slide Speed"
-msgstr ""
+msgstr "Rychlost slidů"
 
 #: inc/config.php:1097
 msgid "This will determine how fast slides change in milliseconds."
-msgstr ""
+msgstr "Tato možnost určuje rychlost přepínání slidů v milisekundách."
 
 #: inc/config.php:1104
 msgid "Slide Transition"
-msgstr ""
+msgstr "Přechod slideshow"
 
 #: inc/config.php:1105
 msgid "This will determine the transition between slides."
-msgstr ""
+msgstr "Tato možnost určuje přechod mezi slidy."
 
 #: inc/config.php:1107
 msgid "Fade"
-msgstr ""
+msgstr "Pohasínání"
 
 #: inc/config.php:1108
 msgid "Slide Top"
-msgstr ""
+msgstr "Přejet nahoru"
 
 #: inc/config.php:1109
 msgid "Slide Right"
-msgstr ""
+msgstr "Přejet doprava"
 
 #: inc/config.php:1110
 msgid "Slide Bottom"
-msgstr ""
+msgstr "Přejet dolů"
 
 #: inc/config.php:1111
 msgid "Slide Left"
-msgstr ""
+msgstr "Přejet doleva"
 
 #: inc/config.php:1112
 msgid "Carousel Right"
-msgstr ""
+msgstr "Carousel doprava"
 
 #: inc/config.php:1113
 msgid "Carousel Left"
-msgstr ""
+msgstr "Carousel doleva"
 
 #: inc/config.php:1120
 msgid "Slideshow Images"
-msgstr ""
+msgstr "Obrázky slideshow"
 
 #: inc/config.php:1121
 msgid ""
@@ -1363,18 +1369,21 @@ msgid ""
 "line. <a href=\"https://seedprod.zendesk.com/entries/22545416-how-to-create-"
 "a-background-slideshow\" target=\"_blank\">Learn How</a>"
 msgstr ""
+"Zvlášť na řádek vložte URL obrázků, které chcete použít ve slideshow. <a "
+"href=\"https://seedprod.zendesk.com/entries/22545416-how-to-create-a-"
+"background-slideshow\" target=\"_blank\">Zjistěte jak</a>"
 
 #: inc/config.php:1128
 msgid "Background Video (Beta)"
-msgstr ""
+msgstr "Video na pozadí (beta)"
 
 #: inc/config.php:1129
 msgid "This is very much a beta feature. There may be bugs."
-msgstr ""
+msgstr "Toto je velmi experimentální funkce a mohou se objevit chyby."
 
 #: inc/config.php:1135
 msgid "Enable Background Video"
-msgstr ""
+msgstr "Zapnout video na pozadí"
 
 #: inc/config.php:1136
 msgid ""
@@ -1382,187 +1391,204 @@ msgid ""
 "devices will not auto play video so the background image above will be used "
 "instead."
 msgstr ""
+"Tato možnost přepíše nastavení výše a vytvoří video na pozadí. Mobilní "
+"zařízení video nepřehrají automaticky a proto na nich bude použit obrázek na "
+"pozadí."
 
 #: inc/config.php:1146
 msgid "Background Video URL"
-msgstr ""
+msgstr "Adresa videa na pozadí"
 
 #: inc/config.php:1147
 msgid "Enter the YouTube, Vimeo or MP4 url."
-msgstr ""
+msgstr "Vložte YouTube, Vimeo nebo MP4 adresu."
 
 #: inc/config.php:1153
 msgid "Background Video HD"
-msgstr ""
+msgstr "HD video na pozadí"
 
 #: inc/config.php:1154
 msgid "Control hd playback (YouTube videos only)."
-msgstr ""
+msgstr "Ovládat HD přehrávání (pouze YouTube videa)"
 
 #: inc/config.php:1164
 msgid "Background AdProof"
-msgstr ""
+msgstr "AdProof na pozadí"
 
 #: inc/config.php:1165
 msgid ""
 "Scale the youtube player larger than the browser to obscure ads (YouTube "
 "videos only)."
 msgstr ""
+"Zvětšit YouTube přehrávač nad velikost okna prohlížeče ke skrytí reklam "
+"(pouze YouTube videa)."
 
 #: inc/config.php:1176
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: inc/config.php:1182
 msgid "Text Color"
-msgstr ""
+msgstr "Barva textu"
 
 #: inc/config.php:1192
 msgid "Link &amp; Button Color"
-msgstr ""
+msgstr "Barva odkazu &amp; tlačítka"
 
 #: inc/config.php:1200
 msgid "Headline Color"
-msgstr ""
+msgstr "Barva nadpisu"
 
 #: inc/config.php:1202
 msgid ""
 "If no Headline Color is choosen then the Link &amp; Button Color will be "
 "used. "
 msgstr ""
+"Pokud nená vybrána barva nadpisu, bude použita barva odkazu &amp; tlačítka."
 
 #: inc/config.php:1210
 msgid "Text Font"
-msgstr ""
+msgstr "Písmo textu"
 
 #: inc/config.php:1231
 msgid "Headline Font"
-msgstr ""
+msgstr "Písmo nadpisu"
 
 #: inc/config.php:1247
 msgid ""
 "If you choose 'Inherit' as a headline font then the text font will be used."
 msgstr ""
+"Pokud vyberete možnost 'Zdědit' jako písmo nadpisu, bude použito písmo textu."
 
 #: inc/config.php:1253
 msgid "Button Font"
-msgstr ""
+msgstr "Písmo tlačítka"
 
 #: inc/config.php:1269
 msgid ""
 "If you choose 'Inherit' as a button font then the headline font will be used."
 msgstr ""
+"Pokud vyberete možnost 'Zdědit' jako písmo tlačítka, bude použito písmo "
+"nadpisu."
 
 #: inc/config.php:1276
 msgid "Typekit Kit ID"
-msgstr ""
+msgstr "Typekit Kit ID"
 
 #: inc/config.php:1277
 msgid ""
 "Enter your <a href=\"https://typekit.com\" target=\"_blank\">Typekit</a> Kit "
 "ID. This will override the fonts above."
 msgstr ""
+"Vložte <a href=\"https://typekit.com\" target=\"_blank\">Typekit</a> Kit ID. "
+"Tato možnost přepíše písma výše."
 
 #: inc/config.php:1283
 msgid "Text Effects"
-msgstr ""
+msgstr "Efekty textu"
 
 #: inc/config.php:1285
 msgid "Inset <small class=\"description\">: Adds a subtle inset shadow</small>"
 msgstr ""
+"Vnitřní <small class=\"description\">: Přidá lehký vnitřní stín</small>"
 
 #: inc/config.php:1296
 msgid "Container"
-msgstr ""
+msgstr "Kontejner"
 
 #: inc/config.php:1302
 msgid "Enable Container"
-msgstr ""
+msgstr "Zapnout kontejner"
 
 #: inc/config.php:1303
 msgid ""
 "A container is a wrapper that will encapsulate your coming soon content."
-msgstr ""
+msgstr "Kontejner je obal, který obklopí coming soon obsah."
 
 #: inc/config.php:1312
 msgid "Container Color"
-msgstr ""
+msgstr "Barva kontejneru"
 
 #: inc/config.php:1320
 msgid "Container Position"
-msgstr ""
+msgstr "Umístění kontejneru"
 
 #: inc/config.php:1322
 msgid "Left"
-msgstr ""
+msgstr "Vlevo"
 
 #: inc/config.php:1323
 msgid "Center"
-msgstr ""
+msgstr "Uprostřed"
 
 #: inc/config.php:1324
 msgid "Right"
-msgstr ""
+msgstr "Vpravo"
 
 #: inc/config.php:1332
 msgid "Container Effects"
-msgstr ""
+msgstr "Efekty kontejneru"
 
 #: inc/config.php:1334
 msgid "Fade In"
-msgstr ""
+msgstr "Rozsvěcování"
 
 #: inc/config.php:1335
 msgid "Drop Shadow"
-msgstr ""
+msgstr "Vržený stín"
 
 #: inc/config.php:1336
 msgid "Glow"
-msgstr ""
+msgstr "Záře"
 
 #: inc/config.php:1337
 msgid "Border"
-msgstr ""
+msgstr "Ohraničení"
 
 #: inc/config.php:1338
 msgid "Rounded Corners"
-msgstr ""
+msgstr "Zaoblené rohy"
 
 #: inc/config.php:1339
 msgid "Opacity"
-msgstr ""
+msgstr "Průhlednost"
 
 #: inc/config.php:1341
 msgid ""
 "These effects only work in modern browsers. Not sure what a <a target="
 "\"_blank\" href=\"http://browsehappy.com/\">modern browser</a> is?"
 msgstr ""
+"Tyto efekty budou fungovat pouze v moderních prohlížečích. Nejse si jisti, "
+"co je <a target=\"_blank\" href=\"http://browsehappy.com/\">moderní "
+"prohlížeč</a>?"
 
 #: inc/config.php:1362
 msgid "Template"
-msgstr ""
+msgstr "Šablona"
 
 #: inc/config.php:1370
 msgid "Custom CSS"
-msgstr ""
+msgstr "Vlastní CSS"
 
 #: inc/config.php:1371
 msgid "Need to tweaks the styles? Add your custom CSS here."
-msgstr ""
+msgstr "Potřebujete upravit styly? Sem přidejte vaše vlastní CSS."
 
 #: inc/config.php:1378
 msgid "Code"
-msgstr ""
+msgstr "Kód"
 
 #: inc/config.php:1379
 msgid ""
 "If you need to make some advanced changes to the template you can edit the "
 "code above directly."
 msgstr ""
+"Pokud potřebujete udělat nějaké pokročilejší změny v šabloně, můžete upravit "
+"kód výše přímo."
 
 #: inc/config.php:1386
 msgid "Template Tags"
-msgstr ""
+msgstr "Tagy šablony"
 
 #: inc/config.php:1387
 msgid ""
@@ -1600,18 +1626,54 @@ msgid ""
 "<br>\n"
 "            "
 msgstr ""
+"\n"
+"            <code>{Title}</code> - Zobrazí titulek. Nastavení > Coming Soon "
+"Pro nastavení > Hlavička > SEO titulek <br>\n"
+"            <code>{MetaDescription}</code> - Zobrazí váš popisek spolu s "
+"ostatními meta tagy. Settings > Coming Soon Pro > Nastavení >Hlavička > SEO "
+"meta popisek <br>\n"
+"            <code>{Privacy}</code> - Při nastavení na soukromý zobrazí "
+"noindex tag. Nastavení > Soukromí <br>\n"
+"            <code>{Favicon}</code> - Zobrazí tag favicon. Nastavení > Coming "
+"Soon Pro > Nastavení > Header > Favicon <br>\n"
+"            <code>{Head}</code> - Nutno použít v <head> Zobrazí vlastní "
+"skripty stránky. Nastavení > Coming Soon Pro > Pokročilé > Skripty<br>\n"
+"            <code>{Custom CSS}</code> - Zobrazí vlastní CSS stránku. "
+"Nastavení > Coming Soon Pro > Vzhled > Šablona > Vlastní CSS<br>\n"
+"            <code>{Logo}</code> - Zobrazí logo, je-li nastaveno. Nastavení > "
+"Coming Soon Pro > Nastavení > Nastavení stránky > Logo<br>\n"
+"            <code>{Headline}</code> - Zobrazí nadpis, je-li nastaven. "
+"Nastavení > Coming Soon Pro > Nastavení > Nastavení stránky > Nadpis<br>\n"
+"            <code>{Description}</code> - Zobrazí popis, je-li nastaven. "
+"Nastavení > Coming Soon Pro > Nastavení > Nastavení stránky > Popis<br>\n"
+"            <code>{ProgressBar}</code> - Zobrazí ukazatel průběhu, je-li "
+"nastaven. Nastavení > Coming Soon Pro > Nastavení > Nastavení ukazatele "
+"průběhu<br>\n"
+"            <code>{Countdown}</code> - Zobrazí odpočet, je-li zapnut. "
+"Nastavení > Coming Soon Pro > Nastavení > Nastavení odpočtu<br>\n"
+"            <code>{Form}</code> - Zobrazí přihlašovací formulář a stránku "
+"poděkování. Nastavení > Coming Soon Pro > Nastavení<br>\n"
+"            <code>{SocialProfiles}</code> - Zobrazí sociální profily, jsou-"
+"li nastaveny. Nastavení > Coming Soon Pro > Nastavení > Sociální "
+"profily<br>\n"
+"            <code>{Credit}</code> - Zobrazí poděkování v patičce, je-li "
+"nastaveno. Nastavení > Coming Soon Pro > Nastavení > Poděkování v "
+"patičce<br>\n"
+"            <code>{Footer}</code> - Zobrazí potřebné skripty pro stránku."
+"<br>\n"
+"            "
 
 #: inc/config.php:1413
 msgid "Advanced"
-msgstr ""
+msgstr "Pokročilé"
 
 #: inc/config.php:1424
 msgid "Access"
-msgstr ""
+msgstr "Přístup"
 
 #: inc/config.php:1431
 msgid "Client View URL"
-msgstr ""
+msgstr "Adresa prohlížení klientem"
 
 #: inc/config.php:1432
 msgid ""
@@ -1619,20 +1681,25 @@ msgid ""
 "to bypass the Coming Soon page. The cookie life is 6 hours. After the cookie "
 "expires they will need to revisit the client view url to regain access."
 msgstr ""
+"Výše vložte frázi a dejte klientovi tajnou adresu, která mu umožní obejít "
+"Coming Soon stránku. Životnost cookie je 6 hodin. Po expiraci cookie bude "
+"klient nucen navštívit znova adresu pro opětovný přístup."
 
 #: inc/config.php:1438
 msgid "Access by IP"
-msgstr ""
+msgstr "Přístup dle IP"
 
 #: inc/config.php:1439
 msgid ""
 "All visitors from certain IP's to bypass the Coming Soon page. Put each IP "
 "on it's own line."
 msgstr ""
+"Všichni návštěvníci z určité IP adresy obejdou Coming Soon stránku. Vložte "
+"každou IP na svůj vlastní řádek."
 
 #: inc/config.php:1445
 msgid "Access by Role"
-msgstr ""
+msgstr "Přístup dle role"
 
 #: inc/config.php:1446
 msgid ""
@@ -1640,10 +1707,13 @@ msgid ""
 "soon page. To override this select Roles that will be given access to see "
 "the regular site."
 msgstr ""
+"Ve výchozím nastavení uvidí každý přihlášený normální web namísto Coming "
+"Soon stránky. Pro změnu vyberte role, které budou mít přístup k normálnímu "
+"webu."
 
 #: inc/config.php:1455
 msgid "Landing Page Mode"
-msgstr ""
+msgstr "Režim landing stránky"
 
 #: inc/config.php:1456
 msgid ""
@@ -1651,10 +1721,13 @@ msgid ""
 "landing page. Leave unselected if you want the coming soon page to be "
 "display on your entire site."
 msgstr ""
+"Zobrazte Coming Soon stránku pouze na jedné stránce vašeho webu a použijte "
+"ji jako landing stránku. Ponechte nezatržené pro použití Coming Soon stránky "
+"na celý web."
 
 #: inc/config.php:1464
 msgid "Include URL Pattern"
-msgstr ""
+msgstr "Zahrnout URL vzor"
 
 #: inc/config.php:1465
 msgid ""
