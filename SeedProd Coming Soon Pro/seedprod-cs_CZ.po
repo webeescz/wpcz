@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Coming Soon Pro od SeedProd\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-08 22:21-0500\n"
-"PO-Revision-Date: 2014-01-31 18:14+0100\n"
+"PO-Revision-Date: 2014-01-31 18:25+0100\n"
 "Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
 "Language-Team: webees.cz s.r.o. <jakubmachala@webees.cz>\n"
 "MIME-Version: 1.0\n"
@@ -1739,10 +1739,17 @@ msgid ""
 "target=\"_blank\">See more examples</a> and learn how to include multiple "
 "pages. This is useful if you are working on a new section of your site."
 msgstr ""
+"Zahrne určité adresy, které budou zobrazovat pouze Coming Soon stránku s "
+"použitím <a href=\"http://en.wikipedia.org/wiki/Regex\" target=\"_blank"
+"\">regulérních výrazů</a>. Například \"blog\" zahrne stránky s adresou: "
+"http://example.org/blog/*. <a href=\"https://seedprod.zendesk.com/"
+"entries/23050096-exclude-and-include-urls-pattern-examples\" target=\"_blank"
+"\">Podívejte se na více příkladů</a> a zjistěte jak zahrnout více stránek. "
+"Tato možnost je užitečná při práci na nových sekcích webu."
 
 #: inc/config.php:1471
 msgid "Exclude URL Pattern"
-msgstr ""
+msgstr "Vyloučit URL vzor"
 
 #: inc/config.php:1472
 msgid ""
@@ -1755,30 +1762,38 @@ msgid ""
 "section of you site is ready to be viewed or you have a login page on the "
 "frontend."
 msgstr ""
+"Vyloučí určité adresy ze zobrazování Coming Soon stránky s použitím <a href="
+"\"http://en.wikipedia.org/wiki/Regex\" target=\"_blank\">regulérních výrazů</"
+"a>. Například \"blog\" vyloučí stránky s adresou: http://example.org/blog/*. "
+"<a href=\"https://seedprod.zendesk.com/entries/23050096-exclude-and-include-"
+"urls-pattern-examples\" target=\"_blank\">Podívejte se na více příkladů</a> "
+"a zjistěte jak vyloučit více stránek. Tato možnost je užitečná, pokud už je "
+"na vašem webu funkční sekce nebo máte na úvodní stránce přihlašovací "
+"formulář."
 
 #: inc/config.php:1480
 msgid "Scripts"
-msgstr ""
+msgstr "Skripty"
 
 #: inc/config.php:1497
 msgid "Enable Responsiveness"
-msgstr ""
+msgstr "Zapnout responsive"
 
 #: inc/config.php:1498
 msgid "Makes the page responsive."
-msgstr ""
+msgstr "Učiní stránku responsivní."
 
 #: inc/config.php:1508
 msgid "Enable FitVid"
-msgstr ""
+msgstr "Zapnout FitVid"
 
 #: inc/config.php:1509
 msgid "Makes your videos responsive."
-msgstr ""
+msgstr "Učiní video responsivním."
 
 #: inc/config.php:1520
 msgid "Enable wp_head &amp; wp_footer"
-msgstr ""
+msgstr "Zapnout wp_head &amp; wp_footer"
 
 #: inc/config.php:1521
 msgid ""
