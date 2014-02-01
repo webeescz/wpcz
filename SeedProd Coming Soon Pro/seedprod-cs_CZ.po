@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Coming Soon Pro od SeedProd\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-08 22:21-0500\n"
-"PO-Revision-Date: 2014-01-31 18:25+0100\n"
+"PO-Revision-Date: 2014-02-01 10:13+0100\n"
 "Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
 "Language-Team: webees.cz s.r.o. <jakubmachala@webees.cz>\n"
 "MIME-Version: 1.0\n"
@@ -1803,39 +1803,50 @@ msgid ""
 "functions are required by some plugins. If you are unsure do not enable it. "
 "These functions can cause styling issues with the page."
 msgstr ""
+"Funkce <a href=\"http://codex.wordpress.org/Plugin_API/Action_Reference/"
+"wp_head\" target=\"_blank\">wp_head</a> a <a href=\"http://codex.wordpress."
+"org/Plugin_API/Action_Reference/wp_footer\" target=\"_blank\">wp_footer</a> "
+"jsou požadovány některými pluginy. Pokud si nejste jisti, tuto možnost "
+"nepovolujte. Tyto funkce mohou způsobit problémy se stylem webu."
 
 #: inc/config.php:1530
 msgid "Header Scripts"
-msgstr ""
+msgstr "Skripty v hlavičce"
 
 #: inc/config.php:1531
 msgid ""
 "Enter any custom scripts. You can enter Javascript or CSS. This will be "
 "rendered before the closing head tag."
 msgstr ""
+"Vložte jakékoliv vlastní skripty. Můžete vložit JavaScript a CSS. Tato data "
+"budou vypsána před uzavřením hlavičky."
 
 #: inc/config.php:1538
 msgid "Footer Scripts"
-msgstr ""
+msgstr "Skripty v patičce"
 
 #: inc/config.php:1539
 msgid ""
 "Enter any custom scripts. This will be rendered before the closing body tag."
 msgstr ""
+"Vložte jakékoliv vlastní skripty. Tato data budou vypsána před uzavřením "
+"body tagu."
 
 #: inc/config.php:1546
 msgid "Conversion Scripts"
-msgstr ""
+msgstr "Konverzní skripty"
 
 #: inc/config.php:1547
 msgid ""
 "This will render only after the form has been submitted. This will be "
 "rendered before the closing body tag."
 msgstr ""
+"Tato data budou vypsána pouze po odeslání formuláře. Budou vypsána před "
+"uzavřením body tagu."
 
 #: inc/config.php:1554
 msgid "Disable Custom Code Template"
-msgstr ""
+msgstr "Vypnout šablonu vlastního kódu"
 
 #: inc/config.php:1555
 msgid ""
@@ -1843,33 +1854,38 @@ msgid ""
 "custom template to avoid this error and notify your host of the false "
 "positive."
 msgstr ""
+"Mod_security na některých hostinzích způsobí falešnou kladnou chybu 400. "
+"Vypněte vlastní šablonu pro zamezení této chybě a upozorněte na falšenou "
+"chybu hosting."
 
 #: inc/config.php:1564
 msgid "Import / Export"
-msgstr ""
+msgstr "Import / Export"
 
 #: inc/config.php:1570
 msgid "Import"
-msgstr ""
+msgstr "Import"
 
 #: inc/config.php:1571
 msgid "Paste settings from another Coming Soon Pro instance to import."
-msgstr ""
+msgstr "Vložte nastavení z jiné Coming Soon Pro instalace pro import."
 
 #: inc/config.php:1577
 msgid "Export"
-msgstr ""
+msgstr "Export"
 
 #: inc/config.php:1578
 msgid ""
 "Copy these settings and use the import them to another Coming Soon Pro "
 "instance."
 msgstr ""
+"Zkopírujte toto nastavení a použijte je k importu do jiné instalace Coming "
+"Soon Pro."
 
 #: themes/default/functions.php:681
 msgid "Your Referral URL is:"
-msgstr ""
+msgstr "Vaše referral adresa je:"
 
 #: themes/default/functions.php:682
 msgid "Your Referral Stats"
-msgstr ""
+msgstr "Vaše referral statistiky"
