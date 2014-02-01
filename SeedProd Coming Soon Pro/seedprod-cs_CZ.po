@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Coming Soon Pro od SeedProd\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-08 22:21-0500\n"
-"PO-Revision-Date: 2014-02-01 10:13+0100\n"
+"PO-Revision-Date: 2014-02-01 10:32+0100\n"
 "Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
 "Language-Team: webees.cz s.r.o. <jakubmachala@webees.cz>\n"
 "MIME-Version: 1.0\n"
@@ -38,7 +38,7 @@ msgstr "&larr; Zavřít okno"
 
 #: framework/framework.php:226
 msgid "Live Preview"
-msgstr "Live náhled"
+msgstr "Náhled"
 
 #: framework/framework.php:228
 msgid "Support"
@@ -1043,7 +1043,7 @@ msgstr ""
 
 #: inc/config.php:808
 msgid "Analytics Code"
-msgstr "Analytický kód"
+msgstr "Kód Analytics"
 
 #: inc/config.php:809
 msgid ""
@@ -1063,7 +1063,7 @@ msgstr "Obrázek poděkování"
 
 #: inc/config.php:829
 msgid "Use an image to add a footer credit."
-msgstr "Použít obrázek k přidání poděkování v patičce."
+msgstr "Použít obrázek u poděkování v patičce."
 
 #: inc/config.php:835
 msgid "Link to be used for your footer credit."
@@ -1203,9 +1203,9 @@ msgid ""
 "its height can fit inside the content area. The image will be stretched for "
 "older browsers."
 msgstr ""
-"Možnost Pokrýt změní měřítko obrázku na nejmenší velikost, aby se jeho šířka "
+"Možnost pokrýt změní měřítko obrázku na nejmenší velikost, aby se jeho šířka "
 "a výška vlezla do oblasti obsahu. Obrázek bude ve starších prohlížečích "
-"natažen."
+"natažený."
 
 #: inc/config.php:1021
 msgid "Background Repeat"
@@ -1444,7 +1444,7 @@ msgid ""
 "If no Headline Color is choosen then the Link &amp; Button Color will be "
 "used. "
 msgstr ""
-"Pokud nená vybrána barva nadpisu, bude použita barva odkazu &amp; tlačítka."
+"Pokud není vybrána barva nadpisu, bude použita barva odkazu &amp; tlačítka."
 
 #: inc/config.php:1210
 msgid "Text Font"
@@ -1628,10 +1628,10 @@ msgid ""
 msgstr ""
 "\n"
 "            <code>{Title}</code> - Zobrazí titulek. Nastavení > Coming Soon "
-"Pro nastavení > Hlavička > SEO titulek <br>\n"
+"Pro > Hlavička > SEO titulek <br>\n"
 "            <code>{MetaDescription}</code> - Zobrazí váš popisek spolu s "
-"ostatními meta tagy. Settings > Coming Soon Pro > Nastavení >Hlavička > SEO "
-"meta popisek <br>\n"
+"ostatními meta tagy. Nastavení > Coming Soon Pro > Nastavení > Hlavička > "
+"SEO meta popisek <br>\n"
 "            <code>{Privacy}</code> - Při nastavení na soukromý zobrazí "
 "noindex tag. Nastavení > Soukromí <br>\n"
 "            <code>{Favicon}</code> - Zobrazí tag favicon. Nastavení > Coming "
@@ -1673,7 +1673,7 @@ msgstr "Přístup"
 
 #: inc/config.php:1431
 msgid "Client View URL"
-msgstr "Adresa prohlížení klientem"
+msgstr "Adresa prohlížení pro klienta"
 
 #: inc/config.php:1432
 msgid ""
