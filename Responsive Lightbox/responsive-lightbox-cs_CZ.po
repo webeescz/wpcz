@@ -2,10 +2,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Responsive Lightbox\n"
 "POT-Creation-Date: 2013-10-28 14:23+0100\n"
-"PO-Revision-Date: 2014-01-18 10:36+0100\n"
+"PO-Revision-Date: 2014-02-01 15:59+0100\n"
 "Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
-"Language-Team: \n"
-"Language: Czech\n"
+"Language-Team: webees.cz s.r.o. <jakubmachala@webees.cz>\n"
+"Language: cs_CZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -33,7 +33,7 @@ msgstr "rychle"
 
 #: ../responsive-lightbox.php:279
 msgid "default"
-msgstr ""
+msgstr "výchozí"
 
 #: ../responsive-lightbox.php:280
 msgid "light rounded"
@@ -53,7 +53,7 @@ msgstr "tmavý hranatý"
 
 #: ../responsive-lightbox.php:284
 msgid "facebook"
-msgstr ""
+msgstr "facebook"
 
 #: ../responsive-lightbox.php:287
 msgid "window"
@@ -73,47 +73,47 @@ msgstr "přímý"
 
 #: ../responsive-lightbox.php:291
 msgid "gpu"
-msgstr ""
+msgstr "gpu"
 
 #: ../responsive-lightbox.php:296
 msgid "SwipeBox"
-msgstr ""
+msgstr "SwipeBox"
 
 #: ../responsive-lightbox.php:298
 msgid "CSS"
-msgstr ""
+msgstr "CSS"
 
 #: ../responsive-lightbox.php:299
 msgid "jQuery"
-msgstr ""
+msgstr "jQuery"
 
 #: ../responsive-lightbox.php:303
 msgid "FancyBox"
-msgstr ""
+msgstr "FancyBox"
 
 #: ../responsive-lightbox.php:305
 msgid "elastic"
-msgstr ""
+msgstr "elastický"
 
 #: ../responsive-lightbox.php:306 ../responsive-lightbox.php:327
 msgid "fade"
-msgstr ""
+msgstr "pohasínání"
 
 #: ../responsive-lightbox.php:307
 msgid "none"
-msgstr ""
+msgstr "žádný"
 
 #: ../responsive-lightbox.php:310
 msgid "auto"
-msgstr ""
+msgstr "auto"
 
 #: ../responsive-lightbox.php:311
 msgid "yes"
-msgstr ""
+msgstr "ano"
 
 #: ../responsive-lightbox.php:312
 msgid "no"
-msgstr ""
+msgstr "ne"
 
 #: ../responsive-lightbox.php:315
 msgid "swing"
@@ -202,7 +202,7 @@ msgstr "Odkazy obrázků"
 
 #: ../responsive-lightbox.php:452
 msgid "Single images as gallery"
-msgstr "Galerie po jednotlivých obrázcích"
+msgstr "Jednotlivé obrázky jako galerie"
 
 #: ../responsive-lightbox.php:453
 msgid "Deactivation"
@@ -218,7 +218,7 @@ msgstr ""
 
 #: ../responsive-lightbox.php:463
 msgid "Top and bottom bars"
-msgstr "Horní a dolní lišta"
+msgstr "Horní a dolní lišty"
 
 #: ../responsive-lightbox.php:464
 msgid "Video max width"
@@ -246,7 +246,7 @@ msgstr "Ukázat název"
 
 #: ../responsive-lightbox.php:473
 msgid "Allow resize big images"
-msgstr "Povolit přizpůsobení velkých obrázků"
+msgstr "Povolit změnu velikosti velkých obrázků"
 
 #: ../responsive-lightbox.php:474 ../responsive-lightbox.php:512
 msgid "Video width"
@@ -258,7 +258,7 @@ msgstr "Výška videa"
 
 #: ../responsive-lightbox.php:476
 msgid "Theme"
-msgstr "Motiv"
+msgstr "Šablona"
 
 #: ../responsive-lightbox.php:477
 msgid "Horizontal padding"
@@ -286,7 +286,7 @@ msgstr ""
 
 #: ../responsive-lightbox.php:483
 msgid "Overlay gallery"
-msgstr "Překrytí galerií"
+msgstr "Překrytí galerie"
 
 #: ../responsive-lightbox.php:484
 msgid "Keyboard shortcuts"
@@ -397,11 +397,11 @@ msgstr ""
 
 #: ../responsive-lightbox.php:537
 msgid "Select your preffered ligthbox effect script."
-msgstr "Vyber preferovaný lightbox efekt."
+msgstr "Vyberte preferovaný skript lightbox efektu."
 
 #: ../responsive-lightbox.php:547
 msgid "Select to which rel selector lightbox effect will be applied to."
-msgstr "Vyber, podle jakého klíčového slova bude lightbox vyvolán."
+msgstr "Vyberte, na jaký rel atribut bude efekt lightboxu použit."
 
 #: ../responsive-lightbox.php:565
 #, fuzzy
@@ -430,7 +430,7 @@ msgstr "Vymaž nastavení při deaktivaci pluginu"
 
 #: ../responsive-lightbox.php:655
 msgid "Select a method of applying a lightbox effect."
-msgstr "Vyber způsob zobrazení lightbox efektu.."
+msgstr "Vyberte způsob použití lightbox efektu.."
 
 #: ../responsive-lightbox.php:673
 #, fuzzy
@@ -488,7 +488,7 @@ msgstr "Zobraz název obrázku"
 
 #: ../responsive-lightbox.php:812
 msgid "Resize the photos bigger than viewport."
-msgstr "Změna velikosti obrázků, pokud jsou větší než obrazovka."
+msgstr "Změnit velikost fotografií větších, než okno prohlížeče."
 
 #: ../responsive-lightbox.php:822 ../responsive-lightbox.php:832
 msgid "in pixels"
@@ -672,7 +672,7 @@ msgid ""
 "Changes were not saved because there was attempt to save settings of "
 "inactive script. The site has been reloaded to the proper script settings."
 msgstr ""
-"Změny nebyly uloženy, protože jsi se pokusil uložit nastavení neaktivního "
+"Změny nebyly uloženy, protože jste se pokusili uložit nastavení neaktivního "
 "skriptu. Stránka byla znovu načtena do nastavení správného skriptu."
 
 #: ../responsive-lightbox.php:1636
@@ -703,9 +703,9 @@ msgid ""
 "Changes were not set to defaults because there was attempt to reset settings "
 "of inactive script. The site has been reloaded to the proper script settings."
 msgstr ""
-"Změny nebyly nastaveny na výchozí hodnoty, protože jsi se pokusil o obnovení "
-"nastavení neaktivního skriptu. Stránka byla znovu načtena do nastavení "
-"správného skriptu."
+"Změny nebyly nastaveny na výchozí hodnoty, protože jste se pokusili o "
+"obnovení nastavení neaktivního skriptu. Stránka byla znovu načtena do "
+"nastavení správného skriptu."
 
 #: ../responsive-lightbox.php:1680 ../responsive-lightbox.php:1681
 #: ../responsive-lightbox.php:1695 ../responsive-lightbox.php:1727
@@ -718,24 +718,24 @@ msgstr "Obnovit výchozí nastavení"
 
 #: ../responsive-lightbox.php:1729
 msgid "Need support?"
-msgstr "Potřebuješ pomoc?"
+msgstr "Potřebujete pomoc?"
 
 #: ../responsive-lightbox.php:1730
 msgid ""
 "If you are having problems with this plugin, please talk about them in the"
-msgstr "Pokud máš problém s tímto pluginem, pověz o něm prosím ve"
+msgstr "Máte-li problémy s tímto plugim, povězte nám o tom prosím na"
 
 #: ../responsive-lightbox.php:1730
 msgid "Support forum"
-msgstr "fóru podpory"
+msgstr "Fóru podpory"
 
 #: ../responsive-lightbox.php:1732
 msgid "Do you like this plugin?"
-msgstr "Líbí se ti tento plugin?"
+msgstr "Líbí se vám tento plugin?"
 
 #: ../responsive-lightbox.php:1733
 msgid "Rate it 5"
-msgstr "Ohodnoť ho 5"
+msgstr "Ohodnoťte jej pětkou"
 
 #: ../responsive-lightbox.php:1733
 msgid "on WordPress.org"
@@ -743,32 +743,31 @@ msgstr "na WordPress.org"
 
 #: ../responsive-lightbox.php:1734
 msgid "Blog about it & link to the"
-msgstr "Napiš o něm a odkaž na"
+msgstr "Napište o něm a odkažte na"
 
 #: ../responsive-lightbox.php:1734
 msgid "plugin page"
-msgstr "stránky pluginu"
+msgstr "stránku pluginu"
 
 #: ../responsive-lightbox.php:1735
 msgid "Check out our other"
-msgstr "Zkus naše další"
+msgstr "Zkuste naše další"
 
 #: ../responsive-lightbox.php:1735
 msgid "WordPress plugins"
 msgstr "WordPress pluginy"
 
 #: ../responsive-lightbox.php:1762
-#, fuzzy
 msgid "Are you sure you want to reset these settings to defaults?"
-msgstr "Jsi si jistý, že chceš obnovit výchozí nastavení??"
+msgstr "Jste si jisti, že chcete obnovit toto nastavení na výchozí?"
 
 #: ../responsive-lightbox.php:1763
 msgid "Are you sure you want to reset scripts settings to defaults?"
-msgstr "Jsi si jistý, že chceš obnovit výchozí nastavení??"
+msgstr "Jste si jisti, že chcete obnovit výchozí nastavení skriptů?"
 
 #: ../responsive-lightbox.php:2009
 msgid "Support"
-msgstr "Pomoc"
+msgstr "Podpora"
 
 #: ../responsive-lightbox.php:2031
 msgid "Settings"
