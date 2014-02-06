@@ -9,4 +9,6 @@ Advanced Custom Fields: Gallery Field 1.1.0
 
 Advanced Custom Fields: Options Page 1.2.0
 
+-- Zasláno autorovi pluginu.
+
 Powered by: http://www.webees.cz/
