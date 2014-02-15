@@ -13,151 +13,160 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Language: cs_CZ\n"
-"X-Generator: Poedit 1.6.3\n"
+"X-Generator: Poedit 1.6.4\n"
 
 msgid "default"
-msgstr ""
+msgstr "výchozí"
 
 msgid "Uncategorized"
-msgstr ""
+msgstr "Nezařazené"
 
 msgid ""
 "WordPress language file (.mo) is missing. Keeping existing display language."
 msgstr ""
+"Jazykový soubor WordPressu (.mo) chybí. Ponechán existující zobrazený jazyk."
 
 msgid "Languages order updated"
 msgstr "Pořadí jazyků aktualizováno"
 
 msgid "At least one of the language switcher style options needs to be checked"
-msgstr ""
+msgstr "Nejméně jeden ze stylů přepínače jazyků musí být vybrán."
 
 msgid "Validate on save"
 msgstr "Kontrolovat při ukládání"
 
 msgid "Back to translated version"
-msgstr ""
+msgstr "Zpět na přeloženou verzi"
 
 msgid "View"
-msgstr ""
+msgstr "Prohlížet"
 
 msgid "Show 1 reminder"
-msgstr ""
+msgstr "Zobrazit 1 upozornění"
 
 msgid "Show %d reminders"
-msgstr ""
+msgstr "Zobrazit %d upozornění"
 
 msgid "%s is currently hidden to visitors."
-msgstr ""
+msgstr "%s je aktuálně návštěvníkům skrytý."
 
 msgid "%s are currently hidden to visitors."
-msgstr ""
+msgstr "%s jsou aktuálně návštěvníkům skryty."
 
 msgid ""
 "You can enable its/their display for yourself, in your <a href=\"%s"
 "\">profile page</a>."
 msgstr ""
+"Pro sebe si jeho / jejich zobrazení můžete nastavit na vaší <a href=\"%s"
+"\">profilové stránce</a>."
 
 msgid "All languages are currently displayed."
 msgstr "Všechny jazyky jsou aktuálně zobrazeny."
 
 msgid "Post not found"
-msgstr ""
+msgstr "Příspěvek nenalezen"
 
 msgid "Error: No custom field"
-msgstr ""
+msgstr "Chyba: Žádné uživatelské pole"
 
 msgid "Error: Please provide translation action"
-msgstr ""
+msgstr "Chyba: Uveďte prosím akci pro překlad"
 
 msgid "Settings updated"
-msgstr ""
+msgstr "Nastavení aktualizováno"
 
 msgid "Error: WPML Translation Management plugin not initiated"
-msgstr ""
+msgstr "Chyba: Plugin Správce překladu WPML není zaveden"
 
 msgid "Error: Please activate WPML Translation Management plugin"
-msgstr ""
+msgstr "Chyba: Aktivujte prosím plugin Správce překladu WPML"
 
 msgid "This post is also available in: "
-msgstr ""
+msgstr "Příspěvky jsou k dispozici také v: "
 
 msgid "Affiliate"
-msgstr ""
+msgstr "Partner"
 
 msgid "Affiliates"
-msgstr ""
+msgstr "Partneři"
 
 msgid "Translate"
 msgstr "Přeložit"
 
 msgid "Translate from %s"
-msgstr ""
+msgstr "Přeložit z %s"
 
 msgid "Original language: %s"
-msgstr ""
+msgstr "Původní jazyk: %s"
 
 msgid "Translate from %s into %s"
-msgstr ""
+msgstr "Přeložit z %s do %s"
 
 msgid ""
 "There is no translator for this language pair. <a href=\"%s\">Details</a>."
 msgstr ""
+"Pro tento jazykový pár zde není žádný překladatel. <a href=\"%s"
+"\">Podrobnosti</a>."
 
 msgid "Machine translation failed. <a%s>retry</a>"
-msgstr ""
+msgstr "Strojový překlad selhal. <a%s>zkusit znovu</a>"
 
 msgid "Translation in progress"
-msgstr ""
+msgstr "Překlad probíhá"
 
 msgid "Translation complete"
-msgstr ""
+msgstr "Překlad je hotov"
 
 msgid "Comment in %s"
-msgstr ""
+msgstr "Komentáře v %s"
 
 msgid "WPML"
-msgstr ""
+msgstr "WPML"
 
 msgid "Network settings"
-msgstr ""
+msgstr "Síťová nastavení"
 
 msgid "Error writing query:"
-msgstr ""
+msgstr "Chyba při zápisu query:"
 
 msgid "Configure"
-msgstr ""
+msgstr "Konfigurovat"
 
 msgid ""
 "This translation is currently in the trash. You need to either <a href=\"%s"
 "\">delete it permanently</a> or <a href=\"%s\">restore</a> it in order to "
 "continue."
 msgstr ""
+"Tento překlad je aktuálně v koši. K pokračování jej musíte buď <a href=\"%s"
+"\">trvale smazat</a> nebo <a href=\"%s\">obnovit</a>."
 
 msgid "Language"
 msgstr "Jazyk"
 
 msgid "This page does not have a language since it's the site's root page."
-msgstr ""
+msgstr "Tato stránka nemá jazyk, protože jde o kořenovou stránku webu."
 
 msgid "Dismiss"
 msgstr "Zamítnout"
 
 msgid "Select Language"
-msgstr ""
+msgstr "Vybrat jazyk"
 
 msgid "Language Selector"
-msgstr ""
+msgstr "Výběr jazyku"
 
 msgid "Display 'Languages' as the widget's title"
-msgstr ""
+msgstr "Zobrazit 'Jazyky' jako titulek widgetu"
 
 msgid ""
 "%s is defined in your theme. The language switcher can only be customized "
 "using the theme's CSS."
 msgstr ""
+"%s je definován ve vaší šabloně. Přepínač jazyků může být upraven pouze "
+"použitím CSS šablony."
 
 msgid "All languages"
-msgstr ""
+msgstr "Všechny jazyky"
 
 msgid "Edit the language switcher widget colors"
 msgstr "Upravte barvy widgetu přepínače jazyků"
@@ -298,76 +307,85 @@ msgstr ""
 "%sNástěnku překladů%s."
 
 msgid "Translation Languages"
-msgstr ""
+msgstr "Jazyky překladu"
 
 msgid "I need translation from"
-msgstr ""
+msgstr "Potřebuji překlad z"
 
 msgid "to these languages:"
-msgstr ""
+msgstr "do těchto jazyků:"
 
 msgid "Continue"
-msgstr ""
+msgstr "Pokračovat"
 
 msgid "Content Types"
-msgstr ""
+msgstr "Typy obsahu"
 
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 msgid "Number of items"
-msgstr ""
+msgstr "Počet položek"
 
 msgid "Number of words"
-msgstr ""
+msgstr "Počet slov"
 
 msgid "Back"
 msgstr "Zpět"
 
 msgid "Summary"
-msgstr ""
+msgstr "Shrnutí"
 
 msgid "You have selected the following content:"
-msgstr ""
+msgstr "Vybrali jste následující obsah:"
 
 msgid "Produce Quote"
-msgstr ""
+msgstr "Vytvořit citaci"
 
 msgid "Save for later"
-msgstr ""
+msgstr "Uložit na později"
 
 msgid ""
 "WPML cannot create the database tables! Make sure that your mysql user has "
 "the CREATE privilege"
 msgstr ""
+"WPML nemůže vytvořit databázové tabulky! Ujistěte se, že má váš mysql "
+"uživatel právo CREATE"
 
 msgid "Invalid object kind: %s"
-msgstr ""
+msgstr "Neplatný druh objektu: %s"
 
 msgid "Invalid object id"
-msgstr ""
+msgstr "Neplatné id objektu"
 
 msgid "Translation preferences"
-msgstr ""
+msgstr "Preference překladu"
 
 msgid ""
 "The translation preference for this field are being controlled by a language "
 "configuration XML file. If you want to control it manually, remove the entry "
 "from the configuration file."
 msgstr ""
+"Preference překladu pro toto pole jsou ovládány jazykovým nastavením XML "
+"souboru. Pokud je chcete nastavit manuálně, odstraňte položku z "
+"konfiguračního souboru."
 
 msgid ""
 "To synchronize values for translations, you need to enable WPML's "
 "Translation Management module."
 msgstr ""
+"Pro synchronizaci hodnot v překladech je nutné zapnout modul Správce "
+"překladu WPML."
 
 msgid ""
 "Error: Something is wrong with field value. Translation preferences can not "
 "be set."
 msgstr ""
+"Chyba: Něco je špatně s hodnotou pole. Preference překladu nemohou být "
+"nastaveny."
 
 msgid "Choose what to do when translating content with this field:"
-msgstr ""
+msgstr "Vyberte chování při překládání obsahu tohoto pole:"
 
 msgid "Do nothing"
 msgstr "Nedělat nic"
@@ -376,13 +394,13 @@ msgid "Copy from original"
 msgstr "Kopírovat z originálu"
 
 msgid "WPML will copy this field from %s when you save this post."
-msgstr ""
+msgstr "WPML zkopíruje toto pole z %s při uložení příspěvku."
 
 msgid "Missing post ID"
-msgstr ""
+msgstr "Chybějící ID přípěvku"
 
 msgid "No such post for ID = %d"
-msgstr ""
+msgstr "Pro toto ID není žádný příspěvek = %d"
 
 msgid "Translation"
 msgstr "Překlad"
@@ -2560,7 +2578,7 @@ msgid ""
 msgstr ""
 
 msgid "Display hidden languages"
-msgstr ""
+msgstr "Zobrazit skryté jazyky"
 
 msgid ""
 "WPML is a powerful plugin with many features. Would you like to see a quick "
@@ -2573,4 +2591,4 @@ msgid "No thanks, I will configure myself"
 msgstr "Ne děkuji, nastavení si provedu sám"
 
 msgid "copy from original"
-msgstr ""
+msgstr "zkopírovat z originálu"
