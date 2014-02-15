@@ -453,7 +453,7 @@ msgid "Successfully updated %s for all translated %s."
 msgstr ""
 
 msgid "select parent"
-msgstr ""
+msgstr "vybrat nadřazenou"
 
 msgid ""
 "\n"
@@ -561,7 +561,7 @@ msgid "First available"
 msgstr ""
 
 msgid "Not translated"
-msgstr ""
+msgstr "Není přeloženo"
 
 msgid "Waiting for translator"
 msgstr ""
@@ -688,7 +688,7 @@ msgid "WP Menus Sync"
 msgstr "Synchronizace WP menu"
 
 msgid "Translations:"
-msgstr ""
+msgstr "Překlady:"
 
 msgid "edit translation"
 msgstr ""
@@ -703,7 +703,7 @@ msgid "add"
 msgstr ""
 
 msgid "Synchronize menus between languages."
-msgstr ""
+msgstr "Synchronizovat menu mezi jazyky."
 
 msgid "Translation of:"
 msgstr ""
@@ -1182,19 +1182,19 @@ msgid ""
 msgstr ""
 
 msgid "Posts"
-msgstr ""
+msgstr "Příspěvky"
 
 msgid "Pages"
-msgstr ""
+msgstr "Stránky"
 
 msgid "Categories"
-msgstr ""
+msgstr "Rubriky"
 
 msgid "Tags"
-msgstr ""
+msgstr "Štítky"
 
 msgid "Total"
-msgstr ""
+msgstr "Celkem"
 
 msgid "Choose how to determine which language visitors see contents in"
 msgstr "Vyberte jak určit, ve kterém jazyce uvidí návštěvníci obsah"
@@ -1447,100 +1447,100 @@ msgid "Add links to the original content with rel=\"canonical\" attributes."
 msgstr "Přidat odkazy na původní odkaz s atributem rel=\"canonical\"."
 
 msgid "Add menu translation:  %s"
-msgstr ""
+msgstr "Přidat překlad menu: %s"
 
 msgid "Add %s"
-msgstr ""
+msgstr "Přidat %s"
 
 msgid "Change menu order for %s"
-msgstr ""
+msgstr "Změnit pořadí menu pro %s"
 
 msgid "Remove %s"
-msgstr ""
+msgstr "Odstranit %s"
 
 msgid "Rename label to %s"
-msgstr ""
+msgstr "Přejmenovat položku na %s"
 
 msgid "Update URL to %s"
-msgstr ""
+msgstr "Aktualizovat adresu na %s"
 
 msgid "Untranslated string %s"
-msgstr ""
+msgstr "Nepřeložený řetězec %s"
 
 msgid "Untranslated URL %s"
-msgstr ""
+msgstr "Nepřeložená URL %s"
 
 msgid "Action"
-msgstr ""
+msgstr "Akce"
 
 msgid "Nothing to sync."
-msgstr ""
+msgstr "Nic k synchronizaci."
 
 msgid "Apply changes"
-msgstr ""
+msgstr "Použít změny"
 
 msgid "No menus found"
-msgstr "Nebyly nalezeny žádné menu"
+msgstr "Nebyla nalezena žádná menu"
 
 msgid "Auto-generated title. Edit to change."
-msgstr ""
+msgstr "Automaticky generovaný název. Upravit pro změnu."
 
 msgid "Sync"
 msgstr "Synchronizovat"
 
 msgid "Item will be added"
-msgstr ""
+msgstr "Položka bude přidána"
 
 msgid "Item will be removed"
-msgstr ""
+msgstr "Položka bude odebrána"
 
 msgid "Item cannot be added (parent not translated)"
-msgstr ""
+msgstr "Položka nemůže být přidána (nadřazená položka není přeložená)"
 
 msgid "Item changed position"
-msgstr ""
+msgstr "Položka změnila umístění"
 
 msgid "Strings for menus will be updated"
-msgstr ""
+msgstr "Řetězce pro menu budou aktualizovány"
 
 msgid "URLs for menus will be updated"
-msgstr ""
+msgstr "URL pro menu budou aktualizovány"
 
 msgid "Untranslated strings for menus"
-msgstr ""
+msgstr "Nepřeložené řetězce pro menu"
 
 msgid "Untranslated URLs for menus"
-msgstr ""
+msgstr "Nepřeložené URL pro menu"
 
 msgid "WPML has been reset for the selected site."
-msgstr ""
+msgstr "WPML bylo na vybraných webech obnoveno."
 
 msgid "WPML has been deactivated for the selected site."
-msgstr ""
+msgstr "WPML bylo na vybraných webech deaktivováno."
 
 msgid "WPML has been activated for the selected site."
-msgstr ""
+msgstr "WPML bylo na vybraných webech aktivováno."
 
 msgid "WPML Network Setup"
-msgstr ""
+msgstr "Síťové nastavení WPML"
 
 msgid "Search results for &#8220;%s&#8221;"
-msgstr ""
+msgstr "Výsledky hledání pro &#8220;%s&#8221;"
 
 msgid "Search"
-msgstr ""
+msgstr "Hledat"
 
 msgid "Archived"
-msgstr ""
+msgstr "Archivováno"
 
 msgid "Mature"
-msgstr ""
+msgstr "Zralý"
 
 msgid "Edit"
-msgstr ""
+msgstr "Upravit"
 
 msgid "Dashboard"
-msgstr ""
+msgstr "Nástěnka"
 
 msgid "You are about to activate the site %s"
 msgstr ""
@@ -1585,15 +1585,17 @@ msgid "Visit"
 msgstr ""
 
 msgid "You are about to deactivate WPML on the site %s."
-msgstr ""
+msgstr "Chystáte se deaktivovat WPML pro tento web %s."
 
 msgid "You are about to reset WPML for this site: %s."
-msgstr ""
+msgstr "Chystáte se obnovit WPML pro tento web: %s."
 
 msgid ""
 "All translations you have sent to ICanLocalize will be lost if you reset "
 "WPML's data. They cannot be recovered later."
 msgstr ""
+"Všechny překlady zaslané na ICanLocalize budou při obnovení dat WPML "
+"ztraceny. Nemohou být později obnoveny."
 
 msgid "Site"
 msgstr ""
@@ -1617,19 +1619,19 @@ msgid "WPML will no longer synchronize this %s with the original content."
 msgstr ""
 
 msgid "Language of this %s"
-msgstr ""
+msgstr "Jazyk tohoto %s"
 
 msgid "This is a translation of"
-msgstr ""
+msgstr "Toto je překlad"
 
 msgid "--None--"
-msgstr ""
+msgstr "--Žádný.."
 
 msgid "in progress"
-msgstr ""
+msgstr "probíhá"
 
 msgid "In progress (by a different translator). <a%s>Learn more</a>."
-msgstr ""
+msgstr "probíhající (zpracovává odlišný překladatel). <a%s>Zjistit více</a>."
 
 msgid "You are not the translator of this document. <a%s>Learn more</a>."
 msgstr ""
@@ -1738,18 +1740,20 @@ msgstr ""
 "\"http://forum.wpml.org\">WPML fóru</a>."
 
 msgid "Translate %s"
-msgstr ""
+msgstr "Přeložit %s"
 
 msgid ""
 "This table summarizes all the terms for taxonomy %s and their translations. "
 "Click on any cell to translate."
 msgstr ""
+"Tato tabulka shrnuje všechny termíny pro taxonomii %s a její překlady. Pro "
+"překlad klikněte na kteroukoli buňku."
 
 msgid "untranslated %s"
-msgstr ""
+msgstr "nepřeložené %s"
 
 msgid "all %s"
-msgstr ""
+msgstr "všechny %s"
 
 msgid "Translate %s in %s"
 msgstr ""
@@ -1769,79 +1773,82 @@ msgid "The strings on the first column are in %s (the strings language)"
 msgstr ""
 
 msgid "Synchronize %s assignment in content"
-msgstr ""
+msgstr "Synchronizovat přiřazení v obsahu u %s"
 
 msgid ""
 "This action lets you automatically apply the %s taxonomy to your content in "
 "different  languages. It will scan the original content and apply the same "
 "taxonomy to translated content."
 msgstr ""
+"Tato akce vám umožní automaticky použít taxonomii %s ve vašem obsahu v "
+"rozdílných jazycích. Naskenuje originální obsah a použije stejnou taxonomii "
+"na přeložený obsah."
 
 msgid "Select taxonomy to translate"
-msgstr ""
+msgstr "Vybrat taxonomii k přeložení"
 
 msgid "Show"
-msgstr ""
+msgstr "Ukázat"
 
 msgid "in"
-msgstr ""
+msgstr "v"
 
 msgid "any language"
-msgstr ""
+msgstr "jakémkoliv jazyce"
 
 msgid "Name"
-msgstr ""
+msgstr "Jméno"
 
 msgid "Slug"
-msgstr ""
+msgstr "Zkrácený odkaz"
 
 msgid "No terms found"
-msgstr ""
+msgstr "Nenalezeny žádné termíny"
 
 msgid "of"
-msgstr ""
+msgstr "z"
 
 msgid "Note:"
-msgstr ""
+msgstr "Poznámka:"
 
 msgid "Singular"
-msgstr ""
+msgstr "Jednotné číslo"
 
 msgid "Plural"
-msgstr ""
+msgstr "Množné číslo"
 
 msgid "search"
-msgstr ""
+msgstr "hledat"
 
 msgid "clear"
-msgstr ""
+msgstr "vyčistit"
 
 msgid "clear search"
-msgstr ""
+msgstr "vyčistit hledání"
 
 msgid "Apply"
-msgstr ""
+msgstr "Použít"
 
 msgid "cancel"
-msgstr ""
+msgstr "zrušit"
 
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 msgid "Go to the first page"
-msgstr ""
+msgstr "Přejít na první stránku"
 
 msgid "Go to the previous page"
-msgstr ""
+msgstr "Přejít na předchozí stránku"
 
 msgid "Current page"
-msgstr ""
+msgstr "Současná stránka"
 
 msgid "Go to the next page"
-msgstr ""
+msgstr "Přejít na další stránku"
 
 msgid "Go to the last page"
-msgstr ""
+msgstr "Přejít na poslední stránku"
 
 msgid "Taxonomy Translation"
 msgstr "Překlad taxonomie"
@@ -1874,10 +1881,10 @@ msgid "not available"
 msgstr "není dostupný"
 
 msgid "Updates available"
-msgstr ""
+msgstr "Jsou dostupné aktualizace"
 
 msgid "Up to date"
-msgstr ""
+msgstr "Aktuální"
 
 msgid ""
 "WPML last checked for WordPress translations %s when WordPress version "
@@ -1940,7 +1947,7 @@ msgid "PRO translation was reset."
 msgstr ""
 
 msgid "Troubleshooting"
-msgstr ""
+msgstr "Odstraňování problémů"
 
 msgid "WPML Settings"
 msgstr "Nastavení WPML"
@@ -1952,17 +1959,21 @@ msgid "fixing %s/%d"
 msgstr "opravuji %s/%d"
 
 msgid "linked to: "
-msgstr ""
+msgstr "odkazuje na: "
 
 msgid ""
 "Note: if you edited the custom post declaration you may need to re-configure "
 "WPML to mark it as translatable."
 msgstr ""
+"Poznámka: Pokud jste upravili deklaraci vlastního příspěvku, měli byste "
+"přenastavit WPML a značit ji jako přeložitelnou."
 
 msgid ""
 "Note: if you edited the custom taxonomy declaration you may need to re-"
 "configure WPML to mark it as translatable."
 msgstr ""
+"Poznámka: Pokud jste upravili deklaraci vlastní taxonomie, měli byste "
+"přenastavit WPML a značit ji jako přeložitelnou."
 
 msgid "Are you sure you want to reset the PRO translation configuration?"
 msgstr ""
@@ -1977,12 +1988,14 @@ msgid ""
 "Are you sure you want to reset all languages data? This operation cannot be "
 "reversed."
 msgstr ""
+"Jste si jisti, že chcete obnovit všechna jazyková data? Tato operace nemůže "
+"být vrácena."
 
 msgid "I am about to reset all language data."
-msgstr ""
+msgstr "Chci obnovit všechna jazyková data."
 
 msgid "Reset all language data and deactivate WPML"
-msgstr ""
+msgstr "Obnovit všechna jazyková data a deaktivovat WPML"
 
 msgid "More options"
 msgstr "Více možností"
@@ -2006,7 +2019,7 @@ msgid ""
 "Removes entries from the WPML tables that are not linked properly. Cleans "
 "the table off entries left over upgrades, bug fixes or undetermined factors."
 msgstr ""
-"Odtraní z WPML tabulek položky, na které se správně neodkazuje. Vyčistí "
+"Odstraní z WPML tabulek položky, na které se správně neodkazuje. Vyčistí "
 "tabulku od položek zbylých po aktualizacích, opravách chyb nebo po jiných "
 "činnostech."
 
@@ -2028,73 +2041,84 @@ msgid ""
 msgstr ""
 
 msgid "General clean up"
-msgstr ""
+msgstr "Generální úklid"
 
 msgid "Sets source language to NULL in the icl_translations table."
-msgstr ""
+msgstr "Nastaví v tabulce icl_translations zdrojový jazyk na NULL."
 
 msgid "Check cancelled jobs on ICanLocalize"
-msgstr ""
+msgstr "Zkontrolovat zrušené zakázky na ICanLocalize"
 
 msgid ""
 "When using the translation pickup mode cancelled jobs on ICanLocalize need "
 "to be synced manually."
 msgstr ""
+"Při použití režimu zachytávání překladů musí být zrušené zakázky na "
+"ICanLocalize synchronizovány ručně."
 
 msgid "Set language information"
-msgstr ""
+msgstr "Nastavit jazykovou informaci"
 
 msgid ""
 "Adds language information to posts and taxonomies that are missing this "
 "information."
 msgstr ""
+"Přidá k příspěvkům a taxonomiím, u nichž data chybí, informaci o jazyku."
 
 msgid "Fix terms count"
-msgstr ""
+msgstr "Opravit počítadlo termínů"
 
 msgid ""
 "Correct terms count in case something went wrong with translated contents."
 msgstr ""
+"Opraví počítadlo termínů v případě, že se něco stalo s přeloženým obsahem."
 
 msgid "Translatable custom posts linking"
-msgstr ""
+msgstr "Odkazování na přeložené vlastní příspěvky"
 
 msgid ""
 "Allows linking existing translations after changing custom posts definition "
 "(name) "
 msgstr ""
+"Umožní odkázat existující překlady po změně definice (názvu) vlastních "
+"příspěvků"
 
 msgid "Translatable taxonomies linking"
-msgstr ""
+msgstr "Odkazování na přeložené taxonomie"
 
 msgid ""
 "Allows linking existing translations after changing custom taxonomies "
 "definition (name) "
 msgstr ""
+"Umožní odkázat existující překlady po změně definice (názvu) vlastních "
+"taxonomií"
 
 msgid "Reset PRO translation configuration"
-msgstr ""
+msgstr "Obnoví konfiguraci překladu PRO"
 
 msgid ""
 "Resetting your ICanLocalize account will interrupt any translation jobs that "
 "you have in progress. Only use this function if your ICanLocalize account "
 "doesn't include any jobs, or if the account was deleted."
 msgstr ""
+"Obnovení vašeho ICanLocalize účtu přeruší všechny probíhající překladové "
+"zakázky. Použijte tuto funkci jen v případě, že váš ICanLocalize účet "
+"neobsahuje žádné zakázky nebo byl smazán."
 
 msgid "I am about to reset the ICanLocalize project setting."
-msgstr ""
+msgstr "Chystám se obnovit nastavení projektu ICanLocalize."
 
 msgid "Database dump"
-msgstr ""
+msgstr "Výpis databáze"
 
 msgid "ICanLocalize connection test"
-msgstr ""
+msgstr "Test připojení ICanLocalize"
 
 msgid "Connect"
-msgstr ""
+msgstr "Připojit"
 
 msgid "This function is available through the Network Admin section."
-msgstr ""
+msgstr "Tato funkce je k dispozici v části Nastavení sítě."
 
 msgid "Go to WPML Network settings."
 msgstr ""
