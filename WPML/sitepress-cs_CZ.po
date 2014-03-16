@@ -408,67 +408,74 @@ msgstr "Překlad"
 msgid ""
 "%s is translated via WPML. %sClick here to change translation options.%s"
 msgstr ""
+"%s je přeložen pomocí WPML. %sPro změnu možností překladu kliněte sem.%s"
 
 msgid "Slugs are currently not translated."
-msgstr ""
+msgstr "Zkrácené adresy aktuálně nejsou překladány."
 
 msgid ""
 "Slugs are currently translated. Click the link above to edit the "
 "translations."
 msgstr ""
+"Zkrácené adresy jsou aktuálně překládány. Pro úpravu překladů klikněte na "
+"odkaz výše."
 
 msgid ""
 "Slug translation is currently disabled in WPML. %sClick here to enable.%s"
 msgstr ""
+"Překlad zkráných adres je aktuálně ve WPML vypnutý. %sPro zapnutí klikněte "
+"sem.%s"
 
 msgid ""
 "%s is not translated. %sClick here to make this post type translatable.%s"
 msgstr ""
+"%s není přeložen. %sPro možnost překladu tohoto typu příspěvků klikněte sem."
+"%s"
 
 msgid "Fetched %d translations."
-msgstr ""
+msgstr "Načteno %d překladů."
 
 msgid "Manual pick up is disabled."
-msgstr ""
+msgstr "Manuální vybírání je vypnuto."
 
 msgid "Minor edit - don't update translation"
-msgstr ""
+msgstr "Drobná změna - neaktualizovat překlad"
 
 msgid "never"
-msgstr ""
+msgstr "nikdy"
 
 msgid "You can check again in %s minutes."
-msgstr ""
+msgstr "Můžete vyzkoušet znovu za %s minut."
 
 msgid "%d job(s) sent to ICanLocalize."
-msgstr ""
+msgstr "%d zakázek zasláno na ICanLocalize."
 
 msgid "Last time translations were picked up: %s"
-msgstr ""
+msgstr "Čas posledního výběru překladů: %s"
 
 msgid "Get completed translations"
-msgstr ""
+msgstr "Získat hotové překlady"
 
 msgid "Unknown taxonomy: %s"
-msgstr ""
+msgstr "Neznámá taxonomie: %s"
 
 msgid "Please fill in all fields!"
-msgstr ""
+msgstr "Vyplňte prosím všechna pole!"
 
 msgid "Invalid taxonomy %s"
-msgstr ""
+msgstr "Neplatná taxonomie %s"
 
 msgid "Some translated %s have different %s assignments."
-msgstr ""
+msgstr "Některé přeložené %s mají odlišná %s přidružení."
 
 msgid "Update %s for all translated %s"
-msgstr ""
+msgstr "Aktualizovat %s pro všechny přeložené %s"
 
 msgid "All %s have the same %s assignments."
-msgstr ""
+msgstr "Všechny %s mají stejná %s přidružení."
 
 msgid "Successfully updated %s for all translated %s."
-msgstr ""
+msgstr "Úspěšně aktualizovány %s pro všechny přeložené %s."
 
 msgid "select parent"
 msgstr "vybrat nadřazenou"
@@ -477,27 +484,35 @@ msgid ""
 "\n"
 "View the original document in %s here: %s\n"
 msgstr ""
+"\n"
+"Prohlídnout původní dokument v %s zde: %s\n"
 
 msgid "New translation job from %s"
-msgstr ""
+msgstr "Nová poptávka překladu z %s"
 
 msgid ""
 "New job available from %s to %s.\n"
 "%s\n"
 "Start editing: %s"
 msgstr ""
+"Nová poptávka dostupná z %s do %s.\n"
+"%s\n"
+"Začít upravovat: %s"
 
 msgid "Hi %s,"
-msgstr ""
+msgstr "Ahoj %s,"
 
 msgid ""
 "You have been assigned to new translation job from %s to %s.\n"
 "%s\n"
 "Start editing: %s"
 msgstr ""
+"Byli jste přiřazeni k nové poptávce překladu z %s do %s.\n"
+"%s\n"
+"Začít upravovat: %s"
 
 msgid "Translator has updated translation job for %s"
-msgstr ""
+msgstr "Překladatel aktualizoval poptávku překladu pro %s"
 
 msgid ""
 "Translator (%s) has updated translation of job \"%s\" for %s to %s.\n"
@@ -505,9 +520,13 @@ msgid ""
 "\n"
 "View translation jobs: %s"
 msgstr ""
+"Překladatel (%s) aktualizoval poptávaný překlad \"%s\" z %s do %s.\n"
+"%s\n"
+"\n"
+"Prohlížet poptávané překlady: %s"
 
 msgid "Translator has completed translation job for %s"
-msgstr ""
+msgstr "Překladatel dokončil poptávaný překlad pro %s"
 
 msgid ""
 "Translator (%s) has completed translation of job \"%s\" for %s to %s.\n"
@@ -515,26 +534,32 @@ msgid ""
 "\n"
 "View translation jobs: %s"
 msgstr ""
+"Překladatel (%s) dokončil poptávaný překlad \"%s\" z %s do %s.\n"
+"%s\n"
+"\n"
+"Prohlížet poptávané překlady: %s"
 
 msgid "Translator has resigned from job on %s"
-msgstr ""
+msgstr "Překladatel odstoupil z poptávky na %s"
 
 msgid "Deleted"
-msgstr ""
+msgstr "Smazáno"
 
 msgid ""
 "Translator %s has resigned from the translation job \"%s\" for %s to %s."
 "%sView translation jobs: %s"
 msgstr ""
+"Překladatel %s odstoupil z poptávaného překladu \"%s\" pro %s do %s."
+"%sProhlížet poptávané překlady: %s"
 
 msgid "Removed from translation job on %s"
-msgstr ""
+msgstr "Odebrán z poptávaného překladu na %s"
 
 msgid "You have been removed from the translation job \"%s\" for %s to %s."
-msgstr ""
+msgstr "Byli jste odebráni z poptávaného překladu \"%s\" z %s do %s."
 
 msgid "You can view your other translation jobs here: %s"
-msgstr ""
+msgstr "Další poptávané překlady můžete prohlížet zde: %s"
 
 msgid ""
 "This message was automatically sent by Translation Management running on %s. "
@@ -543,6 +568,11 @@ msgid ""
 "\n"
 "This email is not monitored for replies."
 msgstr ""
+"Tato zpráva byla automaticky odeslána ze Správce překladů běžícím na %s. "
+"Pokud nechcete přijímat tyto notifikace, kontaktujte systémového "
+"administátora na %s\n"
+"\n"
+"Odpovědi na tento email nejsou sledovány."
 
 msgid ""
 "This message was automatically sent by Translation Management running on %s. "
@@ -551,156 +581,176 @@ msgid ""
 "\n"
 "This email is not monitored for replies."
 msgstr ""
+"Tato zpráva byla automaticky odeslána ze Správce překladů běžícím na %s. "
+"Pokud nechcete přijímat tyto notifikace, přejděte na Nastavení upozornění "
+"nebo kontaktujte systémového administrátora na %s\n"
+"\n"
+"Odpovědi na tento email nejsou sledovány."
 
 msgid ""
 "New - side-by-site translation editor: <a href=\"%s\">try it</a> | <a href="
 "\"#cancel\">no thanks</a>."
 msgstr ""
+"Nový - side-by-site editor překladu: <a href=\"%s\">vyzkoušejte jej</a> | <a "
+"href=\"#cancel\">ne děkuji</a>."
 
 msgid "%s has been added as a translator for this site."
-msgstr ""
+msgstr "%s byl přidán jako překladatel pro tento web."
 
 msgid "Language pairs for %s have been edited."
-msgstr ""
+msgstr "Jazykové páry pro %s byly upraveny."
 
 msgid "%s has been removed as a translator for this site."
-msgstr ""
+msgstr "%s byl odstraněn jako překladatel pro tento web."
 
 msgid "Preferences saved."
-msgstr ""
+msgstr "Preference uloženy."
 
 msgid "Translation requests cancelled."
-msgstr ""
+msgstr "Požadavky na překlad zrušeny."
 
 msgid "Chat with translator"
-msgstr ""
+msgstr "Chatovat s překladatelem"
 
 msgid "First available"
-msgstr ""
+msgstr "První dostupný"
 
 msgid "Not translated"
 msgstr "Není přeloženo"
 
 msgid "Waiting for translator"
-msgstr ""
+msgstr "Počkat na překladatele"
 
 msgid "In progress"
-msgstr ""
+msgstr "Probíhající"
 
 msgid "Needs update"
-msgstr ""
+msgstr "Potřebuje aktualizovat"
 
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplikát"
 
 msgid "Complete"
-msgstr ""
+msgstr "Hotový"
 
 msgid "Please select at least one language to translate into."
-msgstr ""
+msgstr "Vyberte prosím alespoň jeden jazyk, do kterého se bude překládat."
 
 msgid "Please select at least one document to translate."
-msgstr ""
+msgstr "Vyberte prosím alespoň jeden dokument na přeložení."
 
 msgid ""
 "No documents were sent to translation. Make sure that translations are not "
 "currently in progress or already translated for the selected language(s)."
 msgstr ""
+"Na překlad nebyly zaslány žádné dokumenty. Ujistěte se, že překlady v "
+"současnosti neprobíhají nebo nejsou už do vybraných jazyků přeloženy."
 
 msgid "Some documents were sent to translation."
-msgstr ""
+msgstr "Některé dokumenty byly odeslány na překlad."
 
 msgid ""
 "Some documents were <i>not</i> sent to translation. Make sure that "
 "translations are not currently in progress for the selected language(s)."
 msgstr ""
+"Některé dokumenty <i>nebyly</i> zaslány na překlad. Ujistěte se, že překlady "
+"aktuálně pro vybrané jazyky neprobíhají."
 
 msgid "Selected document(s) sent to translation."
-msgstr ""
+msgstr "Vybrané dokumenty odeslány na překlad."
 
 msgid "The original has been deleted!"
-msgstr ""
+msgstr "Originál byl smazán!"
 
 msgid ""
 "You can't translate this document. It's assigned to a different translator."
 "<br /> Document: <strong>%s</strong> (ID = %d)."
 msgstr ""
+"Tento dokument nemůžete přeložit. Byl přiřazen jinému překladateli.<br /> "
+"Dokument: <strong>%s</strong> (ID = %d)."
 
 msgid "Translation added: "
-msgstr ""
+msgstr "Překlad přidán: "
 
 msgid "Translation updated: "
-msgstr ""
+msgstr "Překlad aktualizován: "
 
 msgid "Translation (incomplete) saved."
-msgstr ""
+msgstr "Překlad (nekompletní) uložen."
 
 msgid "Translation entry not found for: %d"
-msgstr ""
+msgstr "Položka překladu nenalezena pro: %d"
 
 msgid "Job removed"
-msgstr ""
+msgstr "Poptávka odstraněna"
 
 msgid "translate"
-msgstr ""
+msgstr "přeložit"
 
 msgid "Multiple options"
-msgstr ""
+msgstr "Více možností"
 
 msgid "Looking for a quality translation service?"
-msgstr ""
+msgstr "Hledáte kvalitní překladatelskou službu?"
 
 msgid ""
 "ICanLocalize, the makers of WPML, offers excellent<br /> human service done "
 "by expert translators, for only $0.09 per word."
 msgstr ""
+"ICanLocalize od tvůrců WPML nabízí skvělé<br /> manuální překlady "
+"zpracovávané experty pouze za $US0,09 za slovo."
 
 msgid "Post not found!"
-msgstr ""
+msgstr "Příspěvek nenalezen!"
 
 msgid "Local"
-msgstr ""
+msgstr "Místní"
 
 msgid "No matches"
-msgstr ""
+msgstr "Žádné shody"
 
 msgid "Processing translations..."
-msgstr ""
+msgstr "Zpracování překladů..."
 
 msgid "Finalizing upgrade..."
-msgstr ""
+msgstr "Dokončování aktualizace..."
 
 msgid "Done"
-msgstr ""
+msgstr "Hotovo"
 
 msgid "Missing step"
-msgstr ""
+msgstr "Chybějící krok"
 
 msgid "Resume Upgrade Process"
-msgstr ""
+msgstr "Obnovit proces aktualizace"
 
 msgid "Run Upgrade Process"
-msgstr ""
+msgstr "Spustit proces aktualizace"
 
 msgid "WPML requires database upgrade"
-msgstr ""
+msgstr "WPML požaduje aktualizaci databáze"
 
 msgid ""
 "This normally takes a few seconds, but may last up to several minutes of "
 "very large databases."
 msgstr ""
+"Toto normálně trvá několik vteřin, ale může trvat až po několik minut u "
+"velkých databází."
 
 msgid "Starting the upgrade process..."
-msgstr ""
+msgstr "Začíná proces aktualizace..."
 
 msgid "Creating new tables..."
-msgstr ""
+msgstr "Vytváření nových tabulek..."
 
 msgid ""
 "<strong>WPML notice:</strong> Upgrades to this version are only supported "
 "from versions %s and above. To upgrade from version %s, first, download <a"
 "%s>2.0.4</a>, do the DB upgrade and then go to this version."
 msgstr ""
+"<strong>Upozornění WPML:</strong> Aktualizace na tuto verzi jsou podporovány "
+"pouze z verzí %s a vyšších. Pro aktualizaci z verze %s nejprve stáhněte <a"
+"%s>2.0.4</a>, udělejte aktualizaci databáze a pak přejděte na tuto verzi."
 
 msgid "WP Menus Sync"
 msgstr "Synchronizace WP menu"
@@ -709,39 +759,41 @@ msgid "Translations:"
 msgstr "Překlady:"
 
 msgid "edit translation"
-msgstr ""
+msgstr "upravit překlad"
 
 msgid "edit"
 msgstr "upravit"
 
 msgid "add translation"
-msgstr ""
+msgstr "přidat překlad"
 
 msgid "add"
-msgstr ""
+msgstr "přidat"
 
 msgid "Synchronize menus between languages."
 msgstr "Synchronizovat menu mezi jazyky."
 
 msgid "Translation of:"
-msgstr ""
+msgstr "Překlad:"
 
 msgid "none"
-msgstr ""
+msgstr "žádný"
 
 msgid "not translated in current language"
-msgstr ""
+msgstr "není přeloženo do aktuálního jazyka"
 
 msgid "Menu(s) syncing complete."
-msgstr ""
+msgstr "Synchronizace menu je hotová."
 
 msgid "Error:"
-msgstr ""
+msgstr "Chyba:"
 
 msgid ""
 "You don't have enough funds in your ICanLocalize account - [b]Funds required "
 "- $%s[/b]"
 msgstr ""
+"Na vašem ICanLocalize účtu nemáte dostatek prostředků - [b]Požadované "
+"prostředky - $%s[/b]"
 
 msgid ""
 "WPML cannot connect to <a%s>www.icanlocalize.com</a>. Please make sure that "
@@ -749,134 +801,150 @@ msgid ""
 "<a%s>www.icanlocalize.com</a> is found on IP - %s. You can open all ports to "
 "and from that IP."
 msgstr ""
+"WPML se nemůže připojit k <a%s>www.icanlocalize.com</a>. Ujistěte se prosím "
+"že je odchozí komunikace povolena z portu 80 (nebo 443).\n"
+"<a%s>www.icanlocalize.com</a> je umístěno na IP - %s. Z a na tuto IP můžete "
+"otevřít všechny porty."
 
 msgid ""
 "This language selector determines which content to display. You can choose "
 "items in a specific language or in all languages. To change the language of "
 "the WordPress Admin interface, go to <a%s>your profile</a>."
 msgstr ""
+"Tento jazykový selektor určuje, který obsah zobrazit. Můžete si vybrat z "
+"položek v určitém jazyce nebo ve všech jazycích. Pro změnu jazyka ve "
+"wordpressovém administračním rozhraní přejděte na <a%s>váš profil</a>."
 
 msgid "Show content in:"
-msgstr ""
+msgstr "Zobrazit obsah v:"
 
 msgid "Affiliate information check"
-msgstr ""
+msgstr "Kontrola affiliate informací"
 
 msgid "Affiliate test"
-msgstr ""
+msgstr "Test affiliate"
 
 msgid "Affiliate ID"
-msgstr ""
+msgstr "ID affiliate"
 
 msgid "Affiliate ID not defined in the theme"
-msgstr ""
+msgstr "ID affilate není v šabloně definováno"
 
 msgid "Affiliate Key"
-msgstr ""
+msgstr "Klíč affialite"
 
 msgid "Affiliate KEY not defined in the theme"
-msgstr ""
+msgstr "Klíč affiliate není v šabloně definován"
 
 msgid "Congratulations! Your affiliate information is correct."
-msgstr ""
+msgstr "Gratulujeme! Vaše affiliate informace jsou správné."
 
 msgid "Sorry, the affiliate information did not validate."
-msgstr ""
+msgstr "Je nám líto, ale affiliate informace nebyly ověřeny."
 
 msgid "Test"
-msgstr ""
+msgstr "Testovat"
 
 msgid "the default language"
-msgstr ""
+msgstr "výchozí jazyk"
 
 msgid "Setup WPML"
 msgstr "Nastavit WPML"
 
 msgid "Comments translation"
-msgstr ""
+msgstr "Překlad komentářů"
 
 msgid ""
 "Your current admin language is %s. You can change it in your <a href=\"%s"
 "\">profile page</a>."
 msgstr ""
+"Váš současný jazyk administrace je %s. Můžete jej změnit na vaší <a href=\"%s"
+"\">profilové stránce</a>."
 
 msgid ""
 "To translate your replies, you need to enable <a href=\"%s\">professional "
 "translation</a>."
 msgstr ""
+"Pro přeložení vašich odpovědí musíte povolit <a href=\"%s\">profesionální "
+"překlad</a>."
 
 msgid ""
 "Visitor comments can be translated to and from each user’s language. "
 "Different users can choose their language preferences in their profile pages."
 msgstr ""
+"Komentáře návštěvníků mohou být přeloženy do a z každého uživatelského "
+"jazyku. Různí uživatelé si mohou vybrat své jazykové preference na stránkách "
+"profilu."
 
 msgid "User login"
-msgstr ""
+msgstr "Login uživatele"
 
 msgid "Translate comments by visitors"
-msgstr ""
+msgstr "Přeložit komentáře od návštěvníků"
 
 msgid "Translate replies"
-msgstr ""
+msgstr "Přeložit odpovědi"
 
 msgid "Save"
 msgstr "Uložit"
 
 msgid "Compatibility packages"
-msgstr ""
+msgstr "Kompatibilní balíčky"
 
 msgid ""
 "WPML compatibility packages will soon be obsolete and removed. Please use "
 "other means to make your site multilingual-ready."
 msgstr ""
+"Kompatibilní balíčky budou ve WPML brzy zbytečné a budou odstraněny. "
+"Použijte prosím jiné způsoby pro připravu vašeho webu na multisite."
 
 msgid "Packages list updated"
-msgstr ""
+msgstr "Seznam balíčků aktualizován"
 
 msgid "Package name"
-msgstr ""
+msgstr "Název balíčku"
 
 msgid "Version"
 msgstr "Verze"
 
 msgid "Description"
-msgstr ""
+msgstr "Popis"
 
 msgid "Used for theme"
-msgstr ""
+msgstr "Použit pro šablonu"
 
 msgid "Used for plugin"
-msgstr ""
+msgstr "Použit pro plugin"
 
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 msgid "No packages found"
-msgstr ""
+msgstr "Nebyly nalezeny žádné balíčky"
 
 msgid "Update"
-msgstr ""
+msgstr "Aktualizovat"
 
 msgid "hidden"
-msgstr ""
+msgstr "skrytý"
 
 msgid "Current configuration"
-msgstr ""
+msgstr "Aktuální konfigurace"
 
 msgid "Translate by WPML"
-msgstr ""
+msgstr "Přeložit pomocí WPML"
 
 msgid "Using a .mo file in the theme directory"
-msgstr ""
+msgstr "Použít .mo soubor ve složce šablony"
 
 msgid "No localization"
-msgstr ""
+msgstr "Žádná lokalizace"
 
 msgid "Manage theme and plugins localization"
-msgstr ""
+msgstr "Spravovat lokalizace šablony a pluginů"
 
 msgid "Setup languages"
-msgstr ""
+msgstr "Nastavit jazyky"
 
 msgid "Site languages:"
 msgstr "Jazyky stránek:"
@@ -888,63 +956,65 @@ msgid "Help resources"
 msgstr "Zdroje nápovědy"
 
 msgid "WPML home page"
-msgstr ""
+msgstr "Domovská stránka WPML"
 
 msgid "Commercial support"
-msgstr ""
+msgstr "Komerční podpora"
 
 msgid "WPML news"
 msgstr "Novinky ve WPML"
 
 msgid "Upload directory cannot be created. Check your permissions."
-msgstr ""
+msgstr "Složka pro nahrání nemůže být vytvořena. Zkontrolujte práva."
 
 msgid "Upload dir is not writable"
-msgstr ""
+msgstr "Do složky pro nahrávání není povolen zápis"
 
 msgid ""
 "Are you sure you want to delete this language?%sALL the data associated with "
 "this language will be ERASED!"
 msgstr ""
+"Jste si jisti, že chcete tento jazyk vymazat?%sVšechna data spojená s tímto "
+"jazykem budou VYMAZÁNA!"
 
 msgid "Please, enter valid data."
-msgstr ""
+msgstr "Vložte prosím platné údaje."
 
 msgid "Error adding translation %s for %s."
-msgstr ""
+msgstr "Chyba při přidávání překladu %s pro %s."
 
 msgid "Error uploading flag file."
-msgstr ""
+msgstr "Chyba při nahrávání souboru s vlajkou."
 
 msgid "Adding language failed."
-msgstr ""
+msgstr "Přidávání jazyku selhalo."
 
 msgid "Error adding native name."
-msgstr ""
+msgstr "Chyba při přidávání původního názvu."
 
 msgid "Error adding flag."
-msgstr ""
+msgstr "Chyba při přidávání vlajky."
 
 msgid "Language code exists"
-msgstr ""
+msgstr "Kód jazyku už existuje"
 
 msgid "Please, enter required data."
-msgstr ""
+msgstr "Vložte prosím povinné údaje."
 
 msgid "Error: This is a built in language. You can't delete it."
-msgstr ""
+msgstr "Chyba: Toto je vestavěný jazyk, který nemůžete smazat."
 
 msgid "The language %s was deleted."
-msgstr ""
+msgstr "Jazyk %s byl smazán."
 
 msgid "Error: Language not found."
-msgstr ""
+msgstr "Chyba: Jazyk nebyl nalezen."
 
 msgid "File extension not allowed."
-msgstr ""
+msgstr "Přípona souboru není povolena."
 
 msgid "There was an error uploading the file, please try again!"
-msgstr ""
+msgstr "Při nahrávání souboru se stala chyba, zkuste to prosím znovu!"
 
 msgid "Edit Languages"
 msgstr "Upravit jazyky"
@@ -988,6 +1058,8 @@ msgid ""
 "Please note: language codes cannot be changed after adding languages. Make "
 "sure you enter the correct code."
 msgstr ""
+"Mějte na paměti: Kódy jazyků nemohou být po přidání jazyků měněny. Ujistěte "
+"se, že vkládáte správný kód."
 
 msgid "Language name"
 msgstr "Název jazyku"
@@ -996,7 +1068,7 @@ msgid "Code"
 msgstr "Kód"
 
 msgid "Translation (new)"
-msgstr ""
+msgstr "Překlad (nový)"
 
 msgid "Flag"
 msgstr "Vlajka"
@@ -1017,7 +1089,7 @@ msgid "Add Language"
 msgstr "Přidat jazyk"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 msgid "Reset languages"
 msgstr "Obnovit jazyky"
@@ -1026,6 +1098,8 @@ msgid ""
 "WPML will reset all language information to its default values. Any "
 "languages that you added or edited will be lost."
 msgstr ""
+"WPML obnoví veškeré informace všech jazyků na výchozí. Jakékoliv přidané "
+"jazyky budou upraveny nebo ztraceny."
 
 msgid "Upload flag"
 msgstr "Nahrát vlajku"
@@ -1044,39 +1118,47 @@ msgid ""
 "You can enable them back from Translation Management / Multilingual Content "
 "setup."
 msgstr ""
+"Pro potvrzení klikněte na OK.\n"
+"Jazyky můžete zase zapnout zpět ve Správa překladu - Nastavení vícejazyčného "
+"obsahu."
 
 msgid "Hide reminders"
-msgstr ""
+msgstr "Skrýt upozornění"
 
 msgid "Expand reminders"
-msgstr ""
+msgstr "Rozbalit upozornění"
 
 msgid "Collapse reminders"
-msgstr ""
+msgstr "Schovat upozornění"
 
 msgid ""
 "Please go to the <a href=\"%s\">Plugins</a> page and enable the WPML "
 "Multilingual CMS plugin before trying to configure the plugin."
 msgstr ""
+"Běžte prosím na stránku <a href=\"%s\">Pluginy</a> a zapněte plugin "
+"Vícejazyčné CMS WPML předtím, než se budete pokoušet plugin nakonfigurovat."
 
 msgid "Next"
 msgstr "Dále"
 
 msgid "Please save the settings first by clicking Save."
-msgstr ""
+msgstr "Uložte prosím nejprve nastavení kliknutím na Uložit."
 
 msgid "When WPML accesses <a target=\"_blank\" href=\"%s\">%s</a> it gets:"
 msgstr ""
+"Jakmile WPML přistoupí na <a target=\"_blank\" href=\"%s\">%s</a> dostane:"
 
 msgid "HTTP code: %s (%s)"
-msgstr ""
+msgstr "HTTP kód: %s (%s)"
 
 msgid "The expected value is: %s"
-msgstr ""
+msgstr "Očekáváná hodnota je: %s"
 
 msgid ""
 "Theme has changed and widget is not active. Please visit %swidgets page%s."
 msgstr ""
+"Došlo ke změně šablony a widget už není aktivní. Navštivte prosím %sstránku "
+"widgetů%s."
 
 msgid ""
 "The drop-down language switcher can be added to your theme by inserting this "
@@ -1092,7 +1174,7 @@ msgid "List of languages"
 msgstr "Seznam jazyků"
 
 msgid "Are you sure you want to reset to the default settings?"
-msgstr ""
+msgstr "Jste si jisti, že chcete obnovit na výchozí nastavení?"
 
 msgid "Finish"
 msgstr "Dokončit"
@@ -1118,7 +1200,7 @@ msgstr ""
 "- <a href=\"%s\">číst více</a>"
 
 msgid "The WPML Multilingual CMS plugin is not currently enabled."
-msgstr ""
+msgstr "Vícejazyčné CMS WPML není v současnosti zapnuté."
 
 msgid "Before you can start using WPML, it needs to be set up"
 msgstr "Předtím, než WPML začnete používat, je nutné jej nastavit"
@@ -1198,6 +1280,8 @@ msgid ""
 "In order to edit or delete these you need to activate the corresponding "
 "language first"
 msgstr ""
+"Pokud chcete upravit nebo vymazat tyto možnosti, musíte nejprve aktivovat "
+"příslušný jazyk."
 
 msgid "Posts"
 msgstr "Příspěvky"
@@ -1561,46 +1645,46 @@ msgid "Dashboard"
 msgstr "Nástěnka"
 
 msgid "You are about to activate the site %s"
-msgstr ""
+msgstr "Chystáte se aktivovat stránku %s"
 
 msgid "Activate"
-msgstr ""
+msgstr "Aktivovat"
 
 msgid "You are about to deactivate the site %s"
-msgstr ""
+msgstr "Chystáte se deaktivovat stránku %s"
 
 msgid "Deactivate"
-msgstr ""
+msgstr "Deaktivovat"
 
 msgid "You are about to unarchive the site %s."
-msgstr ""
+msgstr "Chystáte se zrušit archivaci stránky %s."
 
 msgid "Unarchive"
-msgstr ""
+msgstr "Zrušit archivaci"
 
 msgid "You are about to archive the site %s."
-msgstr ""
+msgstr "Chystáte se archivovat stránku %s."
 
 msgid "Archive"
-msgstr ""
+msgstr "Archivovat"
 
 msgid "You are about to unspam the site %s."
-msgstr ""
+msgstr "Chystáte se zrušit spam stránky %s."
 
 msgid "Not Spam"
-msgstr ""
+msgstr "Není spam"
 
 msgid "You are about to mark the site %s as spam."
-msgstr ""
+msgstr "Chystáte se označit stránku %s jako spam."
 
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 msgid "You are about to delete the site %s."
-msgstr ""
+msgstr "Chystáte se smazat stránku %s."
 
 msgid "Visit"
-msgstr ""
+msgstr "Navštívit"
 
 msgid "You are about to deactivate WPML on the site %s."
 msgstr "Chystáte se deaktivovat WPML pro tento web %s."
@@ -1616,7 +1700,7 @@ msgstr ""
 "ztraceny. Nemohou být později obnoveny."
 
 msgid "Site"
-msgstr ""
+msgstr "Stránka"
 
 msgid "Status"
 msgstr "Stav"
@@ -1631,10 +1715,10 @@ msgid "Reset"
 msgstr "Obnovit"
 
 msgid "This document is a duplicate of %s and it is maintained by WPML."
-msgstr ""
+msgstr "Tento dokument je duplikátem %s a je spravován pomocí WPML."
 
 msgid "WPML will no longer synchronize this %s with the original content."
-msgstr ""
+msgstr "WPML nebude dále synchronizovat tuto %s s originálním obsahem."
 
 msgid "Language of this %s"
 msgstr "Jazyk tohoto %s"
@@ -1652,27 +1736,29 @@ msgid "In progress (by a different translator). <a%s>Learn more</a>."
 msgstr "probíhající (zpracovává odlišný překladatel). <a%s>Zjistit více</a>."
 
 msgid "You are not the translator of this document. <a%s>Learn more</a>."
-msgstr ""
+msgstr "Nejste překladatelem tohoto dokumentu. <a%s>Zjistit více</a>."
 
 msgid "Update translation"
-msgstr ""
+msgstr "Aktualizovat překlad"
 
 msgid "You can't edit the original document using the translation editor"
-msgstr ""
+msgstr "Nemůžete upravovat původní dokument použitím editoru překladu."
 
 msgid "Translation is in progress"
-msgstr ""
+msgstr "Překlad probíhá"
 
 msgid "duplicate"
-msgstr ""
+msgstr "duplikát"
 
 msgid "Overwrite with %s content."
-msgstr ""
+msgstr "Přepsat %s obsahem."
 
 msgid ""
 "The current content of this %s will be permanently lost. WPML will copy the "
 "%s content and replace the current content."
 msgstr ""
+"Současný obsah této %s bude permanentně ztracen. WPML zkopíruje obsah %s a "
+"nahradí obsah současný."
 
 msgid ""
 "This operation will synchronize this translation with the original language. "
@@ -1680,33 +1766,37 @@ msgid ""
 "meant when you want the content in this language to always be the same as "
 "the content in the original language."
 msgstr ""
+"Tato operace synchronizuje překlad s původním jazykem. Jakmile upravíte "
+"originál, tento překlad se hned aktualizuje. Tato funkce je vhodná pro "
+"případ, kdy chcete mít obsah v tomto jazyce vždy stejný jako v originálním."
 
 msgid "create duplicate"
-msgstr ""
+msgstr "vytvořit duplikát"
 
 msgid "Can't create a duplicate. A translation is in progress."
-msgstr ""
+msgstr "Nelze vytvořit duplikát, překlad probíhá."
 
 msgid "Can't create a duplicate. The parent of this post is not translated."
 msgstr ""
+"Nelze vytvořit duplikát. Nadřazená položka tohoto příspěvku není přeložená."
 
 msgid "Translate independently"
-msgstr ""
+msgstr "Přeložit nezávisle"
 
 msgid "or, translate manually:"
-msgstr ""
+msgstr "nebo přeložit ručně:"
 
 msgid "Translate yourself"
-msgstr ""
+msgstr "Přeložit svépomocí"
 
 msgid "Translations"
-msgstr ""
+msgstr "Překlady"
 
 msgid "hide"
-msgstr ""
+msgstr "skrýt"
 
 msgid "show"
-msgstr ""
+msgstr "zobrazit"
 
 msgid "Plugin Name"
 msgstr "Jméno pluginu"
@@ -1774,21 +1864,23 @@ msgid "all %s"
 msgstr "všechny %s"
 
 msgid "Translate %s in %s"
-msgstr ""
+msgstr "Přeložit %s v %s"
 
 msgid "%d items"
-msgstr ""
+msgstr "%d položek"
 
 msgid "Translate the %s labels"
-msgstr ""
+msgstr "Přeložit %s názvy"
 
 msgid ""
 "This table lets you translate the labels for taxonomy %s. These translations "
 "will appear in the WordPress admin in different languages"
 msgstr ""
+"Tato tabulka vám umožní přeložit názvy pro taxonomii %s. Tyto překlady se "
+"objeví ve WordPress administraci v různých jazycích."
 
 msgid "The strings on the first column are in %s (the strings language)"
-msgstr ""
+msgstr "Řetězce v prvním sloupci jsou v %s (jazyk řetězců)"
 
 msgid "Synchronize %s assignment in content"
 msgstr "Synchronizovat přiřazení v obsahu u %s"
@@ -1908,13 +2000,18 @@ msgid ""
 "WPML last checked for WordPress translations %s when WordPress version "
 "updated. <a%s>Check now.</a>"
 msgstr ""
+"WPML naposled kontrolovalo překlady WordPressu %s, když byla verze "
+"WordPressu aktualizována. <a%s>Zkontrolovat nyní.</a>"
 
 msgid ""
 "WPML last checked for WordPress translations %s (manual). <a%s>Check now.</a>"
 msgstr ""
+"WPML naposled kontrolovalo překlady WordPressu %s (ručně), když byla verze "
+"WordPressu aktualizována. <a%s>Zkontrolovat nyní.</a>"
 
 msgid "WPML has never checked for WordPress translations. <a%s>Check now.</a>"
 msgstr ""
+"WPML nikdy nekontrolovalo překlady WordPressu. <a%s>Zkontrolovat nyní.</a>"
 
 msgid "Select how to localize the theme"
 msgstr "Vyberte jak překládat šablonu"
@@ -1956,13 +2053,13 @@ msgstr ""
 "ve vašem souboru wp_config.php."
 
 msgid "Review changes and update"
-msgstr ""
+msgstr "Zkontrolovat změny a aktualizovat"
 
 msgid "Translation options"
 msgstr "Možnosti překladu"
 
 msgid "PRO translation was reset."
-msgstr ""
+msgstr "Pro překlad byl obnoven."
 
 msgid "Troubleshooting"
 msgstr "Odstraňování problémů"
@@ -1994,13 +2091,13 @@ msgstr ""
 "přenastavit WPML a značit ji jako přeložitelnou."
 
 msgid "Are you sure you want to reset the PRO translation configuration?"
-msgstr ""
+msgstr "Jste si jisti, že chtete obnovit konfiguraci PRO překladu?"
 
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 msgid "Response"
-msgstr ""
+msgstr "Odezva"
 
 msgid ""
 "Are you sure you want to reset all languages data? This operation cannot be "
@@ -2042,14 +2139,14 @@ msgstr ""
 "činnostech."
 
 msgid "Synchronize translation jobs with ICanLocalize"
-msgstr ""
+msgstr "Synchronizovat poptávky překladu s ICanLocalize"
 
 msgid ""
 "Fixes links between translation entries in the database and ICanLocalize."
-msgstr ""
+msgstr "Opraví odkazy mezi položkami překladů v databázi ICanLocalize."
 
 msgid "CMS ID fix"
-msgstr ""
+msgstr "CMS ID fix"
 
 msgid ""
 "Updates translation in progress with new style identifiers for documents. "
@@ -2057,6 +2154,9 @@ msgid ""
 "languages so it's not possible to get out of sync when translations are "
 "being deleted locally."
 msgstr ""
+"Aktualizuje probíhající překlad a novým stylem identifikátorů pro dokumenty. "
+"Nové identifikátory závisí na překládaném dokumentu a jazycích, tudíž není "
+"možné poškodit synchronizaci, když jsou překlady lokálně smazány."
 
 msgid "General clean up"
 msgstr "Generální úklid"
@@ -2119,9 +2219,9 @@ msgid ""
 "you have in progress. Only use this function if your ICanLocalize account "
 "doesn't include any jobs, or if the account was deleted."
 msgstr ""
-"Obnovení vašeho ICanLocalize účtu přeruší všechny probíhající překladové "
-"zakázky. Použijte tuto funkci jen v případě, že váš ICanLocalize účet "
-"neobsahuje žádné zakázky nebo byl smazán."
+"Obnovení vašeho ICanLocalize účtu přeruší všechny probíhající poptávky "
+"překladu. Použijte tuto funkci jen v případě, že váš ICanLocalize účet "
+"neobsahuje žádné poptávky nebo byl smazán."
 
 msgid "I am about to reset the ICanLocalize project setting."
 msgstr "Chystám se obnovit nastavení projektu ICanLocalize."
@@ -2139,85 +2239,92 @@ msgid "This function is available through the Network Admin section."
 msgstr "Tato funkce je k dispozici v části Nastavení sítě."
 
 msgid "Go to WPML Network settings."
-msgstr ""
+msgstr "Jít na Síťové nastavení WPML."
 
 msgid "You are not allowed to manage the WPML Network settings."
-msgstr ""
+msgstr "Nejste oprávněni spravovat Síťové nastavení WPML."
 
 msgid "translation controls on posts and pages lists"
-msgstr ""
+msgstr "ovládání překladu u seznamu příspěvků a stránek"
 
 msgid ""
 "huge speed improvements and the ability to prevent loading WPML's CSS and JS "
 "files"
 msgstr ""
+"velká vylepšení rychlosti a možnost zamezit načtení CSS a JS souborů WPML"
 
 msgid ""
 "you can configure the position and contents of the posts page in the top "
 "navigation"
-msgstr ""
+msgstr "v horní navigaci můžete nastavit pozici a obsah na stránce příspěvků"
 
 msgid "many bugs fixed and an easy way to show your love for WPML"
 msgstr ""
+"mnoho chyb bylo opraveno a toto je jednoduchý způsob, jak vyznat WPML lásku"
 
 msgid ""
 "simplified operation for basic usage and for getting professional translation"
 msgstr ""
+"zjednodušení činností pro základní použití a pro získání profesionálního "
+"překladu"
 
 msgid ""
 "theme compatibility packages, design for language switcher and language fall-"
 "back for posts"
 msgstr ""
+"balíčky kompatibilních šablon, design pro přepínače jazyku a jazykový fall-"
+"back pro příspěvky"
 
 msgid "bugs fixed and new support for Headspace2 SEO plugin"
-msgstr ""
+msgstr "chyby opraveny a nově podpora pro SEO plugin Headspace2"
 
 msgid "WPML can now translate other plugins"
-msgstr ""
+msgstr "WPML nyní umí překládat další pluginy"
 
 msgid "WPML adapts to any WordPress theme"
-msgstr ""
+msgstr "WPML se přizpůsobí jakékoliv WordPress šabloně"
 
 msgid "Home-page link automatically adjusts per language"
-msgstr ""
+msgstr "Odkaz na domovskou stránku se automaticky přízpůsobí podle jazyku"
 
 msgid "Bug fixes and stability improvements"
-msgstr ""
+msgstr "Opravy chyb a vylepšení stability"
 
 msgid "Added languages editing and translation for admin-texts"
-msgstr ""
+msgstr "Přidány úpravy jazyků a překlady pro texty administrace"
 
 msgid "Works with WordPress 3"
-msgstr ""
+msgstr "Pracuje s WordPressem 3"
 
 msgid ""
 "Supports custom taxonomies and lots of bug fixes for tags and categories"
-msgstr ""
+msgstr "Podporuje vlastní taxonomie a opravuje mnoho chyb u štítků a rubrik"
 
 msgid "Supports custom post types"
-msgstr ""
+msgstr "Podporuje vlastní typy příspěvků"
 
 msgid "Supports multilingual menus"
-msgstr ""
+msgstr "Podporuje vícejazyčná menu"
 
 msgid "Multilingual menus bug fixes and improved translation interface"
-msgstr ""
+msgstr "Opravy chyb vícejazyčných menu a vylepšené rozhraní překladu"
 
 msgid "New Translator role and full translation management workflow"
-msgstr ""
+msgstr "Nová role překladatele a rozhraní pro plnou správu překladu"
 
 msgid ""
 "WPML can automatically download translations for WordPress. %sEnable now%s"
 msgstr ""
+"WPML může automaticky stahovat překlady pro WordPress. %sZapnout nyní%s"
 
 msgid "New in WPML %s: <b>%s</b>"
-msgstr ""
+msgstr "Nové ve WPML %s: <b>%s</b>"
 
 msgid "Learn more"
-msgstr ""
+msgstr "Zjistit více"
 
 msgid "Stop showing this message"
-msgstr ""
+msgstr "Zastavit zobrazování této zprávy"
 
 msgid ""
 "You haven't set your synchronization preferences for these custom posts: %s. "
@@ -2301,231 +2408,265 @@ msgid "Synchronize comments on duplicate content"
 msgstr "Synchronizovat komentáře v duplikovaném obsahu"
 
 msgid "<i>%s</i> integration"
-msgstr ""
+msgstr "<i>%s</i> integrace"
 
 msgid "Automatically clear the cache when strings are translated"
-msgstr ""
+msgstr "Automaticky vyčistit cache při překladu řetězců"
 
 msgid "I will clear the cache manually after translating strings"
-msgstr ""
+msgstr "Vyčistím cache ručně po přeložení řetězců"
 
 msgid "Clear cache now"
-msgstr ""
+msgstr "Vyčistit cache nyní"
 
 msgid ""
 "You are using a caching plugin. When you translate strings, the cache needs "
 "to be cleared in order for the translation to display."
 msgstr ""
+"Používáte cachingový plugin. Pokud překládáte řetězce, cache musí být "
+"vyčištěna pro zobrazení překladu."
 
 msgid ""
 "<p>In order to enable ICanLocalize translation, your site needs to be on a "
 "public server (not localhost). Please <a%s>contact us</a> for support. </"
 "p><p>Show <a%s>debug information</a>.</p>"
 msgstr ""
+"<p>Pro zapnutí ICanLocalize překladů musí být váš web na veřejném serveru "
+"(ne na localhostu). <a%s>Kontaktujte nás</a> pro podporu. </p><p>Zobrazit <a"
+"%s>debug informace</a>.</p>"
 
 msgid ""
 "There was a problem connecting to ICanLocalize. Please close this window and "
 "try again. If the problem persists please <a%s>contact us</a>."
 msgstr ""
+"Nastal problém s připojováním na ICanLocalize. Zavřete prosím okno a zkuste "
+"to znovu. Pokud problém přetrvává, <a%s>kontaktujte nás</a>."
 
 msgid "Possible login hack attempt"
-msgstr ""
+msgstr "Možný pokus o hack loginu"
 
 msgid "Adding translation for: %s."
-msgstr ""
+msgstr "Přidávání překladu pro: %s."
 
 msgid ""
 "- (No translators available - please %sprovide more information about your "
 "site%s)"
 msgstr ""
+"- (Nejsou k dispozici žádní překladatelé - %sposkytněte nám prosím více "
+"informací o vašem webu%s)"
 
 msgid "- (No translators available - %scheck progress%s)"
-msgstr ""
+msgstr "- (Nejsou k dispozici žádní překladatelé - %szkontrolovat průběh%s)"
 
 msgid "Select translators"
-msgstr ""
+msgstr "Vyberte překladatele"
 
 msgid "Communicate with %s"
-msgstr ""
+msgstr "Komunikovat s %s"
 
 msgid "Professional translation not enabled"
-msgstr ""
+msgstr "Profesionální překlad není zapnutý"
 
 msgid "Data saved"
-msgstr ""
+msgstr "Data uložena"
 
 msgid "Error: data not saved"
-msgstr ""
+msgstr "Chyba: Data nebyla uložena"
 
 msgid ""
 "To add categories that already exist in other languages go to the <a"
 "%s>category management page</a>"
 msgstr ""
+"K přidání rubrik, které už existují v jiných jazycích přejdětě prosím na <a"
+"%s>stránku správy rubriky</a>"
 
 msgid ""
 "WPML can't run normally. There is an installation or server configuration "
 "problem. %sShow details%s"
 msgstr ""
+"WPML nemůže normálně běžet. Nastal problém s instalací nebo konfigurací "
+"serveru. %sZobrazit detaily%s"
 
 msgid "AJAX Error:"
-msgstr ""
+msgstr "Chyba AJAXu:"
 
 msgid "Private"
-msgstr ""
+msgstr "Soukromý"
 
 msgid "Never show this."
-msgstr ""
+msgstr "Toto nikdy nezobrazovat."
 
 msgid "WPML will copy %s from %s when you save this post."
-msgstr ""
+msgstr "WPML zkopíruje %s z %s při uložení tohoto příspěvku."
 
 msgid "Sticky"
-msgstr ""
+msgstr "Zvýrazněný"
 
 msgid "A project on ICanLocalize has been created."
-msgstr ""
+msgstr "Projekt na ICanLocalize byl vytvořen."
 
 msgid "Project added"
-msgstr ""
+msgstr "Projekt přidán"
 
 msgid ""
 "Please provide a short description of the website so that translators know "
 "what background is required from them."
 msgstr ""
+"Napište prosím krátký popis webu, aby překladatelé věděli, jaké požadavky by "
+"měli splňovat."
 
 msgid "Multilingual Content Setup"
-msgstr ""
+msgstr "Nastavení vícejazyčného obsahu"
 
 msgid ""
 "This post cannot be deleted or trashed: please delete translated versions "
 "first."
 msgstr ""
+"Tento příspěvek nemůže být smazán nebo přesunut do koše: smažte prosím "
+"nejprve přeloženou verzi."
 
 msgid "Settings saved"
-msgstr ""
+msgstr "Nastavení uloženo"
 
 msgid "Make '%s' translatable"
-msgstr ""
+msgstr "Učinit '%s' přeložitelný"
 
 msgid ""
 "Note: Custom taxonomies and custom fields are shared across different post "
 "types."
 msgstr ""
+"Poznámka: Vlastní taxonomie a uživatelská pole jsou sdílena napříč různými "
+"typy příspěvků."
 
 msgid "How to translate"
-msgstr ""
+msgstr "Jak překládat"
 
 msgid "Are you sure you want to remove this button?"
-msgstr ""
+msgstr "Jste si jisti, že chcete toto tlačítko odstranit?"
 
 msgid "Main Page (no parent)"
-msgstr ""
+msgstr "Hlavní stránka (bez nadřazené)"
 
 msgid ""
 "Your home page does not exist or its translation is not published in %s."
 msgstr ""
+"Vaše domovská stránka neexistuje nebo není její překlad v %s publikován."
 
 msgid "Edit this page to add translations"
-msgstr ""
+msgstr "Upravit tuto stránku k přidání překladů"
 
 msgid ""
 "Your blog page does not exist or its translation is not published in %s."
-msgstr ""
+msgstr "Vaše stránka blogu neexistuje nebo není její překlad v %s publikován."
 
 msgid ""
 "WPML admin screens require JavaScript in order to display. JavaScript is "
 "currently off in your browser."
 msgstr ""
+"Administrační obrazovky WPML k zobrazení vyžadují JavaScript. JavaScript je "
+"ve vašem prohlížeči aktuálně vypnutý."
 
 msgid "Default admin language (currently %s)"
-msgstr ""
+msgstr "Výchozí jazyk administrace (aktuálně %s)"
 
 msgid "Update %s translation"
-msgstr ""
+msgstr "Aktualizovat překlad %s"
 
 msgid "Edit the %s translation"
-msgstr ""
+msgstr "Upravit překlad %s"
 
 msgid ""
 "You can't edit this translation because you're not the translator. <a"
 "%s>Learn more.</a>"
 msgstr ""
+"Tento překlad nemůžete upravit, protože nejste překladatel. <a%s>Zjistit "
+"více.</a>"
 
 msgid ""
 "You can't edit this translation because you're not a %s translator. <a"
 "%s>Learn more.</a>"
 msgstr ""
+"Tento překlad nemůžete upravit, protože nejste %s překladatel. <a%s>Zjistit "
+"více.</a>"
 
 msgid "Edit the original document"
-msgstr ""
+msgstr "Upravit originální dokument"
 
 msgid "Translation to %s is in progress"
-msgstr ""
+msgstr "Překlad do %s probíhá"
 
 msgid "Add translation to %s"
-msgstr ""
+msgstr "Přidat překlad do %s"
 
 msgid "Translation to %s is in progress (by a different translator)"
-msgstr ""
+msgstr "Překlad do %s probíhá (jiným překladatelem)"
 
 msgid "Translation to %s is maintained by a different translator"
-msgstr ""
+msgstr "Překlad do %s je udržován jiným překladatelem"
 
 msgid ""
 "You can't add this translation because you're not a %s translator. <a"
 "%s>Learn more.</a>"
 msgstr ""
+"Tento překlad nemůžete přidat, protože nejste %s překladatelem. <a%s>Zjistit "
+"více.</a>"
 
 msgid "Get %s translators"
-msgstr ""
+msgstr "Získat %s překladatele"
 
 msgid ""
 "<a href=\"%s\"%s>Multilingual WordPress</a> by <a href=\"%s\" rel=\"nofollow"
 "\">ICanLocalize</a>"
 msgstr ""
+"<a href=\"%s\"%s>Vícejazyčný WordPress</a> by <a href=\"%s\" rel=\"nofollow"
+"\">ICanLocalize</a>"
 
 msgid "A translation for this post already exists"
-msgstr ""
+msgstr "Překlad tohoto příspěvku už existuje"
 
 msgid "A translation in this language already exists"
-msgstr ""
+msgstr "Překlad v tomto jazyce už existuje"
 
 msgid "Invalid language code"
-msgstr ""
+msgstr "Neplatný kód jazyku"
 
 msgid "Send documents to translation"
-msgstr ""
+msgstr "Poslat dokumenty k překladu"
 
 msgid "Deposit payment"
-msgstr ""
+msgstr "Platba zálohy"
 
 msgid "Translations will be returned to your site"
-msgstr ""
+msgstr "Překlady budou vráceny na váš web"
 
 msgid "Setup check list"
-msgstr ""
+msgstr "Nastavit check list"
 
 msgid "Help"
-msgstr ""
+msgstr "Nápověda"
 
 msgid "Get help"
-msgstr ""
+msgstr "Získat nápovědu"
 
 msgid ""
 "You haven't set your <a %s>synchronization preferences</a> for these custom "
 "posts: %s. Default value was selected."
 msgstr ""
+"Pro tyto vlastní příspěvky jste nenastavili vaše <a %s>preference "
+"synchronizace</a>: %s. Byly vybrány výchozí hodnoty."
 
 msgid ""
 "You haven't set your <a %s>synchronization preferences</a> for these "
 "taxonomies: %s. Default value was selected."
 msgstr ""
+"Pro tyto taxonomie jste nenastavili vaše <a %s>preference synchronizace</a>: "
+"%s. Byly vybrány výchozí hodnoty."
 
 msgid "Multi-language | WPML %s"
 msgstr "Vícejazyčnost | WPML %s"
 
 msgid "Copy content from %s"
-msgstr ""
+msgstr "Zkopírovat obsah z %s"
 
 msgid ""
 "This operation copies the content from the original language onto this "
@@ -2533,49 +2674,56 @@ msgid ""
 "content, but keep translating in this language. This button is only enabled "
 "when there's no content in the editor."
 msgstr ""
+"Tato operace zkopíruje obsah z původního jazyku do tohoto překladu. Je "
+"určena pro případ, kdy chcete začít s původním obsahem, ale stále překládat "
+"do tohoto jazyku. Toto tlačítko je funkční pouze tehdy, když není v editoru "
+"žádný obsah."
 
 msgid "help"
-msgstr ""
+msgstr "nápověda"
 
 msgid "Showing content in:"
-msgstr ""
+msgstr "Zobrazení obsahu v:"
 
 msgid "hide this"
-msgstr ""
+msgstr "toto skrýt"
 
 msgid "Custom fields"
-msgstr ""
+msgstr "Uživatelská pole"
 
 msgid "Don't translate"
-msgstr ""
+msgstr "Nepřekládat"
 
 msgid "Copy"
-msgstr ""
+msgstr "Kopírovat"
 
 msgid "Nothing to configure."
-msgstr ""
+msgstr "Nic ke konfiguraci."
 
 msgid "WPML language settings"
-msgstr ""
+msgstr "Nastavení jazyků WPML"
 
 msgid "Select your language:"
-msgstr ""
+msgstr "Vyberte váš jazyk:"
 
 msgid ""
 "this will be your admin language and will also be used for translating "
 "comments."
 msgstr ""
+"toto bude váš jazyk administrace a bude také použit pro překládání komentářů."
 
 msgid "Set admin language as editing language."
-msgstr ""
+msgstr "Nastavit jazyk administrace jako jazyk úprav."
 
 msgid "Hidden languages:"
-msgstr ""
+msgstr "Skryté jazyky:"
 
 msgid ""
 "All languages are currently displayed. Choose what to do when site languages "
 "are hidden."
 msgstr ""
+"Všechny jazyky jsou aktuálně zobrazeny. Zvolte co udělat, jsou-li jazyky "
+"webu skryty."
 
 msgid "Display hidden languages"
 msgstr "Zobrazit skryté jazyky"
