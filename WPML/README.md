@@ -1,4 +1,4 @@
-WPML Multilingual CMS
+﻿WPML Multilingual CMS
 ====
 
 Překlad vytvořen pro verze:

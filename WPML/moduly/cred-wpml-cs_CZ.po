@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CRED WPML\n"
 "POT-Creation-Date: 2013-04-29 10:00+0200\n"
-"PO-Revision-Date: 2014-03-16 20:54+0100\n"
+"PO-Revision-Date: 2015-01-16 10:42+0100\n"
 "Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
 "Language-Team: webees.cz s.r.o. <jakubmachala@webees.cz>\n"
 "Language: cs_CZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.4\n"
+"X-Generator: Poedit 1.6.11\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: d:\\xampp\\htdocs\\wpml\\wp-content\\plugins\\cred-wpml-"
 "glue-plugin\n"
@@ -35,7 +35,7 @@ msgstr "Překlady"
 
 #: cred-wpml-glue.php:232
 msgid "Original content:"
-msgstr "Originální obsah:"
+msgstr "Původní obsah:"
 
 #: cred-wpml-glue.php:248
 msgid "Form for translating content"
@@ -43,15 +43,15 @@ msgstr "Formulář pro překládaný obsah"
 
 #: cred-wpml-glue.php:255
 msgid "Show the original content for translation"
-msgstr "Zobrazit originální obsah pro překlad"
+msgstr "Zobrazit původní obsah pro překlad"
 
 #: cred-wpml-glue.php:262
 msgid "Original content fields"
-msgstr "Pole originálního obsahu"
+msgstr "Pole původního obsahu"
 
 #: cred-wpml-glue.php:265
 msgid "Original content Fields (click to insert)"
-msgstr "Pole originálního obsahu (klikněte pro vložení)"
+msgstr "Pole původního obsahu (klikněte pro vložení)"
 
 #: cred-wpml-glue.php:266
 msgid "Close"
