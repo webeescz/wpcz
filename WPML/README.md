@@ -1,4 +1,4 @@
-﻿WPML Multilingual CMS
+WPML Multilingual CMS
 ====
 
 Překlad vytvořen pro verze:
@@ -17,6 +17,10 @@ WPML Sticky Links 1.3.2
 
 WPML Translation Analytics 1.0.3
 
-CRED Frontend Translation 1.1
+WooCommerce Gateways Country Limiter 1.0.3
+
+WooCommerce Multilingual Beta 3.4.4-b4
+
+CMS Beta Package 3.2-a4
 
 Powered by: http://www.webees.cz/
